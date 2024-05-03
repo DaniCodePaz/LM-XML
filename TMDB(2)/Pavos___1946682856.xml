@@ -1,0 +1,1003 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <nombre>Jason Statham</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/lldeQ91GwIVff43JBrpdbAAeYWj.jpg</foto>
+    <pelis>Megalodón, Transporter y Fast &amp; Furious 8</pelis>
+  </row>
+  <row>
+    <nombre>Emma Stone</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg</foto>
+    <pelis>Cruella, The Amazing Spider-Man y La Ciudad De Las Estrellas (La La Land)</pelis>
+  </row>
+  <row>
+    <nombre>Florence Pugh</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/f8e41Oon18FiEZr4zgyJDVUqOeh.jpg</foto>
+    <pelis>Midsommar, Viuda negra y Mujercitas</pelis>
+  </row>
+  <row>
+    <nombre>Sydney Sweeney</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/qYiaSl0Eb7G3VaxOg8PxExCFwon.jpg</foto>
+    <pelis>Euphoria, Cualquiera menos tú y Los Voyeurs</pelis>
+  </row>
+  <row>
+    <nombre>Guy Ritchie</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/9pLUnjMgIEWXi0mlHYzie9cKUTD.jpg</foto>
+    <pelis>Sherlock Holmes, Sherlock Holmes: Juego de sombras y Aladdín</pelis>
+  </row>
+  <row>
+    <nombre>Rebecca Ferguson</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/lJloTOheuQSirSLXNA3JHsrMNfH.jpg</foto>
+    <pelis>Dune, La chica del tren y Life (Vida)</pelis>
+  </row>
+  <row>
+    <nombre>Jeremy Piven</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/pqdR8zqAWF87chGYlbdYr0YfC7g.jpg</foto>
+    <pelis>Cars, Serendipity y Peligrosamente infiltrada</pelis>
+  </row>
+  <row>
+    <nombre>Millie Bobby Brown</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/cQoPC18cHBN1zYTbOy5hbpjZ5ls.jpg</foto>
+    <pelis>Stranger Things, Enola Holmes y Godzilla: Rey de los Monstruos</pelis>
+  </row>
+  <row>
+    <nombre>Cillian Murphy</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/2lKs67r7FI4bPu0AXxMUJZxmUXn.jpg</foto>
+    <pelis>Peaky Blinders, Oppenheimer y 28 días después</pelis>
+  </row>
+  <row>
+    <nombre>Theo James</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/lSC4cMhcQeCjPFkK6qCjSGDSeR3.jpg</foto>
+    <pelis>Divergente, La serie Divergente: Insurgente y La serie Divergente: Leal</pelis>
+  </row>
+  <row>
+    <nombre>Nicolas Cage</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/ar33qcWbEgREn07ZpXv5Pbj8hbM.jpg</foto>
+    <pelis>Los Croods, La búsqueda (National Treasure) y Ghost Rider: El motorista fantasma</pelis>
+  </row>
+  <row>
+    <nombre>Kaya Scodelario</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/eznQzv0KEssa0TdPjgmdeLP6WvS.jpg</foto>
+    <pelis>El corredor del laberinto, El corredor del laberinto: La cura mortal y El corredor del laberinto: Las pruebas</pelis>
+  </row>
+  <row>
+    <nombre>Timothée Chalamet</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/BE2sdjpgsa2rNTFa66f7upkaOP.jpg</foto>
+    <pelis>Call Me by Your Name, Dune y The King</pelis>
+  </row>
+  <row>
+    <nombre>Jodie Foster</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/resiaRfWvj4N84TgJi9DPOafCpq.jpg</foto>
+    <pelis>El silencio de los corderos, Taxi Driver y La habitación del pánico</pelis>
+  </row>
+  <row>
+    <nombre>Jenna Ortega</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/q1NRzyZQlYkxLY07GO9NVPkQnu8.jpg</foto>
+    <pelis>Miércoles, Scream y Scream VI</pelis>
+  </row>
+  <row>
+    <nombre>John Cena</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/rgB2eIOt7WyQjdgJCOuESdDlrjg.jpg</foto>
+    <pelis>Bumblebee, Ferdinand y El escuadrón suicida</pelis>
+  </row>
+  <row>
+    <nombre>Ana de Armas</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/3vxvsmYLTf4jnr163SUlBIw51ee.jpg</foto>
+    <pelis>Puñales por la espalda, Blade Runner 2049 y Juego de armas</pelis>
+  </row>
+  <row>
+    <nombre>Anna Sawai</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/eVliOvXvpuj3NkdZ9HRw6HLnglg.jpg</foto>
+    <pelis>Monarch: el legado de los monstruos, Fast &amp; Furious 9 y Ninja Assassin</pelis>
+  </row>
+  <row>
+    <nombre>Matt Damon</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/At3JgvaNeEN4Z4ESKlhhes85Xo3.jpg</foto>
+    <pelis>Marte (The Martian), El indomable Will Hunting y The Bourne Identity: El caso Bourne</pelis>
+  </row>
+  <row>
+    <nombre>Cosmo Jarvis</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/2jyOlRFRVEkc4MswaSqL2Xj4Lk4.jpg</foto>
+    <pelis>Aniquilación, Lady Macbeth y Persuasión</pelis>
+  </row>
+  <row>
+    <nombre>Pedro Pascal</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/9VYK7oxcqhjd5LAH6ZFJ3XzOlID.jpg</foto>
+    <pelis>The Mandalorian, The Last of Us y The Equalizer 2</pelis>
+  </row>
+  <row>
+    <nombre>Emily Blunt</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/5nCSG5TL1bP1geD8aaBfaLnLLCD.jpg</foto>
+    <pelis>Sicario, Un lugar tranquilo y Al filo del mañana</pelis>
+  </row>
+  <row>
+    <nombre>Carey Mulligan</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/2AzYEnTu78NQhEuMEk2To6mdNdM.jpg</foto>
+    <pelis>Drive, El gran Gatsby y Una joven prometedora</pelis>
+  </row>
+  <row>
+    <nombre>Anne Hathaway</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/yxonUjheNliiwkXKsy6BTONtyCx.jpg</foto>
+    <pelis>Interstellar, El diablo viste de Prada y El caballero oscuro: La leyenda renace</pelis>
+  </row>
+  <row>
+    <nombre>Robert Downey Jr.</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/im9SAqJPZKEbVZGmjXuLI4O7RvM.jpg</foto>
+    <pelis>Los Vengadores, Vengadores: Infinity War y Iron Man</pelis>
+  </row>
+  <row>
+    <nombre>Nicole Kidman</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/lfW2cDigTcvuoe4k6UfCdGVE1R6.jpg</foto>
+    <pelis>Los otros, La brújula dorada y Moulin Rouge</pelis>
+  </row>
+  <row>
+    <nombre>Tom Holland</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/yxYOaalFh8SUwNE5C0wzOwF89Ny.jpg</foto>
+    <pelis>Spider-Man. Homecoming, Spider-Man: No Way Home y Spider-Man. Lejos de casa</pelis>
+  </row>
+  <row>
+    <nombre>Jake Gyllenhaal</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/btORQRDyGCF0KNweGGYpmQXZK3P.jpg</foto>
+    <pelis>Donnie Darko, Nightcrawler y Zodiac</pelis>
+  </row>
+  <row>
+    <nombre>Hiroyuki Sanada</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/x6QHfdTvuuOclypoPqtdqQmlaGW.jpg</foto>
+    <pelis>Lobezno inmortal, La leyenda del samurái (47 Ronin) y Life (Vida)</pelis>
+  </row>
+  <row>
+    <nombre>Tom Hanks</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/sou8CHR4z5Mh2CpyUHxi7t0fnO4.jpg</foto>
+    <pelis>Forrest Gump, Toy Story (Juguetes) y La milla verde</pelis>
+  </row>
+  <row>
+    <nombre>Miles Wei</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/fT4v4LTDXGEFGHe7ZAaRTtqBFYM.jpg</foto>
+    <pelis>Amor inolvidable, Perfecto y casual y Only for Love</pelis>
+  </row>
+  <row>
+    <nombre>Glen Powell</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/lRbbndkwOXyvep9Y7kHiwbh9Ji5.jpg</foto>
+    <pelis>Top Gun: Maverick, Cómo deshacerte de tu jefe y Figuras ocultas</pelis>
+  </row>
+  <row>
+    <nombre>Kevin Costner</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/608blZipRDZkDpzp8VItB64qMaT.jpg</foto>
+    <pelis>Los intocables de Eliot Ness, Bailando con lobos y Waterworld</pelis>
+  </row>
+  <row>
+    <nombre>Scarlett Johansson</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/6bBCPmc55gzP7TR9Th4WbykrYd0.jpg</foto>
+    <pelis>Lucy, Viuda negra y Capitán América: El soldado de invierno</pelis>
+  </row>
+  <row>
+    <nombre>Austin Butler</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/jn63A9goIetyvJt5DTHypjk33ip.jpg</foto>
+    <pelis>Elvis, Érase una vez en… Hollywood y Las crónicas de Shannara</pelis>
+  </row>
+  <row>
+    <nombre>Denzel Washington</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/jj2Gcobpopokal0YstuCQW0ldJ4.jpg</foto>
+    <pelis>The equalizer (El protector), El libro de Eli y El vuelo (Flight)</pelis>
+  </row>
+  <row>
+    <nombre>Amanda Seyfried</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/gtBUIpZ3dvLpOMIVORxE6sHSyZj.jpg</foto>
+    <pelis>In Time, Querido John y Caperucita roja ¿A quién tienes miedo?</pelis>
+  </row>
+  <row>
+    <nombre>William Fichtner</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/wWtJOoaNAwPparpzMNuRBjvxwEf.jpg</foto>
+    <pelis>Ninja Turtles, El Llanero Solitario y El caballero oscuro</pelis>
+  </row>
+  <row>
+    <nombre>Liam Neeson</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/bboldwqSC6tdw2iL6631c98l2Mn.jpg</foto>
+    <pelis>La lista de Schindler, La guerra de las galaxias. Episodio I: La amenaza fantasma y Venganza</pelis>
+  </row>
+  <row>
+    <nombre>Hayley Atwell</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/zM53P3iVyEnRNEeotU4vCCv13II.jpg</foto>
+    <pelis>Capitán América: El primer vengador, Black Mirror y Capitán América: El soldado de invierno</pelis>
+  </row>
+  <row>
+    <nombre>Clint Eastwood</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/dU35NnjZ4aGw5abIJe3WXVf3Eey.jpg</foto>
+    <pelis>Gran Torino, Million Dollar Baby y El bueno, el feo y el malo</pelis>
+  </row>
+  <row>
+    <nombre>Shohreh Aghdashloo</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/vuE7zU05kmnalORwIzVTi8uIMRA.jpg</foto>
+    <pelis>X-Men: La decisión final, The Expanse y La casa del lago</pelis>
+  </row>
+  <row>
+    <nombre>Ian McShane</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/rteBJYNgD1yGsHg2HGZAIrYHz1t.jpg</foto>
+    <pelis>John Wick (Otro día para matar), John Wick: Pacto de sangre y John Wick: Capítulo 3 - Parabellum</pelis>
+  </row>
+  <row>
+    <nombre>Henry Cavill</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/dgTD7Q9owL3DyX9uYoSX9KZeUUz.jpg</foto>
+    <pelis>El hombre de acero, Batman vs Superman: El amanecer de la Justicia y Liga de la Justicia</pelis>
+  </row>
+  <row>
+    <nombre>Jason Momoa</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/6dEFBpZH8C8OijsynkSajQT99Pb.jpg</foto>
+    <pelis>Aquaman, La Liga de la Justicia de Zack Snyder y See</pelis>
+  </row>
+  <row>
+    <nombre>Jennifer Connelly</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/opBts8lC3ZhK4BQwl8ztczehsFQ.jpg</foto>
+    <pelis>Una mente maravillosa, Réquiem por un sueño y Noé</pelis>
+  </row>
+  <row>
+    <nombre>Rachel Weisz</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/msTqKPA33ryVtcVNgOdeaJGYq16.jpg</foto>
+    <pelis>La momia, Constantine y El regreso de la momia</pelis>
+  </row>
+  <row>
+    <nombre>Owen Wilson</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/ntN3DL1Us5G2PCvlfq112vLXRKa.jpg</foto>
+    <pelis>Cars, Midnight in Paris y Cars 3</pelis>
+  </row>
+  <row>
+    <nombre>Emma Watson</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/tvPPRGzAzdQFhlKzLbMO1EpuTJI.jpg</foto>
+    <pelis>La bella y la bestia, Harry Potter y las Reliquias de la Muerte - Parte 2 y Harry Potter y las Reliquias de la Muerte - Parte 1</pelis>
+  </row>
+  <row>
+    <nombre>Josh Brolin</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg</foto>
+    <pelis>No es país para viejos, Deadpool 2 y Gangster Squad: Brigada de élite</pelis>
+  </row>
+  <row>
+    <nombre>Danny DeVito</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/gNHF2SNXFFCRqwIQ2Xv6r6aV6UD.jpg</foto>
+    <pelis>Lorax. En busca de la trúfula perdida, Batman vuelve y Alguien voló sobre el nido del cuco</pelis>
+  </row>
+  <row>
+    <nombre>Morgan Freeman</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/jPsLqiYGSofU4s6BjrxnefMfabb.jpg</foto>
+    <pelis>Seven, Cadena perpetua y Lucy</pelis>
+  </row>
+  <row>
+    <nombre>Josh Hutcherson</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/awZRe7yQqj7eYLvURWxjk9TifOe.jpg</foto>
+    <pelis>Los Juegos del Hambre, Los Juegos del Hambre: En llamas y Los Juegos del Hambre: Sinsajo - Parte 1</pelis>
+  </row>
+  <row>
+    <nombre>Jackie Chan</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg</foto>
+    <pelis>Hora punta, Hora punta 2 y Hora punta 3</pelis>
+  </row>
+  <row>
+    <nombre>Samuel L. Jackson</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/nCJJ3NVksYNxIzEHcyC1XziwPVj.jpg</foto>
+    <pelis>Los odiosos ocho, Pulp Fiction y Kingsman: Servicio secreto</pelis>
+  </row>
+  <row>
+    <nombre>Saranya Pradeep</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/zGdjxXehk4Bashdfq4DpOqnVzc6.jpg</foto>
+    <pelis>Fidaa, Bhamakalapam y Kushi</pelis>
+  </row>
+  <row>
+    <nombre>Sirena Gulamgaus</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/jT4E7OwQ98m8pAi6ASIJ82HMrgM.jpg</foto>
+    <pelis>Chapelwaite, Código 8 (Parte 2) y Transplant</pelis>
+  </row>
+  <row>
+    <nombre>Scott Adkins</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/9NRr2a1riIn5CWn5McZLJlk4vxR.jpg</foto>
+    <pelis>Doctor Strange, Boyka: Invicto IV y Invicto 3: Redención</pelis>
+  </row>
+  <row>
+    <nombre>Jacob Elordi</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/khfLyxY9gsKiLFoz2zj0h3uhDFJ.jpg</foto>
+    <pelis>Mi primer beso 2, Mi primer beso y Euphoria</pelis>
+  </row>
+  <row>
+    <nombre>Keanu Reeves</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/4D0PpNI0kmP58hgrwGC3wCjxhnm.jpg</foto>
+    <pelis>Matrix, John Wick (Otro día para matar) y John Wick: Pacto de sangre</pelis>
+  </row>
+  <row>
+    <nombre>Alexandra Daddario</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/f5DsLRFDm2qLkVT8zmPsZ6d6Ngx.jpg</foto>
+    <pelis>San Andrés, Percy Jackson y el ladrón del rayo y Baywatch: Los vigilantes de la playa</pelis>
+  </row>
+  <row>
+    <nombre>Channing Tatum</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/xdnstENLdWMPWt9qyhtf695L4t6.jpg</foto>
+    <pelis>Infiltrados en clase, Asalto al poder y Infiltrados en la universidad</pelis>
+  </row>
+  <row>
+    <nombre>Daniel Ings</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/VHtgRMz5t0F8DEjYMxSmY09DTw.jpg</foto>
+    <pelis>Piratas del Caribe: En mareas misteriosas, The Marvels y Eddie el Águila</pelis>
+  </row>
+  <row>
+    <nombre>Kristen Stewart</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/ryhCjTGqS6G6OprbR0qUEH355lA.jpg</foto>
+    <pelis>Crepúsculo, La saga Crepúsculo: Luna nueva y La saga Crepúsculo:  Amanecer - Parte 1</pelis>
+  </row>
+  <row>
+    <nombre>Joey King</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/kL0lWLJA6lbvmPM3YL0ISE6rVr6.jpg</foto>
+    <pelis>Mi primer beso, Mi primer beso 2 y Bullet Train</pelis>
+  </row>
+  <row>
+    <nombre>Vanessa Kirby</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/iFvuPhFe0jJ1w3e638FhaqXBWf2.jpg</foto>
+    <pelis>Fast &amp; Furious: Hobbs &amp; Shaw, Antes De Ti y Fragmentos de una mujer</pelis>
+  </row>
+  <row>
+    <nombre>Paul Giamatti</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/kn7LAbFYP5RPC2r61tDx2CRUeuw.jpg</foto>
+    <pelis>El show de Truman, El ilusionista y The Amazing Spider-Man 2: El poder de Electro</pelis>
+  </row>
+  <row>
+    <nombre>Gina Gershon</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/c9PpXfQ5XN5IYISUTexXMF19cax.jpg</foto>
+    <pelis>Cara a cara, Posdata: Te quiero y Showgirls</pelis>
+  </row>
+  <row>
+    <nombre>Ryan Reynolds</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/so89QyuxAZY8IOpNTweCekhxsvO.jpg</foto>
+    <pelis>Deadpool, Deadpool 2 y Free Guy</pelis>
+  </row>
+  <row>
+    <nombre>Robert De Niro</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg</foto>
+    <pelis>Joker, Taxi Driver y Heat</pelis>
+  </row>
+  <row>
+    <nombre>Mary Elizabeth Winstead</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/lgLSrB5MAhnJeS7qfc18YxzTNnJ.jpg</foto>
+    <pelis>Calle Cloverfield 10, Scott Pilgrim contra el mundo y Destino final 3</pelis>
+  </row>
+  <row>
+    <nombre>Charlie Murphy</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/AaugO5Qq1Opp3Dv6JuH5ESJYmo9.jpg</foto>
+    <pelis>Peaky Blinders, El extranjero y Halo</pelis>
+  </row>
+  <row>
+    <nombre>Rosamund Pike</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/8ObNklHDi2hjdz0ayzJFB9jtqzm.jpg</foto>
+    <pelis>Perdida, Jack Reacher y Descuida, yo te cuido</pelis>
+  </row>
+  <row>
+    <nombre>Morena Baccarin</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/kBSKKaOtsqIzZPhtEeHfCBmhWl9.jpg</foto>
+    <pelis>Deadpool, Deadpool 2 y Greenland: El último refugio</pelis>
+  </row>
+  <row>
+    <nombre>Vin Diesel</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/nZdVry7lnUkE24PnXakok9okvL4.jpg</foto>
+    <pelis>Fast &amp; Furious 7, Fast &amp; Furious 6 y Fast &amp; Furious 8</pelis>
+  </row>
+  <row>
+    <nombre>Bryce Dallas Howard</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/mDKsCY9YJKyqoSGzlAfJdHBU8a3.jpg</foto>
+    <pelis>Jurassic World, Jurassic World: El reino caído y El bosque</pelis>
+  </row>
+  <row>
+    <nombre>Annie Potts</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/wci5yNwwQvvRtHybDG36wZqhC1t.jpg</foto>
+    <pelis>Toy Story 4, Toy Story (Juguetes) y Toy Story 2: los juguetes vuelven a la carga</pelis>
+  </row>
+  <row>
+    <nombre>Charlize Theron</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/1WKfLshTtawW26lqOcKZhS4lZVA.jpg</foto>
+    <pelis>Mad Max: Furia en la carretera, Atómica y Hancock</pelis>
+  </row>
+  <row>
+    <nombre>Margot Robbie</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/euDPyqLnuwaWMHajcU3oZ9uZezR.jpg</foto>
+    <pelis>Aves de presa (y la fantabulosa emancipación de Harley Quinn), El escuadrón suicida y Barbie</pelis>
+  </row>
+  <row>
+    <nombre>Ryan Gosling</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg</foto>
+    <pelis>La Ciudad De Las Estrellas (La La Land), Blade Runner 2049 y Drive</pelis>
+  </row>
+  <row>
+    <nombre>John Krasinski</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/sVsUxtGLGiYhaH2oddaRocJiOiW.jpg</foto>
+    <pelis>Un lugar tranquilo, 13 Horas: Los soldados secretos de Bengasi y Un lugar tranquilo 2</pelis>
+  </row>
+  <row>
+    <nombre>Whoopi Goldberg</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/wZKI7qcEIVgiHxeFtk3NuKt8URQ.jpg</foto>
+    <pelis>Sister Act (Una Monja De Cuidado), Ghost (Más allá del amor) y Sister Act 2 (De Vuelta Al Convento)</pelis>
+  </row>
+  <row>
+    <nombre>Quentin Tarantino</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/1gjcpAa99FAOWGnrUvHEXXsRs7o.jpg</foto>
+    <pelis>Pulp Fiction, Django desencadenado y Malditos bastardos</pelis>
+  </row>
+  <row>
+    <nombre>Kristen Wiig</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/N517EQh7j4mNl3BStMmjMN6hId.jpg</foto>
+    <pelis>Marte (The Martian), Cazafantasmas y Gru 2. Mi villano favorito</pelis>
+  </row>
+  <row>
+    <nombre>Nick Robinson</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/mzYszYVPvTdirjkUueziWUHvye7.jpg</foto>
+    <pelis>Con amor, Simon, Jurassic World y La quinta ola</pelis>
+  </row>
+  <row>
+    <nombre>Sylvester Stallone</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/pOpbPofjwpynRkWPZZZkyGds6rx.jpg</foto>
+    <pelis>Los mercenarios, Rocky y Los mercenarios 2</pelis>
+  </row>
+  <row>
+    <nombre>Dermot Mulroney</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/5gJszOF45KMPB5tmAbKdK0qgQBx.jpg</foto>
+    <pelis>Infierno blanco, La boda de mi mejor amigo y Zodiac</pelis>
+  </row>
+  <row>
+    <nombre>Russell Crowe</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/fbzD4utSGJlsV8XbYMLoMdEZ1Fc.jpg</foto>
+    <pelis>Gladiator, Una mente maravillosa y Noé</pelis>
+  </row>
+  <row>
+    <nombre>Anja Savcic</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/nWl0Hgw8y35bXXl9VaorAmYjhBY.jpg</foto>
+    <pelis>Extraterrestrial, La noche de su vida y Repeaters</pelis>
+  </row>
+  <row>
+    <nombre>Willem Dafoe</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg</foto>
+    <pelis>Spider-Man, American Psycho y Buscando a Nemo</pelis>
+  </row>
+  <row>
+    <nombre>Zac Efron</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/oQJWACvdvh2a5eyPokVdQ6qdRMc.jpg</foto>
+    <pelis>17 otra vez, El gran showman y High School Musical</pelis>
+  </row>
+  <row>
+    <nombre>Joel Kinnaman</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/c4TTWy1WntzDxpgIe8kbODjWOfD.jpg</foto>
+    <pelis>RoboCop, Escuadrón suicida y El escuadrón suicida</pelis>
+  </row>
+  <row>
+    <nombre>Jack Black</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/rtCx0fiYxJVhzXXdwZE2XRTfIKE.jpg</foto>
+    <pelis>Kung Fu Panda, Kung Fu Panda 2 y Kung Fu Panda 3</pelis>
+  </row>
+  <row>
+    <nombre>Kelly Reilly</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/gof8bWW9E7MH30GpvA97PwGiIuu.jpg</foto>
+    <pelis>El vuelo (Flight), Sherlock Holmes y Eden Lake</pelis>
+  </row>
+  <row>
+    <nombre>Zendaya</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg</foto>
+    <pelis>Spider-Man: No Way Home, Euphoria y Spider-Man. Homecoming</pelis>
+  </row>
+  <row>
+    <nombre>Aubrey Plaza</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/6qeCvOF1K88nKqZfzaWYESo0CwW.jpg</foto>
+    <pelis>Muñeco diabólico, Dirty Grandpa y Seguridad no garantizada</pelis>
+  </row>
+  <row>
+    <nombre>Danny Trejo</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/7JrUkRGBscZ1Hy5JinaaXjjzSCF.jpg</foto>
+    <pelis>Machete, Machete Kills y Abierto hasta el amanecer</pelis>
+  </row>
+  <row>
+    <nombre>Kate Beckinsale</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/j8AX8zHixgntJ7FgIQWwI7NJ7p4.jpg</foto>
+    <pelis>Underworld, Underworld: El despertar y Underworld: Evolution</pelis>
+  </row>
+  <row>
+    <nombre>Donald Sutherland</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/i3acDyoJCtVFbsHLAPVaw8rLANG.jpg</foto>
+    <pelis>Los Juegos del Hambre: En llamas, Los Juegos del Hambre y Orgullo y prejuicio</pelis>
+  </row>
+  <row>
+    <nombre>Joely Richardson</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/6OWUwieNiWcZNnu4h6gd8vyhxBV.jpg</foto>
+    <pelis>El patriota, 101 Dálmatas (¡Más Vivos Que Nunca!) y Millennium: Los hombres que no amaban a las mujeres</pelis>
+  </row>
+  <row>
+    <nombre>Natasha Culzac</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/ytMC7Kxx81MO3tIXv62ogsd4ttc.jpg</foto>
+    <pelis>Halo, Men in Black: International y The Witcher</pelis>
+  </row>
+  <row>
+    <nombre>Michael Keaton</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/baeHNv3qrVsnApuKbZXiJOhqMnw.jpg</foto>
+    <pelis>Birdman o (la inesperada virtud de la ignorancia), Spider-Man. Homecoming y Batman</pelis>
+  </row>
+  <row>
+    <nombre>Katheryn Winnick</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/vQSqH3ybDWZHZIqX4NZKhOCXAhQ.jpg</foto>
+    <pelis>Vikingos, Polar y La Torre Oscura</pelis>
+  </row>
+  <row>
+    <nombre>Woody Harrelson</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/igxYDQBbTEdAqaJxaW6ffqswmUU.jpg</foto>
+    <pelis>Bienvenidos a Zombieland, Zombieland: Mata y remata y Los Juegos del Hambre</pelis>
+  </row>
+  <row>
+    <nombre>Richard Gere</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/i7wcBNmFldh2E4QInCvmv7CPSIR.jpg</foto>
+    <pelis>Pretty Woman, Siempre a tu lado y Las dos caras de la verdad</pelis>
+  </row>
+  <row>
+    <nombre>Kevin Bacon</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/rjX2Oz3tCZMfSwOoIAyEhdtXnTE.jpg</foto>
+    <pelis>X-Men: Primera Generación, Sleepers y Temblores</pelis>
+  </row>
+  <row>
+    <nombre>Jarred Harper</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/iRImFVWY56bOlkeKXtUFo1sgUNh.jpg</foto>
+    <pelis>The Double Life of My Billionaire Husband, The Institute y American Housewife</pelis>
+  </row>
+  <row>
+    <nombre>Alan Ritchson</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/wdmLUSPEC7dXuqnjTM4NgbjvTKk.jpg</foto>
+    <pelis>Reacher, Ninja Turtles y Los Juegos del Hambre: En llamas</pelis>
+  </row>
+  <row>
+    <nombre>Gary Oldman</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/2v9FVVBUrrkW2m3QOcYkuhq9A6o.jpg</foto>
+    <pelis>El caballero oscuro, El caballero oscuro: La leyenda renace y El instante más oscuro</pelis>
+  </row>
+  <row>
+    <nombre>Alicia Witt</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/vQ2McAjHjY3A7oDrPMx6aLSsvkW.jpg</foto>
+    <pelis>Leyenda urbana, 88 minutos y Amor con preaviso</pelis>
+  </row>
+  <row>
+    <nombre>Tom Cruise</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/eOh4ubpOm2Igdg0QH2ghj0mFtC.jpg</foto>
+    <pelis>Al filo del mañana, Oblivion y Misión imposible: Protocolo fantasma</pelis>
+  </row>
+  <row>
+    <nombre>Travis Fimmel</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/3feVQYAZXNHduKdtw3oMMAnUbQg.jpg</foto>
+    <pelis>Vikingos, Warcraft: El origen y Danger close: la batalla de Long Tan</pelis>
+  </row>
+  <row>
+    <nombre>Kevin Hart</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/7OwsFfoxNGIfWwSmdORyB7v8XNj.jpg</foto>
+    <pelis>Jumanji: Bienvenidos a la jungla, Jumanji: Siguiente nivel y Un espía y medio</pelis>
+  </row>
+  <row>
+    <nombre>Denis Villeneuve</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/433lXlkdMGXzrpwnKM4Ul1sln15.jpg</foto>
+    <pelis>La llegada, Blade Runner 2049 y Prisioneros</pelis>
+  </row>
+  <row>
+    <nombre>Adam Sandler</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/xh4MJHsnqXLrPNnmwO50jR2Ku1N.jpg</foto>
+    <pelis>Hotel Transilvania, Pixels y 50 primeras citas</pelis>
+  </row>
+  <row>
+    <nombre>Jeffrey Dean Morgan</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/m8bdrmh6ExDCGQ64E83mHg002YV.jpg</foto>
+    <pelis>Ruega por nosotros, The Walking Dead y Los perdedores</pelis>
+  </row>
+  <row>
+    <nombre>Chloë Grace Moretz</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/j9d4i2xsLGUhwpuy5y0fkx1qAcz.jpg</foto>
+    <pelis>Kick-Ass: Listo para machacar, La quinta ola y Carrie</pelis>
+  </row>
+  <row>
+    <nombre>Isabel May</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/9AT39NSHNQ44VebDrqupxplmyLK.jpg</foto>
+    <pelis>1883, Alexa &amp; Katie y Luchar o morir</pelis>
+  </row>
+  <row>
+    <nombre>Ray Winstone</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/kDShEv6zPfArgcwXliGWKR65Mmo.jpg</foto>
+    <pelis>Beowulf, Infiltrados y Noé</pelis>
+  </row>
+  <row>
+    <nombre>Amy Smart</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/cGbVgcBDYeSqNWUrwCUKZZbVMje.jpg</foto>
+    <pelis>El efecto mariposa, Crank: Veneno En La Sangre y Crank: Alto Voltaje</pelis>
+  </row>
+  <row>
+    <nombre>Mark Wahlberg</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/bTEFpaWd7A6AZVWOqKKBWzKEUe8.jpg</foto>
+    <pelis>Ted, Transformers: La Era de la Extinción y Ted 2</pelis>
+  </row>
+  <row>
+    <nombre>Kristen Bell</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/rP74dJXl7EjinGM0shQtUOlH5s2.jpg</foto>
+    <pelis>Frozen: El reino del hielo, Frozen 2 y Malas madres</pelis>
+  </row>
+  <row>
+    <nombre>Brie Larson</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/xSGvMwNNJcEQvVcjiIUTyxyMfkZ.jpg</foto>
+    <pelis>Capitana Marvel, La habitación y Infiltrados en clase</pelis>
+  </row>
+  <row>
+    <nombre>Naomi Watts</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/k6l8BWX1yqfGt95enzEkHoPvON4.jpg</foto>
+    <pelis>King Kong, Lo imposible y The Ring (La señal)</pelis>
+  </row>
+  <row>
+    <nombre>Johnny Depp</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/z4wuEcnTW4hlICMYPGn5W8bK2zh.jpg</foto>
+    <pelis>Piratas del Caribe: La maldición de la Perla Negra, Piratas del Caribe: El cofre del hombre muerto y Charlie y la fábrica de chocolate</pelis>
+  </row>
+  <row>
+    <nombre>Keira Knightley</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/bRC1B2VwV0wK3ElciFAK6QZf2wD.jpg</foto>
+    <pelis>The Imitation Game (Descifrando Enigma), Orgullo y prejuicio y Piratas del Caribe: La maldición de la Perla Negra</pelis>
+  </row>
+  <row>
+    <nombre>Angourie Rice</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/bL3TL4beXOxXlnpUP5N4tEQ2lJJ.jpg</foto>
+    <pelis>Dos Buenos Tipos, Cada día y Spider-Man. Lejos de casa</pelis>
+  </row>
+  <row>
+    <nombre>Emma Thompson</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/xr8Ki3CIqweWWqS5q0kUYdiK6oQ.jpg</foto>
+    <pelis>Indomable, Cruella y Al encuentro de Mr. Banks</pelis>
+  </row>
+  <row>
+    <nombre>Arielle Kebbel</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/dmYiAeWoeVsRdT4UBBGuW9gBfjQ.jpg</foto>
+    <pelis>American Pie presenta: Band Camp, Presencias extrañas y Cincuenta sombras liberadas</pelis>
+  </row>
+  <row>
+    <nombre>Christopher Nolan</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/xuAIuYSmsUzKlUMBFGVZaWsY3DZ.jpg</foto>
+    <pelis>Origen, Interstellar y El caballero oscuro</pelis>
+  </row>
+  <row>
+    <nombre>James Brolin</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/j5DCjshDWSv4nMJdWyXWCmRmROU.jpg</foto>
+    <pelis>Atrápame si puedes, Terror en Amityville y Lightyear</pelis>
+  </row>
+  <row>
+    <nombre>Anya Taylor-Joy</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/l4iCvDhSpF16KnXX7xJpjSmkWhu.jpg</foto>
+    <pelis>Múltiple, La Bruja y El menú</pelis>
+  </row>
+  <row>
+    <nombre>Yuka Kouri</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/uTKvkl3BYeiIPUvKfdL3QDaeM5.jpg</foto>
+    <pelis>Strobe Edge, Kami no Kiba -JINGA- y Koisaika Miyamoto</pelis>
+  </row>
+  <row>
+    <nombre>Daniel Craig</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/iFerDZUmC5Fu26i4qI8xnUVEHc7.jpg</foto>
+    <pelis>Skyfall, Puñales por la espalda y Casino Royale</pelis>
+  </row>
+  <row>
+    <nombre>Tom Hardy</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/d81K0RH8UX7tZj49tZaQhZ9ewH.jpg</foto>
+    <pelis>Mad Max: Furia en la carretera, Venom y Venom: habrá matanza</pelis>
+  </row>
+  <row>
+    <nombre>Javier Bardem</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/IShnFg6ijWhpbu29dFBd9PtqQg.jpg</foto>
+    <pelis>Piratas del Caribe: La venganza de Salazar, No es país para viejos y Skyfall</pelis>
+  </row>
+  <row>
+    <nombre>Cole Hauser</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/kJyUtNZREd7mes21OrWiCtOugPL.jpg</foto>
+    <pelis>2 Fast 2 Furious: A todo gas 2, El indomable Will Hunting y Pitch Black</pelis>
+  </row>
+  <row>
+    <nombre>Christina Ricci</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/dzB58d6fNrTEi7nBAU1tySJc2at.jpg</foto>
+    <pelis>Casper, Sleepy Hollow y Penélope</pelis>
+  </row>
+  <row>
+    <nombre>Amber Heard</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/cIbuK91Da9QS2gh43018CmRnx96.jpg</foto>
+    <pelis>Aquaman, Bienvenidos a Zombieland y Encerrada (The Ward)</pelis>
+  </row>
+  <row>
+    <nombre>Marisa Tomei</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/5w6qM8FWsl5SutKSpx6Va64eCTE.jpg</foto>
+    <pelis>Spider-Man. Homecoming, Spider-Man. Lejos de casa y Spider-Man: No Way Home</pelis>
+  </row>
+  <row>
+    <nombre>Forest Whitaker</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/1GbfuDitXDBmNmXEKk2rGEXiEXE.jpg</foto>
+    <pelis>La llegada, El mayordomo y V3nganza</pelis>
+  </row>
+  <row>
+    <nombre>Sam Elliott</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/1K2IvGXFbKsgkExuUsRvy4F0c9e.jpg</foto>
+    <pelis>Ha nacido una estrella, Ghost Rider: El motorista fantasma y Hulk</pelis>
+  </row>
+  <row>
+    <nombre>Matthew McConaughey</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/e9ZHRY5toiBZCIPEEyvOG9A8ers.jpg</foto>
+    <pelis>Interstellar, Dallas Buyers Club y ¡Canta!</pelis>
+  </row>
+  <row>
+    <nombre>Leslie Nielsen</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/u5vWl5dw69Nf89f905Qb5JqEVL3.jpg</foto>
+    <pelis>Agárralo como puedas, Agárralo como puedas 2 1/2: el aroma del miedo y Agárralo como puedas 33 1/3: el insulto final</pelis>
+  </row>
+  <row>
+    <nombre>Uma Thurman</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/xuxgPXyv6KjUHIM8cZaxx4ry25L.jpg</foto>
+    <pelis>Kill Bill: Volumen 1, Kill Bill: Volumen 2 y Pulp Fiction</pelis>
+  </row>
+  <row>
+    <nombre>Alicia Silverstone</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/pyxqkP4i0ubVdoRe5hoiiiwkHkb.jpg</foto>
+    <pelis>Clueless (Fuera de onda), Batman y Robin y El sacrificio de un ciervo sagrado</pelis>
+  </row>
+  <row>
+    <nombre>Jeremy Irons</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/w8Ct1q02Ht3sWdOSqfp3B85TzT.jpg</foto>
+    <pelis>Assassin&apos;s Creed, Batman vs Superman: El amanecer de la Justicia y El rey león</pelis>
+  </row>
+  <row>
+    <nombre>Barry Keoghan</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/ngoitknM6hw8fffLywyvjzy6Iti.jpg</foto>
+    <pelis>Dunkerque, Saltburn y Eternals</pelis>
+  </row>
+  <row>
+    <nombre>Eva Green</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/vwjOWfUeDk5fQr8jraKlR1Yfxxq.jpg</foto>
+    <pelis>El hogar de Miss Peregrine para niños peculiares, Casino Royale y 300: El origen de un imperio</pelis>
+  </row>
+  <row>
+    <nombre>Viggo Mortensen</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/vH5gVSpHAMhDaFWfh0Q7BG61O1y.jpg</foto>
+    <pelis>Green Book, El señor de los anillos: La comunidad del anillo y El señor de los anillos: El retorno del rey</pelis>
+  </row>
+  <row>
+    <nombre>Nathan Fillion</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/aW6vCxkUZtwb6iH2Wf88Uq0XNVv.jpg</foto>
+    <pelis>Serenity, Firefly y Castle</pelis>
+  </row>
+  <row>
+    <nombre>Mila Kunis</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/811vCRSr9s2MFwCIOo1jWHltu3R.jpg</foto>
+    <pelis>Cisne negro, El destino de Júpiter y Ted</pelis>
+  </row>
+  <row>
+    <nombre>Charlie Sheen</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/eHMe0jYsp6YBgyCDbgtheZrIHAy.jpg</foto>
+    <pelis>Platoon, Dos hombres y medio y Hot Shots!</pelis>
+  </row>
+  <row>
+    <nombre>Nina Dobrev</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/67A1s3I8k831MJ7VRLX59hBNdNt.jpg</foto>
+    <pelis>Crónicas vampíricas, ¡Qué duro es el amor! y Las ventajas de ser un marginado</pelis>
+  </row>
+  <row>
+    <nombre>Will Smith</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/1QqaRZ8neYlqLx7ODZC4as47wUV.jpg</foto>
+    <pelis>Escuadrón suicida, Soy leyenda y Yo, robot</pelis>
+  </row>
+  <row>
+    <nombre>Val Kilmer</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/szMi36EOoCuMYeYO9eYqRefEnKo.jpg</foto>
+    <pelis>Batman Forever, El príncipe de Egipto y Top Gun: Ídolos del aire</pelis>
+  </row>
+  <row>
+    <nombre>Bradley Cooper</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/DPnessSsWqVXRbKm93PtMjB4Us.jpg</foto>
+    <pelis>Resacón en Las Vegas, El francotirador y El lado bueno de las cosas</pelis>
+  </row>
+  <row>
+    <nombre>Rosario Dawson</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/1mm7JGHIUX3GRRGXEV9QCzsI0ao.jpg</foto>
+    <pelis>Siete almas, Hombres de negro II y Death Proof</pelis>
+  </row>
+  <row>
+    <nombre>Jean-Claude Van Damme</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/7DP3bm3MS0qa0L8tBLHGebbCu6H.jpg</foto>
+    <pelis>Contacto sangriento, Soldado Universal y Street Fighter: La última batalla</pelis>
+  </row>
+  <row>
+    <nombre>Anna Kendrick</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/yirl6fEmeXY5xcvJw3nTcCNq9Cw.jpg</foto>
+    <pelis>Dando la nota, Dando la nota: Aún más alto y Un pequeño favor</pelis>
+  </row>
+  <row>
+    <nombre>Jesse Plemons</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/ckTthGclQE0y6b7gR0RpRo7LskL.jpg</foto>
+    <pelis>El camino: una película de Breaking Bad, Estoy pensando en dejarlo y Jungle Cruise</pelis>
+  </row>
+  <row>
+    <nombre>Paul Bettany</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/vcAVrAOZrpqmi37qjFdztRAv1u9.jpg</foto>
+    <pelis>Bruja Escarlata y Visión, Iron Man y Vengadores: La Era de Ultrón</pelis>
+  </row>
+  <row>
+    <nombre>Song Kang</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/dMUXkMfkTEw3qrJisk0mQCQxmBI.jpg</foto>
+    <pelis>Sweet Home, Love Alarm y Mi adorable demonio</pelis>
+  </row>
+  <row>
+    <nombre>Clare Dunne</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/AisYR4krGar2CcdVck1IMl51FLv.jpg</foto>
+    <pelis>Spider-Man. Lejos de casa, El último duelo y Volver a empezar</pelis>
+  </row>
+  <row>
+    <nombre>Danielle Panabaker</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/dpX6WMQjJDD93YYaC9Wd6tgucuZ.jpg</foto>
+    <pelis>The Flash, Viernes 13 y Time Lapse</pelis>
+  </row>
+  <row>
+    <nombre>Patrick Wilson</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/tc1ezEfIY8BhCy85svOUDtpBFPt.jpg</foto>
+    <pelis>Expediente Warren: The Conjuring, Expediente Warren: El caso Enfield y Insidious</pelis>
+  </row>
+  <row>
+    <nombre>Jeffrey Wright</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/yGcuHGW4glqRpOPxgiCvjcren7F.jpg</foto>
+    <pelis>¿Qué pasaría si...?, Batman y Casino Royale</pelis>
+  </row>
+  <row>
+    <nombre>Colin Farrell</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/yGohLbGy8huibHfT52sbnGoGu7x.jpg</foto>
+    <pelis>Langosta, Desafío total y Escondidos en Brujas</pelis>
+  </row>
+  <row>
+    <nombre>Josh Hartnett</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/dCfu2EN7FjISACcjilaJu7evwEc.jpg</foto>
+    <pelis>Black Hawk derribado, El caso Slevin y 30 días de oscuridad</pelis>
+  </row>
+  <row>
+    <nombre>Annette Bening</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/sBiiRwAVXd0FCRZ87m0I89qGBvy.jpg</foto>
+    <pelis>American Beauty, Capitana Marvel y Mars Attacks!</pelis>
+  </row>
+  <row>
+    <nombre>Yuki Kaji</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/8wKdPV11IwowfwoqGqMMNt9hmp6.jpg</foto>
+    <pelis>Ataque a los Titanes, Los siete pecados capitales y High School DxD</pelis>
+  </row>
+  <row>
+    <nombre>Richard Chamberlain</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/hdnR3Nd49rFNpPUFF2lQyetBypo.jpg</foto>
+    <pelis>Las minas del rey Salomón, Allan Quatermain y la ciudad perdida del oro y Os declaro marido y marido</pelis>
+  </row>
+  <row>
+    <nombre>Natalie Portman</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/edPU5HxncLWa1YkgRPNkSd68ONG.jpg</foto>
+    <pelis>Cisne negro, V de Vendetta y Thor</pelis>
+  </row>
+  <row>
+    <nombre>Mel Gibson</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/jnqHMaOslt8cef2atSmOpGRvNla.jpg</foto>
+    <pelis>Braveheart, Señales y Arma letal</pelis>
+  </row>
+  <row>
+    <nombre>Dylan Wang</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/lj0KGutrA0MSJxgsjNzvIGMDnFX.jpg</foto>
+    <pelis>Jardín de meteoros (Meteor Garden), Amor entre Hada y Demonio y Noche Eterna</pelis>
+  </row>
+  <row>
+    <nombre>Paul Dano</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/as6rmmWKgSrpHs0suNRSbQT8Raw.jpg</foto>
+    <pelis>Swiss Army Man, Pozos de ambición y Batman</pelis>
+  </row>
+  <row>
+    <nombre>Bryan Cranston</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/7Jahy5LZX2Fo8fGJltMreAI49hC.jpg</foto>
+    <pelis>Breaking Bad, Isla de perros y Drive</pelis>
+  </row>
+  <row>
+    <nombre>Hande Erçel</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/jrUvWNqOpfDm3D0KhbuRwQOy8Nu.jpg</foto>
+    <pelis>Love is in the Air, Hayat: Amor sin palabras y Chicas Del Sol</pelis>
+  </row>
+  <row>
+    <nombre>Asa Butterfield</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/hMDIBO0QcOydD0UtfeDjTR7mhi6.jpg</foto>
+    <pelis>Sex Education, La invención de Hugo y El niño con el pijama de rayas</pelis>
+  </row>
+  <row>
+    <nombre>Damon Wayans</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/10gs0DB8ulakUN47hZwFRr5UdT0.jpg</foto>
+    <pelis>El último Boy Scout, Mayor Payne y Arma letal</pelis>
+  </row>
+  <row>
+    <nombre>Felicity Jones</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/35KdWSfTldNEdsn4MUGFIRoxJEu.jpg</foto>
+    <pelis>Rogue One: Una historia de Star Wars, La teoría del todo y Inferno</pelis>
+  </row>
+  <row>
+    <nombre>Lance Henriksen</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/ieo8Zbw30UAPAscGOI6090VhL4I.jpg</foto>
+    <pelis>Terminator, Aliens: El regreso y Alien vs. Predator</pelis>
+  </row>
+  <row>
+    <nombre>Katrina Law</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/y7LzCN8BaoPPSXDBo0UwPQ4UwSB.jpg</foto>
+    <pelis>Navy: Investigación criminal, 12 regalos de Navidad y Hawaii Five-0</pelis>
+  </row>
+  <row>
+    <nombre>Maggie Q</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/1Z0A8axunWqZrskGkfANv6W5qCl.jpg</foto>
+    <pelis>Fantasy Island, Divergente y La jungla 4.0</pelis>
+  </row>
+  <row>
+    <nombre>Shea Whigham</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/d3caK3l4UfbnzOxv95wLoFLZzMO.jpg</foto>
+    <pelis>Joker, El lobo de Wall Street y El lado bueno de las cosas</pelis>
+  </row>
+  <row>
+    <nombre>Chris Hemsworth</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/xkHHiJXraaMFXgRYspN6KVrFn17.jpg</foto>
+    <pelis>Thor, Thor: Ragnarok y Thor: el mundo oscuro</pelis>
+  </row>
+  <row>
+    <nombre>Hayden Christensen</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/RuwAecNK9VDeTrfw6LUE4q4rIt.jpg</foto>
+    <pelis>La guerra de las galaxias. Episodio III: La venganza de los Sith, La guerra de las galaxias. Episodio II: El ataque de los clones y Jumper</pelis>
+  </row>
+  <row>
+    <nombre>Tim Matheson</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/trZ4QaDidCOPNy7HK9cYnmKHkg9.jpg</foto>
+    <pelis>Desmadre a la americana, Van Wilder: Animal Party y Jumanji: Bienvenidos a la jungla</pelis>
+  </row>
+  <row>
+    <nombre>Andrew Garfield</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/5ydZ6TluPtxlz5G8nlWMB7SGmow.jpg</foto>
+    <pelis>The Amazing Spider-Man, Hasta El Último Hombre y The Amazing Spider-Man 2: El poder de Electro</pelis>
+  </row>
+  <row>
+    <nombre>Laura Dern</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/gB9PnGEvxKg33OSlcqptQwTBwPE.jpg</foto>
+    <pelis>Jurassic Park (Parque Jurásico), Bajo la misma estrella y Historia De Un Matrimonio</pelis>
+  </row>
+  <row>
+    <nombre>Mark Ruffalo</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg</foto>
+    <pelis>Shutter Island, Los Vengadores y Vengadores: Infinity War</pelis>
+  </row>
+  <row>
+    <nombre>Matthew Lillard</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/mIEKAfe0iC41RDXibbTy48LtNOi.jpg</foto>
+    <pelis>Scream (Vigila quién llama), Scooby-Doo y Five Nights at Freddy&apos;s</pelis>
+  </row>
+  <row>
+    <nombre>Tommy Lee Jones</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/mCiZNRAzbnPojJEZwVZWLw9kzxR.jpg</foto>
+    <pelis>Men in Black (Hombres de negro), Capitán América: El primer vengador y Men in Black 3</pelis>
+  </row>
+  <row>
+    <nombre>Akira Toriyama</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/9YorJMvF6DgfJcpATHbGyivZpS5.jpg</foto>
+    <pelis>Dragon Ball Z, Dragon Ball y Dragon Ball Super: Broly</pelis>
+  </row>
+  <row>
+    <nombre>Sandra Bullock</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/5pyso6iXs4nGz55tCOU6AfmPspZ.jpg</foto>
+    <pelis>Gravity, Los Minions y A ciegas</pelis>
+  </row>
+  <row>
+    <nombre>Sandra Hüller</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/t7wGqC2dRwTEnt9Fk5pxQ0uXTqs.jpg</foto>
+    <pelis>Anatomía de una caída, Toni Erdmann y La zona de interés</pelis>
+  </row>
+  <row>
+    <nombre>Idris Elba</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/be1bVF7qGX91a6c5WeRPs5pKXln.jpg</foto>
+    <pelis>Zootrópolis, La Torre Oscura y El escuadrón suicida</pelis>
+  </row>
+  <row>
+    <nombre>Michelle Monaghan</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/jB47BoGdudHELszn9ZAZqnnUy8N.jpg</foto>
+    <pelis>Código fuente, Lo mejor de mí y Pixels</pelis>
+  </row>
+  <row>
+    <nombre>Paul Rudd</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/6jtwNOLKy0LdsRAKwZqgYMAfd5n.jpg</foto>
+    <pelis>Ant-Man, Ant-Man y la Avispa y Ant-Man y la Avispa: Quantumanía</pelis>
+  </row>
+  <row>
+    <nombre>Téa Leoni</nombre>
+    <foto>https://media.themoviedb.org/t/p/w235_and_h235_face/1Jb6J8Q6zW8IAWMjrCd3c0NIlKL.jpg</foto>
+    <pelis>Jurassic Park III (Parque Jurásico III), Dos policías rebeldes y Deep Impact</pelis>
+  </row>
+</root>

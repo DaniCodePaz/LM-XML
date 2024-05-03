@@ -1,0 +1,1194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="style.xsl" type="text/xsl"?>
+<kingsleague>
+    <equipo nombre="1K FC" abr="1K">
+        <escudo>https://kingsleague-cdn.kama.football/account/production/team/image/398917228.png</escudo>
+        <gradiente>background: linear-gradient(rgba(83, 78, 225, 0.6) 30%, rgba(126, 87, 255,
+            0.6) 90%);</gradiente>
+        <video>
+            https://kingsleague-cdn.kama.football/account/production/team/video/LOOP%20KINGS%201K%20FC_v1.mp4</video>
+        <poster>https://cms-es.kingsleague.pro/wp-content/uploads/2024/01/KL-1K.jpg</poster>
+        <presupuesto>102</presupuesto>
+        <presidente nombre="Iker Casillas">
+            <imagen>
+                https://s3.eu-central-2.wasabisys.com/kingsleague-cdn.kama.football/account/production/staff/429468257.png</imagen>
+        </presidente>
+        <entrenador nombre="Juanjo Moreno">
+            <imagen>
+                https://s3.eu-central-2.wasabisys.com/kingsleague-cdn.kama.football/account/production/staff/911257481.png</imagen>
+        </entrenador>
+        <players>
+            <player nombre="Lluis Alsina">
+                <demarcacion>Medio</demarcacion>
+                <media>75</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/992138011.png</imagen>
+            </player>
+            <player nombre="Joan Canet">
+                <demarcacion>Portero</demarcacion>
+                <media>73</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/986865c3-d315-41b1-9804-eae3adc99e6c/388522610.png</imagen>
+            </player>
+            <player nombre="Marc Granero">
+                <demarcacion>Defensa</demarcacion>
+                <media>80</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/0f5ff95d-57dc-44a7-aaaa-9009358a6833/1657407.png</imagen>
+            </player>
+            <player nombre="Marcos Guerrero">
+                <demarcacion>Defensa</demarcacion>
+                <media>67</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/b98437fc-6dfe-41a7-8c94-755f9af326fc/786420442.png</imagen>
+            </player>
+            <player nombre="Raúl Ledo">
+                <demarcacion>Defensa</demarcacion>
+                <media>67</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/fed4df4c-5fe7-49f4-b19f-e5d32363458d/590740283.png</imagen>
+            </player>
+            <player nombre="Marc Pluvins">
+                <demarcacion>Medio</demarcacion>
+                <media>75</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/b149dab9-1ae1-4ed4-8fc9-af6c2bf09982/575040125.png</imagen>
+            </player>
+            <player nombre="Albert Dalmau">
+                <demarcacion>Defensa</demarcacion>
+                <media>72</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/180f5bef-de16-4838-9343-a63f47203312/10668298.png</imagen>
+            </player>
+            <player nombre="John de la Cruz">
+                <demarcacion>Delantero</demarcacion>
+                <media>72</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/aeff164e-c642-4f12-9745-24aac09f21b9/664187704.png</imagen>
+            </player>
+            <player nombre="Albert Ruiz">
+                <demarcacion>Delantero</demarcacion>
+                <media>74</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/785354296.png</imagen>
+            </player>
+            <player nombre="Alberto Arnalot">
+                <demarcacion>Portero</demarcacion>
+                <media>81</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/e566be2b-ddcf-48d5-9d3b-06adf255a4b6/609646295.png</imagen>
+            </player>
+            <player nombre="Abraham González">
+                <demarcacion>Medio</demarcacion>
+                <media>80</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/080da89a-e6a6-4c84-a0ed-abd3bc8ad508/919819576.png</imagen>
+            </player>
+            <player nombre="Iván Mateo">
+                <demarcacion>Medio</demarcacion>
+                <media>74</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/7bc3af06-669d-44f7-b78d-0670973955c5/672756114.png</imagen>
+            </player>
+            <player nombre="Diego Fernández">
+                <demarcacion>Delantero</demarcacion>
+                <media>75</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/cf9889f1-ab73-4f4a-afcf-60bc270f1819/230239571.png</imagen>
+            </player>
+            <player nombre="Fran Rodríguez">
+                <demarcacion>Medio</demarcacion>
+                <media>72</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/50a0d039-57a7-4302-bd0b-295278d85679/378066781.png</imagen>
+            </player>
+        </players>
+    </equipo>
+    <equipo nombre="Aniquiladores FC" abr="ANI">
+        <escudo>https://kingsleague-cdn.kama.football/account/production/team/726173891.png</escudo>
+        <gradiente>background: linear-gradient(rgba(255, 78, 110, 0.6) 30%, rgba(66, 0, 14,
+            0.6) 90%);</gradiente>
+        <video>
+            https://kingsleague-cdn.kama.football/account/production/team/video/LOOP%20KINGS%20ANIQUILADORES_v1.mp4</video>
+        <poster>https://cms-es.kingsleague.pro/wp-content/uploads/2024/01/KL-ANIQUILADORES.jpg</poster>
+        <presupuesto>100</presupuesto>
+        <presidente nombre="Juan Guarnizo">
+            <imagen>
+                https://s3.eu-central-2.wasabisys.com/kingsleague-cdn.kama.football/account/production/staff/428061630.png</imagen>
+        </presidente>
+        <entrenador nombre="Sergio Verdirame">
+            <imagen>
+                https://s3.eu-central-2.wasabisys.com/kingsleague-cdn.kama.football/account/production/staff/365175363.png</imagen>
+        </entrenador>
+        <players>
+            <player nombre="David Alba">
+                <demarcacion>Delantero</demarcacion>
+                <media>72</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/428049112.png</imagen>
+            </player>
+            <player nombre="Bernat Rovira">
+                <demarcacion>Medio</demarcacion>
+                <media>69</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/645525778.png</imagen>
+            </player>
+            <player nombre="Xavi Morales">
+                <demarcacion>Portero</demarcacion>
+                <media>66</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/f50f089f-d7c0-4daf-a6ca-149f6f86d805/532184414.png</imagen>
+            </player>
+            <player nombre="Jordi Ros">
+                <demarcacion>Medio</demarcacion>
+                <media>73</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/776729450.png</imagen>
+            </player>
+            <player nombre="Pol Zapata">
+                <demarcacion>Portero</demarcacion>
+                <media>80</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/a9f5b66c-f6ff-455b-a319-3d7b002a3316/571685787.png</imagen>
+            </player>
+            <player nombre="Joel Macarulla">
+                <demarcacion>Medio</demarcacion>
+                <media>68</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/106414335.png</imagen>
+            </player>
+            <player nombre="Guillem &apos;ZZ&apos; Ruiz">
+                <demarcacion>Delantero</demarcacion>
+                <media>74</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/812364848.png</imagen>
+            </player>
+            <player nombre="Mario Reyes">
+                <demarcacion>Defensa</demarcacion>
+                <media>79</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/686435702.png</imagen>
+            </player>
+            <player nombre="José &apos;Casi&apos; Ruiz">
+                <demarcacion>Delantero</demarcacion>
+                <media>73</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/695818101.png</imagen>
+            </player>
+            <player nombre="Alejandro Ortega">
+                <demarcacion>Medio</demarcacion>
+                <media>81</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/314549513.png</imagen>
+            </player>
+            <player nombre="Hichem Boumedol">
+                <demarcacion>Medio</demarcacion>
+                <media>73</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/67128325-8067-4754-9b77-dbc963835d81/282067259.png</imagen>
+            </player>
+            <player nombre="Javi Espinosa">
+                <demarcacion>Medio</demarcacion>
+                <media>86</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/7bbcc57f-58e5-4f0c-98ea-e57d52f647b7/769106557.png</imagen>
+            </player>
+            <player nombre="Víctor Mongil">
+                <demarcacion>Defensa</demarcacion>
+                <media>82</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/42311875.png</imagen>
+            </player>
+            <player nombre="Marc Jiménez">
+                <demarcacion>Delantero</demarcacion>
+                <media>73</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/969b8b21-61c6-4033-8a8e-383dc30b0596/547948792.png</imagen>
+            </player>
+        </players>
+    </equipo>
+    <equipo nombre="El Barrio" abr="ELB">
+        <escudo>https://kingsleague-cdn.kama.football/account/production/team/image/916751113.png</escudo>
+        <gradiente>background: linear-gradient(rgba(75, 186, 180, 0.6) 30%, rgba(1, 1, 1, 0.6)
+            90%);</gradiente>
+        <video>
+            https://kingsleague-cdn.kama.football/account/production/team/video/LOOP%20KINGS%20EL%20BARRIO_v1.mp4</video>
+        <poster>https://cms-es.kingsleague.pro/wp-content/uploads/2024/01/KL-EL-BARRIO.jpg</poster>
+        <presupuesto>105</presupuesto>
+        <presidente nombre="Adri Contreras">
+            <imagen>
+                https://s3.eu-central-2.wasabisys.com/kingsleague-cdn.kama.football/account/production/staff/793946020.png</imagen>
+        </presidente>
+        <entrenador nombre="Juan Arroita">
+            <imagen>
+                https://s3.eu-central-2.wasabisys.com/kingsleague-cdn.kama.football/account/production/staff/image/978350437.png</imagen>
+        </entrenador>
+        <players>
+            <player nombre="Gilles Vidal">
+                <demarcacion>Medio</demarcacion>
+                <media>80</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/1452519a-9f9b-45aa-ac7f-6048b9556ce1/437599791.png</imagen>
+            </player>
+            <player nombre="Pau &apos;ZZ&apos; Ruiz">
+                <demarcacion>Defensa</demarcacion>
+                <media>76</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/4dc18dc1-3077-460b-81a0-f53e1734841a/857078775.png</imagen>
+            </player>
+            <player nombre="Oriol Boada">
+                <demarcacion>Delantero</demarcacion>
+                <media>75</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/be73ec8a-766e-46b4-bddb-b8eb7d698f28/835907917.png</imagen>
+            </player>
+            <player nombre="Pau Fernández">
+                <demarcacion>Medio</demarcacion>
+                <media>74</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/ccb048e0-bdd1-4a86-b3fa-34526a8157f5/175578894.png</imagen>
+            </player>
+            <player nombre="Álvaro Arché">
+                <demarcacion>Medio</demarcacion>
+                <media>77</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/742bbedf-e9c8-4ba6-92b7-66835bc0ed0b/840339872.png</imagen>
+            </player>
+            <player nombre="Iker López">
+                <demarcacion>Defensa</demarcacion>
+                <media>69</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/238bb8d5-3dd8-4c56-bef4-e7c38bae932f/132668759.png</imagen>
+            </player>
+            <player nombre="Alex García">
+                <demarcacion>Portero</demarcacion>
+                <media>67</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/2f030eb3-a645-48b0-8183-188c7ac89622/118080674.png</imagen>
+            </player>
+            <player nombre="Xavi Liébanas">
+                <demarcacion>Defensa</demarcacion>
+                <media>69</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/081381ec-4a6a-4735-9e69-48b7b40f5949/301595116.png</imagen>
+            </player>
+            <player nombre="Gabriel Vidal">
+                <demarcacion>Medio</demarcacion>
+                <media>68</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/738abed0-7fdc-4b38-9edd-314f5921726a/524992090.png</imagen>
+            </player>
+            <player nombre="Gerard Vacas">
+                <demarcacion>Portero</demarcacion>
+                <media>79</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/f47a9a36-2982-425c-afb0-2aaa20149b66/307167217.png</imagen>
+            </player>
+            <player nombre="Iker González">
+                <demarcacion>Medio</demarcacion>
+                <media>75</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/c9d956a2-d5a6-4197-8bba-21aed347cb84/557406343.png</imagen>
+            </player>
+            <player nombre="José Manuel Fontcuberta">
+                <demarcacion>Delantero</demarcacion>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/2d2c68ec-ae47-4bbf-892c-e8ddfec42e02/384069093.png</imagen>
+            </player>
+            <player nombre="Gerard Nolla">
+                <demarcacion>Medio</demarcacion>
+                <media>81</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/102637ac-9d6b-4b6f-a8ee-7f51a56b2c2f/616178548.png</imagen>
+            </player>
+            <player nombre="Marc Valiente">
+                <demarcacion>Defensa</demarcacion>
+                <media>80</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/e4398548-8290-4d0f-8c0a-a37bc95854f3/233594784.png</imagen>
+            </player>
+            <player nombre="Jaume Batista">
+                <demarcacion>Medio</demarcacion>
+                <media>77</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/262dee27-2b28-411c-a15c-2359a44daad4/425412543.png</imagen>
+            </player>
+            <player nombre="Fran Fuentes">
+                <demarcacion>Defensa</demarcacion>
+                <media>74</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/f139258d-9a6e-4104-ab2d-5220e4224ddf/800036504.png</imagen>
+            </player>
+        </players>
+    </equipo>
+    <equipo nombre="Jijantes FC" abr="JFC">
+        <escudo>https://kingsleague-cdn.kama.football/account/production/team/image/784325114.png</escudo>
+        <gradiente>background: linear-gradient(rgba(34, 41, 77, 0.6) 30%, rgba(211, 41, 61,
+            0.6) 90%);</gradiente>
+        <video>
+            https://kingsleague-cdn.kama.football/account/production/team/video/LOOP%20KINGS%20JIJANTES_v1.mp4</video>
+        <poster>https://cms-es.kingsleague.pro/wp-content/uploads/2024/01/KL-JIJANTES.jpg</poster>
+        <presupuesto>40</presupuesto>
+        <presidente nombre="Gerard Romero">
+            <imagen>
+                https://s3.eu-central-2.wasabisys.com/kingsleague-cdn.kama.football/account/production/staff/327291316.png</imagen>
+        </presidente>
+        <entrenador nombre="Àlex Solduga">
+            <imagen>
+                https://s3.eu-central-2.wasabisys.com/kingsleague-cdn.kama.football/account/production/staff/image/491945443.png</imagen>
+        </entrenador>
+        <players>
+            <player nombre="José Segovia">
+                <demarcacion>Portero</demarcacion>
+                <media>79</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/419e8b4a-6c58-41f0-a3d1-3c5766a477d4/171614249.png</imagen>
+            </player>
+            <player nombre="Mario León">
+                <demarcacion>Portero</demarcacion>
+                <media>71</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/fe932d3b-5acd-4c21-82cb-831b7fc88e8f/850368704.png</imagen>
+            </player>
+            <player nombre="Marc Pelaz">
+                <demarcacion>Medio</demarcacion>
+                <media>80</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/87123930.png</imagen>
+            </player>
+            <player nombre="Uri Pons">
+                <demarcacion>Delantero</demarcacion>
+                <media>68</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/f579c652-ca2c-42ed-8396-4350f7c61a45/696777245.png</imagen>
+            </player>
+            <player nombre="Nil Ayats">
+                <demarcacion>Medio</demarcacion>
+                <media>69</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/713812412.png</imagen>
+            </player>
+            <player nombre="David Sánchez">
+                <demarcacion>Delantero</demarcacion>
+                <media>73</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/500155593.png</imagen>
+            </player>
+            <player nombre="Adrián Espinar">
+                <demarcacion>Delantero</demarcacion>
+                <media>75</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/880629452.png</imagen>
+            </player>
+            <player nombre="Carlos Contreras">
+                <demarcacion>Delantero</demarcacion>
+                <media>76</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/392653905.png</imagen>
+            </player>
+            <player nombre="Sergi Cabré">
+                <demarcacion>Medio</demarcacion>
+                <media>74</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/343425509.png</imagen>
+            </player>
+            <player nombre="Adrián Frutos">
+                <demarcacion>Defensa</demarcacion>
+                <media>76</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/1288e31f-5310-42f2-a8eb-51d533b8dc48/610809925.png</imagen>
+            </player>
+            <player nombre="Nando Quesada">
+                <demarcacion>Medio</demarcacion>
+                <media>82</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/923235001.png</imagen>
+            </player>
+            <player nombre="Sergio Juste">
+                <demarcacion>Defensa</demarcacion>
+                <media>80</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/791055860.png</imagen>
+            </player>
+            <player nombre="Nacho Palacios">
+                <demarcacion>Defensa</demarcacion>
+                <media>74</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/f03cb57d-22b6-4bbc-aa65-4f477e445b68/622539182.png</imagen>
+            </player>
+            <player nombre="Imad El Kabbou">
+                <demarcacion>Delantero</demarcacion>
+                <media>73</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/2468b701-f153-4d68-9a39-d68c32459276/727792476.png</imagen>
+            </player>
+        </players>
+    </equipo>
+    <equipo nombre="Kunisports" abr="KNS">
+        <escudo>https://kingsleague-cdn.kama.football/account/production/team/image/469299352.png</escudo>
+        <gradiente>background: linear-gradient(rgba(251, 145, 163, 0.6) 30%, rgba(16, 24, 32,
+            0.6) 90%);</gradiente>
+        <video>
+            https://kingsleague-cdn.kama.football/account/production/team/video/LOOP%20KINGS%20KUNI_v1.mp4</video>
+        <poster>https://cms-es.kingsleague.pro/wp-content/uploads/2024/01/KL-KUNISPORTS.jpg</poster>
+        <presupuesto>90</presupuesto>
+        <presidente nombre="Kun Agüero">
+            <imagen>
+                https://s3.eu-central-2.wasabisys.com/kingsleague-cdn.kama.football/account/production/staff/430039187.png</imagen>
+        </presidente>
+        <entrenador nombre="Martín Posse">
+            <imagen>
+                https://s3.eu-central-2.wasabisys.com/kingsleague-cdn.kama.football/account/production/staff/image/734421291.png</imagen>
+        </entrenador>
+        <players>
+            <player nombre="Sergi Aguilar">
+                <demarcacion>Portero</demarcacion>
+                <media>80</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/921af05f-d715-4cbf-b965-e2c88d232279/514987687.png</imagen>
+            </player>
+            <player nombre="Pau Mañé">
+                <demarcacion>Delantero</demarcacion>
+                <media>71</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/b4500d64-a2fe-44f9-8511-b76f20a9c1de/815451090.png</imagen>
+            </player>
+            <player nombre="Carlos Val">
+                <demarcacion>Defensa</demarcacion>
+                <media>78</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/960960035.png</imagen>
+            </player>
+            <player nombre="Iñaki Villalba">
+                <demarcacion>Medio</demarcacion>
+                <media>78</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/631646570.png</imagen>
+            </player>
+            <player nombre="Carlos Torrentbó">
+                <demarcacion>Delantero</demarcacion>
+                <media>72</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/62ffbf7f-0a24-4ca1-b3eb-4a247019931c/263605784.png</imagen>
+            </player>
+            <player nombre="Víctor Cócera">
+                <demarcacion>Portero</demarcacion>
+                <media>78</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/9dce8751-d935-44a5-8a80-e5fdd5fa44bb/427842849.png</imagen>
+            </player>
+            <player nombre="Joan Inés">
+                <demarcacion>Medio</demarcacion>
+                <media>79</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/499271564.png</imagen>
+            </player>
+            <player nombre="Kun Agüero">
+                <demarcacion>Delantero</demarcacion>
+                <media>89</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/e32af2e1-3be2-4798-bafe-95d4286c2cd5/27426597.png</imagen>
+            </player>
+            <player nombre="Iván Pérez">
+                <demarcacion>Delantero</demarcacion>
+                <media>74</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/331473383.png</imagen>
+            </player>
+            <player nombre="Jordi Martínez">
+                <demarcacion>Delantero</demarcacion>
+                <media>68</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/248355638.png</imagen>
+            </player>
+            <player nombre="Adrià Escribano">
+                <demarcacion>Medio</demarcacion>
+                <media>76</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/353884356.png</imagen>
+            </player>
+            <player nombre="Jordi Abelló">
+                <demarcacion>Defensa</demarcacion>
+                <media>68</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/496666504.png</imagen>
+            </player>
+            <player nombre="Nico Pareja">
+                <demarcacion>Defensa</demarcacion>
+                <media>84</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/ef45352c-91c4-4bd5-87d5-c11b78f013f7/581909562.png</imagen>
+            </player>
+            <player nombre="Pablo Zabaleta">
+                <demarcacion>Defensa</demarcacion>
+                <media>78</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/ed859e3a-c68f-4907-a56f-e0213d09bab3/627841017.png</imagen>
+            </player>
+            <player nombre="Emiliano Armenteros">
+                <demarcacion>Medio</demarcacion>
+                <media>73</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/0ba966dd-9d7e-420f-b22f-0492d0bf6358/357847523.png</imagen>
+            </player>
+            <player nombre="Jordi Gómez">
+                <demarcacion>Medio</demarcacion>
+                <media>80</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/546024224.png</imagen>
+            </player>
+            <player nombre="Mateo Musacchio">
+                <demarcacion>Defensa</demarcacion>
+                <media>88</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/2bb4d6ad-de67-409c-aeca-d1d69aee863c/503732760.png</imagen>
+            </player>
+            <player nombre="Manuel Agudo &apos;Nolito&apos;">
+                <demarcacion>Medio</demarcacion>
+                <media>91</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/378f6626-23f3-451e-bf50-717a503cc3e5/490811996.png</imagen>
+            </player>
+            <player nombre="Masakazu Okabe">
+                <demarcacion>Medio</demarcacion>
+                <media>71</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/254dd850-d7a6-45ca-b109-f91557127a16/547101344.png</imagen>
+            </player>
+            <player nombre="Adrià Parra">
+                <demarcacion>Defensa</demarcacion>
+                <media>74</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/1bf1b348-cb8b-470e-8549-f1318fc46ed3/407143035.png</imagen>
+            </player>
+        </players>
+    </equipo>
+    <equipo nombre="Los Troncos FC" abr="TFC">
+        <escudo>https://kingsleague-cdn.kama.football/account/production/team/image/183436923.png</escudo>
+        <gradiente>background: linear-gradient(rgba(48, 88, 89, 0.6) 30%, rgba(29, 33, 32,
+            0.6) 90%);</gradiente>
+        <video>
+            https://kingsleague-cdn.kama.football/account/production/team/video/LOOP%20KINGS%20TRONCOS%20FC_v1.mp4</video>
+        <poster>https://cms-es.kingsleague.pro/wp-content/uploads/2024/01/KL-TRONCOS.jpg</poster>
+        <presupuesto>180</presupuesto>
+        <presidente nombre="Perxitaa">
+            <imagen>
+                https://s3.eu-central-2.wasabisys.com/kingsleague-cdn.kama.football/account/production/staff/921929997.png</imagen>
+        </presidente>
+        <entrenador nombre="Èric Bartra">
+            <imagen>
+                https://s3.eu-central-2.wasabisys.com/kingsleague-cdn.kama.football/account/production/staff/image/460822576.png</imagen>
+        </entrenador>
+        <players>
+            <player nombre="Iván Fajardo">
+                <demarcacion>Portero</demarcacion>
+                <media>65</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/45b24b99-850c-4008-abd9-ab2398b5a465/773994104.png</imagen>
+            </player>
+            <player nombre="Edgar Álvaro">
+                <demarcacion>Delantero</demarcacion>
+                <media>78</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/432474096.png</imagen>
+            </player>
+            <player nombre="Sergio Sánchez">
+                <demarcacion>Medio</demarcacion>
+                <media>73</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/600790677.png</imagen>
+            </player>
+            <player nombre="Ian González">
+                <demarcacion>Defensa</demarcacion>
+                <media>80</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/683703781.png</imagen>
+            </player>
+            <player nombre="Josep Corderas">
+                <demarcacion>Portero</demarcacion>
+                <media>66</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/5b3edf18-ab14-4766-b9a2-bae8c32f447c/730668466.png</imagen>
+            </player>
+            <player nombre="Mark Sorroche">
+                <demarcacion>Delantero</demarcacion>
+                <media>77</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/835992089.png</imagen>
+            </player>
+            <player nombre="Aitor Vives">
+                <demarcacion>Medio</demarcacion>
+                <media>72</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/587c45d1-9b2e-4234-a04a-72f3cbd42404/322984901.png</imagen>
+            </player>
+            <player nombre="Vicenç Oromí">
+                <demarcacion>Delantero</demarcacion>
+                <media>67</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/512726408.png</imagen>
+            </player>
+            <player nombre="Manuel Martín">
+                <demarcacion>Portero</demarcacion>
+                <media>80</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/06425aab-816d-4a4c-b2f9-70bb2290923a/767046703.png</imagen>
+            </player>
+            <player nombre="Álex Cubedo">
+                <demarcacion>Defensa</demarcacion>
+                <media>71</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/9136518c-48ef-46af-842e-d94952f0ef2d/488111983.png</imagen>
+            </player>
+            <player nombre="Carlos Ferres">
+                <demarcacion>Medio</demarcacion>
+                <media>73</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/32070491.png</imagen>
+            </player>
+            <player nombre="Carles Planas">
+                <demarcacion>Defensa</demarcacion>
+                <media>82</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/889456304.png</imagen>
+            </player>
+            <player nombre="Joan Verdú">
+                <demarcacion>Medio</demarcacion>
+                <media>88</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/955874683.png</imagen>
+            </player>
+            <player nombre="Sergio García">
+                <demarcacion>Delantero</demarcacion>
+                <media>78</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/23a61dc6-25c6-4f67-92b0-964d598f7de8/680728023.png</imagen>
+            </player>
+            <player nombre="Román Golobart">
+                <demarcacion>Defensa</demarcacion>
+                <media>78</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/2e16fa4d-9762-47da-ba8f-c6abbb1fcf45/897400914.png</imagen>
+            </player>
+            <player nombre="Brian Quijada">
+                <demarcacion>Delantero</demarcacion>
+                <media>80</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/db69bdb1-1e25-47f1-96e6-e66c8ba13402/749999432.png</imagen>
+            </player>
+        </players>
+    </equipo>
+    <equipo nombre="PIO FC" abr="PIO">
+        <escudo>https://kingsleague-cdn.kama.football/account/production/team/image/540564111.png</escudo>
+        <gradiente>background: linear-gradient(rgba(78, 78, 78, 0.6) 30%, rgba(0, 0, 0, 0.6)
+            90%);</gradiente>
+        <video>
+            https://kingsleague-cdn.kama.football/account/production/team/video/LOOP%20KINGS%20PIO%20FC_v1.mp4</video>
+        <poster>https://cms-es.kingsleague.pro/wp-content/uploads/2024/01/KL-PIO.jpg</poster>
+        <presupuesto>80</presupuesto>
+        <presidente nombre="Rivers">
+            <imagen>
+                https://s3.eu-central-2.wasabisys.com/kingsleague-cdn.kama.football/account/production/staff/74977396.png</imagen>
+        </presidente>
+        <entrenador nombre="Diego Morata">
+            <imagen>
+                https://s3.eu-central-2.wasabisys.com/kingsleague-cdn.kama.football/account/production/staff/image/396542580.png</imagen>
+        </entrenador>
+        <players>
+            <player nombre="Jorge Ibáñez">
+                <demarcacion>Portero</demarcacion>
+                <media>77</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/f80f6186-a912-46de-bcca-88fdccbd7b27/362369474.png</imagen>
+            </player>
+            <player nombre="Iván López &apos;Cokita&apos;">
+                <demarcacion>Medio</demarcacion>
+                <media>65</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/489377379.png</imagen>
+            </player>
+            <player nombre="Aaron Ropero">
+                <demarcacion>Medio</demarcacion>
+                <media>65</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/978734648.png</imagen>
+            </player>
+            <player nombre="Flavio Ruggeri">
+                <demarcacion>Defensa</demarcacion>
+                <media>76</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/924d7813-b172-4c09-821d-f249c049ed11/915380323.png</imagen>
+            </player>
+            <player nombre="Oscar Rivero">
+                <demarcacion>Medio</demarcacion>
+                <media>65</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/9fbc3ad0-03a3-4598-a9eb-03ee29435386/941995259.png</imagen>
+            </player>
+            <player nombre="Carlos Omabegho">
+                <demarcacion>Delantero</demarcacion>
+                <media>75</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/642232416.png</imagen>
+            </player>
+            <player nombre="Dani Ruiz">
+                <demarcacion>Delantero</demarcacion>
+                <media>76</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/671f3c5d-4b06-4b6b-a0db-14be3169cb82/412888412.png</imagen>
+            </player>
+            <player nombre="Jan Coca">
+                <demarcacion>Medio</demarcacion>
+                <media>74</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/136953424.png</imagen>
+            </player>
+            <player nombre="Jandro Megía">
+                <demarcacion>Defensa</demarcacion>
+                <media>71</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/172793635.png</imagen>
+            </player>
+            <player nombre="Lasha L. Macharashvili">
+                <demarcacion>Delantero</demarcacion>
+                <media>68</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/350425504.png</imagen>
+            </player>
+            <player nombre="Alberto Lopo">
+                <demarcacion>Defensa</demarcacion>
+                <media>80</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/2bb7404e-1798-4082-99e1-9f444d09f783/293277491.png</imagen>
+            </player>
+            <player nombre="Marc Torrejón">
+                <demarcacion>Defensa</demarcacion>
+                <media>82</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/83451805.png</imagen>
+            </player>
+            <player nombre="Victor Oribe">
+                <demarcacion>Delantero</demarcacion>
+                <media>78</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/27bdbb73-8a30-401d-a485-1717dfb17cb5/122347212.png</imagen>
+            </player>
+            <player nombre="David Garcia">
+                <demarcacion>Medio</demarcacion>
+                <media>73</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/612ab151-0687-4b9d-bac3-e30feabcd3c1/34961338.png</imagen>
+            </player>
+        </players>
+    </equipo>
+    <equipo nombre="Porcinos FC" abr="POR">
+        <escudo>https://kingsleague-cdn.kama.football/account/production/team/image/560492363.png</escudo>
+        <gradiente>background: linear-gradient(rgba(240, 120, 168, 0.6) 30%, rgba(213, 13, 76,
+            0.6) 90%);</gradiente>
+        <video>
+            https://kingsleague-cdn.kama.football/account/production/team/video/LOOP%20KINGS%20PORCINOS%20FC_v1.mp4</video>
+        <poster>https://cms-es.kingsleague.pro/wp-content/uploads/2024/01/KL-PORCINOS.jpg</poster>
+        <presupuesto>100</presupuesto>
+        <presidente nombre="Ibai Llanos">
+            <imagen>
+                https://s3.eu-central-2.wasabisys.com/kingsleague-cdn.kama.football/account/production/staff/293893384.png</imagen>
+        </presidente>
+        <entrenador nombre="Juvenal Edjogo-Owono">
+            <imagen>
+                https://s3.eu-central-2.wasabisys.com/kingsleague-cdn.kama.football/account/production/staff/image/66234193.png</imagen>
+        </entrenador>
+        <players>
+            <player nombre="Marc Briones">
+                <demarcacion>Portero</demarcacion>
+                <media>82</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/6ea4de2b-e2b2-44a7-ae84-707ea242f1e0/612604178.png</imagen>
+            </player>
+            <player nombre="Jacobo Fernández de Liencres">
+                <demarcacion>Delantero</demarcacion>
+                <media>80</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/3fb4f717-1679-46fb-a530-94f0e4109774/282045543.png</imagen>
+            </player>
+            <player nombre="David Soriano">
+                <demarcacion>Defensa</demarcacion>
+                <media>72</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/67923747-2b9a-442e-aa57-758d41ee482f/929866976.png</imagen>
+            </player>
+            <player nombre="Dorkis Pérez">
+                <demarcacion>Delantero</demarcacion>
+                <media>74</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/58af23e1-ae73-4a01-870d-8e4542771cd2/693579855.png</imagen>
+            </player>
+            <player nombre="Àlex Gutiérrez">
+                <demarcacion>Defensa</demarcacion>
+                <media>82</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/b91697d4-76dd-4e8e-9c7e-20b69524a46d/379930558.png</imagen>
+            </player>
+            <player nombre="Carlitos González">
+                <demarcacion>Medio</demarcacion>
+                <media>66</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/df6bba07-bece-43cc-be17-c8849b746f77/43309199.png</imagen>
+            </player>
+            <player nombre="David Cárdenas">
+                <demarcacion>Defensa</demarcacion>
+                <media>67</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/beb56df3-b46c-4db2-bdc1-f6addd3937c5/198612372.png</imagen>
+            </player>
+            <player nombre="Eloy Amoedo">
+                <demarcacion>Portero</demarcacion>
+                <media>72</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/d9e00b1f-e185-4371-a00f-cac5d4b19964/387078380.png</imagen>
+            </player>
+            <player nombre="Oscar Coll">
+                <demarcacion>Medio</demarcacion>
+                <media>79</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/6ac5bbe8-e0ab-43a6-ae5b-5684985312fe/529734236.png</imagen>
+            </player>
+            <player nombre="Nicolás Santos">
+                <demarcacion>Delantero</demarcacion>
+                <media>68</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/6f792672-0eb2-45de-9ec0-3a359efc39c1/627773217.png</imagen>
+            </player>
+            <player nombre="Godbless Eribo">
+                <demarcacion>Delantero</demarcacion>
+                <media>77</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/2a27f97a-8ad8-4c5e-a159-4f23d5e22e51/196144044.png</imagen>
+            </player>
+            <player nombre="Nadir Louah">
+                <demarcacion>Defensa</demarcacion>
+                <media>85</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/4960f8b0-95e4-45e8-b0d6-07b71d6df01c/777483450.png</imagen>
+            </player>
+            <player nombre="Gerard &apos;Hulk&apos; Artigas">
+                <demarcacion>Delantero</demarcacion>
+                <media>77</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/69975df2-c623-45ef-b94c-94643d72d7a3/288932601.png</imagen>
+            </player>
+            <player nombre="Pablo Hernández">
+                <demarcacion>Medio</demarcacion>
+                <media>86</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/caddea0a-d2b4-469d-998b-da5af162b311/495972795.png</imagen>
+            </player>
+            <player nombre="Xavi Boniquet">
+                <demarcacion>Medio</demarcacion>
+                <media>80</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/c4c35d5f-0dab-4683-ac41-ff0ffdcf763f/425980027.png</imagen>
+            </player>
+            <player nombre="Iván De Nova">
+                <demarcacion>Defensa</demarcacion>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/cf49827c-8ea7-476f-a0a0-672c84e390bd/325385726.png</imagen>
+            </player>
+        </players>
+    </equipo>
+    <equipo nombre="Rayo de Barcelona" abr="RDB">
+        <escudo>https://kingsleague-cdn.kama.football/account/production/team/799394206.png</escudo>
+        <gradiente>background: linear-gradient(rgba(247, 171, 53, 0.6) 30%, rgba(169, 114, 29,
+            0.6) 90%);</gradiente>
+        <video>
+            https://kingsleague-cdn.kama.football/account/production/team/video/LOOP%20KINGS%20RAYO_v1.mp4</video>
+        <poster>https://cms-es.kingsleague.pro/wp-content/uploads/2024/01/KL-RAYO.jpg</poster>
+        <presupuesto>78</presupuesto>
+        <presidente nombre="Spursito">
+            <imagen>
+                https://s3.eu-central-2.wasabisys.com/kingsleague-cdn.kama.football/account/production/staff/395425092.png</imagen>
+        </presidente>
+        <entrenador nombre="Sergio Fernández">
+            <imagen>
+                https://s3.eu-central-2.wasabisys.com/kingsleague-cdn.kama.football/account/production/staff/631490719.png</imagen>
+        </entrenador>
+        <players>
+            <player nombre="Joselete Blanco">
+                <demarcacion>Delantero</demarcacion>
+                <media>67</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/770922349.png</imagen>
+            </player>
+            <player nombre="Pol Lechuga">
+                <demarcacion>Portero</demarcacion>
+                <media>79</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/e4cf6103-6f65-46e3-b9f1-c72847d20be4/729367214.png</imagen>
+            </player>
+            <player nombre="Franky Purtí">
+                <demarcacion>Medio</demarcacion>
+                <media>70</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/e77108bd-990e-4fcc-860e-3ffb08b42abe/964498177.png</imagen>
+            </player>
+            <player nombre="Nacho Berché">
+                <demarcacion>Portero</demarcacion>
+                <media>79</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/7b22bd52-ca27-4782-9040-129dd29b164e/119519712.png</imagen>
+            </player>
+            <player nombre="Joan Poch">
+                <demarcacion>Delantero</demarcacion>
+                <media>77</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/57847807.png</imagen>
+            </player>
+            <player nombre="Daniel Santiago">
+                <demarcacion>Defensa</demarcacion>
+                <media>73</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/383540984.png</imagen>
+            </player>
+            <player nombre="Román Alegre">
+                <demarcacion>Defensa</demarcacion>
+                <media>74</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/794df895-3af5-455b-8f8d-dda734c5bc77/664060946.png</imagen>
+            </player>
+            <player nombre="Isaac Maldonado">
+                <demarcacion>Medio</demarcacion>
+                <media>68</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/757304776.png</imagen>
+            </player>
+            <player nombre="Pol Román">
+                <demarcacion>Defensa</demarcacion>
+                <media>65</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/338114482.png</imagen>
+            </player>
+            <player nombre="Óscar Contreras">
+                <demarcacion>Medio</demarcacion>
+                <media>71</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/e781c32b-78a4-4838-a3a5-2a79a3f8a05b/524822755.png</imagen>
+            </player>
+            <player nombre="Hugo Fraile">
+                <demarcacion>Medio</demarcacion>
+                <media>83</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/798453478.png</imagen>
+            </player>
+            <player nombre="Eric Jiménez">
+                <demarcacion>Delantero</demarcacion>
+                <media>81</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/8d3f2239-6f51-4b4e-b5a5-d05278810770/573144910.png</imagen>
+            </player>
+            <player nombre="Eric Simó">
+                <demarcacion>Delantero</demarcacion>
+                <media>72</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/28d56f9f-cdeb-40f4-8d9a-a2fa4b235772/490775586.png</imagen>
+            </player>
+            <player nombre="Issey Nakajima-Farran">
+                <demarcacion>Delantero</demarcacion>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/db1d649c-9055-474c-be1b-2f1a19c848cf/875783577.png</imagen>
+            </player>
+            <player nombre="Cristian Delgado">
+                <demarcacion>Defensa</demarcacion>
+                <media>71</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/5ef54a30-f93a-46fc-8f30-26a5a86388f8/553804172.png</imagen>
+            </player>
+            <player nombre="David López">
+                <demarcacion>Delantero</demarcacion>
+                <media>73</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/b9ccfc01-cbdc-4b8e-96e0-00179f6491ce/543464785.png</imagen>
+            </player>
+            <player nombre="Daniel Quesada">
+                <demarcacion>Medio</demarcacion>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/35ba21be-cd20-4488-8364-1f9a672886e6/716590419.png</imagen>
+            </player>
+            <player nombre="Joel Paredes">
+                <demarcacion>Delantero</demarcacion>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/1a68f542-8d81-4316-a0ce-0b26920927d7/732731791.png</imagen>
+            </player>
+            <player nombre="Nacho  Catalán">
+                <demarcacion>Delantero</demarcacion>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/08791f38-e83a-447f-a937-46e5f3095bec/402179942.png</imagen>
+            </player>
+        </players>
+    </equipo>
+    <equipo nombre="Saiyans FC" abr="SAI">
+        <escudo>https://kingsleague-cdn.kama.football/account/production/team/461216643.png</escudo>
+        <gradiente>background: linear-gradient(rgba(3, 54, 238, 0.6) 30%, rgba(1, 1, 1, 0.6)
+            90%);</gradiente>
+        <video>
+            https://kingsleague-cdn.kama.football/account/production/team/video/LOOP%20KINGS%20SAYIANS_v1.mp4</video>
+        <poster>https://cms-es.kingsleague.pro/wp-content/uploads/2024/01/KL-SAIYANS.jpg</poster>
+        <presupuesto>130</presupuesto>
+        <presidente nombre="TheGrefg">
+            <imagen>
+                https://s3.eu-central-2.wasabisys.com/kingsleague-cdn.kama.football/account/production/staff/981963133.png</imagen>
+        </presidente>
+        <entrenador nombre="Daniel Romo">
+            <imagen>
+                https://s3.eu-central-2.wasabisys.com/kingsleague-cdn.kama.football/account/production/staff/image/695877691.png</imagen>
+        </entrenador>
+        <players>
+            <player nombre="Gio Ferinu">
+                <demarcacion>Delantero</demarcacion>
+                <media>68</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/242311708.png</imagen>
+            </player>
+            <player nombre="Iván Fajardo">
+                <demarcacion>Portero</demarcacion>
+                <media>65</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/c4db079d-2ee1-4686-8c4a-51ebb1c9ca77/810830405.png</imagen>
+            </player>
+            <player nombre="Dani Pérez">
+                <demarcacion>Portero</demarcacion>
+                <media>80</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/b5b820d4-59de-4d79-98b8-8d20a9c920f3/499435164.png</imagen>
+            </player>
+            <player nombre="Marc Galvany">
+                <demarcacion>Medio</demarcacion>
+                <media>67</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/691930958.png</imagen>
+            </player>
+            <player nombre="Lucca Ribeiro">
+                <demarcacion>Medio</demarcacion>
+                <media>70</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/221725399.png</imagen>
+            </player>
+            <player nombre="Dani Liñares">
+                <demarcacion>Medio</demarcacion>
+                <media>80</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/743192762.png</imagen>
+            </player>
+            <player nombre="Alfons Serra">
+                <demarcacion>Medio</demarcacion>
+                <media>72</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/321604862.png</imagen>
+            </player>
+            <player nombre="Jero Martín">
+                <demarcacion>Medio</demarcacion>
+                <media>67</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/170674318.png</imagen>
+            </player>
+            <player nombre="Albert Giner">
+                <demarcacion>Medio</demarcacion>
+                <media>75</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/785625875.png</imagen>
+            </player>
+            <player nombre="Sergi Gestí">
+                <demarcacion>Delantero</demarcacion>
+                <media>68</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/72e97b84-f160-4832-a34f-cca27630fff8/495600834.png</imagen>
+            </player>
+            <player nombre="Pablo Fernández">
+                <demarcacion>Medio</demarcacion>
+                <media>71</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production-test/seasonTeamPlayer/image/647611761.png</imagen>
+            </player>
+            <player nombre="Martín Mantovani">
+                <demarcacion>Defensa</demarcacion>
+                <media>83</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/62c72a27-6222-485b-8b3a-f29dd129fe2b/745321304.png</imagen>
+            </player>
+            <player nombre="Augusto Fernández">
+                <demarcacion>Medio</demarcacion>
+                <media>81</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/b71381b6-8602-4e8f-9b63-244f2f3922bc/789958965.png</imagen>
+            </player>
+            <player nombre="David López">
+                <demarcacion>Medio</demarcacion>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/3f7b0685-77ff-4b20-b9e1-a16d13a9254e/834473363.png</imagen>
+            </player>
+            <player nombre="David Barral">
+                <demarcacion>Delantero</demarcacion>
+                <media>77</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/e79a4763-2c30-47c4-922d-ab6861d7dd8b/98134621.png</imagen>
+            </player>
+            <player nombre="Alberto García">
+                <demarcacion>Delantero</demarcacion>
+                <media>74</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/27e4526f-c7e4-4e70-ae11-102817cab9b0/882923179.png</imagen>
+            </player>
+            <player nombre="David Gallego">
+                <demarcacion>Delantero</demarcacion>
+                <media>73</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/619ce1d2-3d65-4612-84b9-a01b38233683/794767169.png</imagen>
+            </player>
+        </players>
+    </equipo>
+    <equipo nombre="Ultimate Móstoles" abr="ULT">
+        <escudo>https://kingsleague-cdn.kama.football/account/production/team/image/341755741.png</escudo>
+        <gradiente>background: linear-gradient(rgba(89, 55, 67, 0.6) 30%, rgba(28, 28, 28,
+            0.6) 90%);</gradiente>
+        <video>
+            https://kingsleague-cdn.kama.football/account/production/team/video/LOOP%20KINGS%20ULTIMATE%20MOSTOLES_v1.mp4</video>
+        <poster>https://cms-es.kingsleague.pro/wp-content/uploads/2024/01/KL-ULTIMATE.jpg</poster>
+        <presupuesto>100</presupuesto>
+        <presidente nombre="DjMaRiiO">
+            <imagen>
+                https://s3.eu-central-2.wasabisys.com/kingsleague-cdn.kama.football/account/production/staff/916475124.png</imagen>
+        </presidente>
+        <entrenador nombre="Alex Martínez">
+            <imagen>
+                https://s3.eu-central-2.wasabisys.com/kingsleague-cdn.kama.football/account/production/staff/image/152836346.png</imagen>
+        </entrenador>
+        <players>
+            <player nombre="Kilian Honorato">
+                <demarcacion>Delantero</demarcacion>
+                <media>72</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/d5c2f31b-1803-4d9b-af5f-4ece6d86e03a/466146518.png</imagen>
+            </player>
+            <player nombre="Feliu Torrus">
+                <demarcacion>Medio</demarcacion>
+                <media>81</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/ddd3d426-642b-47b4-990f-cefd1a018570/26691618.png</imagen>
+            </player>
+            <player nombre="Aleix Massegú">
+                <demarcacion>Defensa</demarcacion>
+                <media>76</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/939ac1cb-2a5b-4d50-b0a6-09c7c6354ce5/819474728.png</imagen>
+            </player>
+            <player nombre="Cristian Ubón">
+                <demarcacion>Medio</demarcacion>
+                <media>83</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/269ebf4c-b55e-4d7b-a59c-ad3d7933027f/431697328.png</imagen>
+            </player>
+            <player nombre="Aleix Lage">
+                <demarcacion>Medio</demarcacion>
+                <media>77</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/b9fdcad3-be33-44e3-a6bc-35894f337c39/730011635.png</imagen>
+            </player>
+            <player nombre="Joel Bañuls">
+                <demarcacion>Defensa</demarcacion>
+                <media>79</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/b8348288-a6a9-4507-b09c-b92259925a6a/761118701.png</imagen>
+            </player>
+            <player nombre="Dani Martí">
+                <demarcacion>Defensa</demarcacion>
+                <media>78</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/5c57a7a2-2de6-4426-b6f1-51008e5a42aa/537143150.png</imagen>
+            </player>
+            <player nombre="Aleix Martí">
+                <demarcacion>Delantero</demarcacion>
+                <media>78</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/3e1523ea-8e5e-4a9e-a80a-31aa2dac6b70/879241396.png</imagen>
+            </player>
+            <player nombre="Eloy Pizarro">
+                <demarcacion>Defensa</demarcacion>
+                <media>74</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/b1206a2e-50ad-4d4e-90fb-799cac350818/237433060.png</imagen>
+            </player>
+            <player nombre="Víctor Vidal">
+                <demarcacion>Portero</demarcacion>
+                <media>84</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/da826a1a-3014-4ab2-a228-ba96c714c0fd/571924193.png</imagen>
+            </player>
+            <player nombre="Hichem  Boumedol">
+                <demarcacion>Medio</demarcacion>
+                <media>73</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/911f23db-7efb-46ed-959d-99500a4511b0/701734615.png</imagen>
+            </player>
+            <player nombre="Ferran Corominas">
+                <demarcacion>Delantero</demarcacion>
+                <media>86</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/548a5f62-af1b-4b7f-b75f-daa47710ee84/440637656.png</imagen>
+            </player>
+            <player nombre="Alberto Bueno">
+                <demarcacion>Medio</demarcacion>
+                <media>87</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/3f9099fd-a246-408b-b9dc-7997ab5af3a4/295950974.png</imagen>
+            </player>
+            <player nombre="Diego de la Mata">
+                <demarcacion>Defensa</demarcacion>
+                <media>76</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/fe998712-bcb2-443f-9995-1bc48f30e3c9/869446175.png</imagen>
+            </player>
+            <player nombre="Alberto de la Bella">
+                <demarcacion>Defensa</demarcacion>
+                <media>88</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/8f7b6e84-998c-4c28-a5ac-6161bfcc32fb/636673373.png</imagen>
+            </player>
+            <player nombre="Martí Garriga">
+                <demarcacion>Defensa</demarcacion>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/4bad1b37-ae88-4c17-91fc-7a8ac3a8fef2/830305212.png</imagen>
+            </player>
+        </players>
+    </equipo>
+    <equipo nombre="xBuyer Team" abr="XBU">
+        <escudo>https://kingsleague-cdn.kama.football/account/production/team/image/44439489.png</escudo>
+        <gradiente>background: linear-gradient(rgba(246, 235, 100, 0.6) 30%, rgba(18, 0, 255,
+            0.6) 90%);</gradiente>
+        <video>
+            https://kingsleague-cdn.kama.football/account/production/team/video/LOOP%20KINGS%20XBUYER_v1.mp4</video>
+        <poster>https://cms-es.kingsleague.pro/wp-content/uploads/2024/01/KL-XBUYER.jpg</poster>
+        <presupuesto>88</presupuesto>
+        <presidente nombre="Hnos. Buyer">
+            <imagen>
+                https://s3.eu-central-2.wasabisys.com/kingsleague-cdn.kama.football/account/production/staff/285223459.png</imagen>
+        </presidente>
+        <entrenador nombre="Victor González">
+            <imagen>
+                https://s3.eu-central-2.wasabisys.com/kingsleague-cdn.kama.football/account/production/staff/image/905798202.png</imagen>
+        </entrenador>
+        <players>
+            <player nombre="Victor Torres">
+                <demarcacion>Defensa</demarcacion>
+                <media>64</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/3bf93299-18bc-4904-badd-1d3096ca01db/701965718.png</imagen>
+            </player>
+            <player nombre="Roger Carbó">
+                <demarcacion>Medio</demarcacion>
+                <media>83</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/896df94f-5724-44a6-843d-b117e9ae0311/150817812.png</imagen>
+            </player>
+            <player nombre="Pablo Beguer">
+                <demarcacion>Medio</demarcacion>
+                <media>82</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/d016233c-1ab2-41d7-8c79-340c593872cc/633447117.png</imagen>
+            </player>
+            <player nombre="Roger de la Villa">
+                <demarcacion>Delantero</demarcacion>
+                <media>70</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/3bb16427-a9cb-4d34-b302-80c80c013e58/138584004.png</imagen>
+            </player>
+            <player nombre="Daniel Pérez">
+                <demarcacion>Medio</demarcacion>
+                <media>73</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/43a30374-78c5-4210-963d-64c0819c23a7/651666856.png</imagen>
+            </player>
+            <player nombre="Juanma González">
+                <demarcacion>Delantero</demarcacion>
+                <media>80</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/afda22f0-08bc-4e33-9d02-cdde793b82c6/827524842.png</imagen>
+            </player>
+            <player nombre="Adrià &apos;Capi&apos; Gutiérrez">
+                <demarcacion>Portero</demarcacion>
+                <media>80</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/adbdd5e0-f7e1-44a2-a7dc-e68e09c6dda5/161375954.png</imagen>
+            </player>
+            <player nombre="Antoni Hernández">
+                <demarcacion>Delantero</demarcacion>
+                <media>80</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/f01cca82-9c8d-4f08-9f64-6a1d10a47f00/348579012.png</imagen>
+            </player>
+            <player nombre="Pau Llastarry">
+                <demarcacion>Defensa</demarcacion>
+                <media>74</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/f7597446-11de-4bac-9f25-4c55549e1412/322844994.png</imagen>
+            </player>
+            <player nombre="Alex Romero">
+                <demarcacion>Portero</demarcacion>
+                <media>69</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/e2b28db7-4de7-436b-b402-c5d2ff2dc0e3/967886979.png</imagen>
+            </player>
+            <player nombre="Iker Alcarazo">
+                <demarcacion>Delantero</demarcacion>
+                <media>72</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/d2c4c200-f1f2-46e7-ae56-ce1c712e8699/213569764.png</imagen>
+            </player>
+            <player nombre="Nacho Pedraza">
+                <demarcacion>Medio</demarcacion>
+                <media>72</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/8edc4b6a-9670-4add-be7b-cf3a8102c514/342283917.png</imagen>
+            </player>
+            <player nombre="Iván  Dionisio">
+                <demarcacion>Delantero</demarcacion>
+                <media>72</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/9afc34c5-e9e2-4b5e-a4df-f26ac7dda981/390433620.png</imagen>
+            </player>
+            <player nombre="Fuad El Amrani">
+                <demarcacion>Medio</demarcacion>
+                <media>76</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/ad498c19-99f2-4910-956a-6381a09934a8/511683385.png</imagen>
+            </player>
+            <player nombre="Adri Gimeno">
+                <demarcacion>Medio</demarcacion>
+                <media>80</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/d98155cc-8295-4ec6-a877-9ab3dd795438/554969609.png</imagen>
+            </player>
+            <player nombre="Fernando Velillas">
+                <demarcacion>Delantero</demarcacion>
+                <media>80</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/761ee093-67eb-403f-bf06-33c9f85783c9/394698164.png</imagen>
+            </player>
+            <player nombre="Pere Martínez">
+                <demarcacion>Defensa</demarcacion>
+                <media>76</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/7adf7a97-e188-4007-a26f-4469e0754dcb/302752402.png</imagen>
+            </player>
+            <player nombre="Albert  Dorca">
+                <demarcacion>Medio</demarcacion>
+                <media>73</media>
+                <imagen>https://kingsleague-cdn.kama.football/account/production/seasonTeamPlayer/1f80bbcb-8b50-4497-8a51-c72e0da1c8ae/316912348.png</imagen>
+            </player>
+        </players>
+    </equipo>
+</kingsleague>

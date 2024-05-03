@@ -1,0 +1,1020 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="style.xsl" type="text/xsl"?>
+<kiabi>
+    <categoria nombre="Camisas y blusas">
+        <foto>https://static.kiabi.es/images/camiseta-lisa-de-punto-rosa-suave-xi234_66_sr1.jpg</foto>
+        <prenda>
+            <foto>https://static.kiabi.es/images/blusa-de-gasa-de-algodon-blanco-bio15_2_frf2.jpg</foto>
+            <producto>Blusa de gasa de algodón</producto>
+            <precio>20.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/blusa-de-gasa-de-plumeti-negro-baw24_2_frf2.jpg</foto>
+
+            <producto>Blusa de gasa de &apos;plumeti&apos;</producto>
+            <precio>18.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/blusa-de-gasa-de-algodon-beige-bio15_4_frf2.jpg</foto>
+            <producto>Blusa de gasa de algodón</producto>
+            <precio>20.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/blusa-de-tejido-de-crepe-rosa-bim64_1_frf2.jpg</foto>
+            <producto>Blusa de tejido de crepé</producto>
+            <precio>26.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/blusa-de-gasa-de-algodon-rosa-bio15_1_frf2.jpg</foto>
+            <producto>Blusa de gasa de algodón</producto>
+            <precio>20.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/blusa-de-gasa-de-plumeti-blanco-baw24_1_frf1.jpg</foto>
+            <producto>Blusa de gasa de &apos;plumeti&apos;</producto>
+            <precio>18.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/blusa-con-cuello-de-pico-y-motivos-azul-bjl95_1_frf1.jpg</foto>
+            <producto>Blusa con cuello de pico y motivos</producto>
+            <precio>25.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/blusa-vaporosa-blanco-baw16_2_frf1.jpg</foto>
+            <producto>Blusa vaporosa</producto>
+            <precio>12.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/blusa-vaporosa-marino-baw16_3_frf1.jpg</foto>
+            <producto>Blusa vaporosa</producto>
+            <precio>12.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/blusa-ligera-con-cuello-de-pijama-azul-baw27_1_frf1.jpg</foto>
+            <producto>Blusa ligera con cuello de pijama</producto>
+            <precio>20.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/blusa-de-gasa-de-plumeti-rosa-baw24_3_frf1.jpg</foto>
+            <producto>Blusa de gasa de &apos;plumeti&apos;</producto>
+            <precio>18.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/blusa-de-manga-corta-de-punto-de-crepe-marron-baw20_1_frf1.jpg</foto>
+            <producto>Blusa de manga corta de punto de crepé</producto>
+            <precio>12.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/blusa-de-plumeti-blanco-baw19_2_frf1.jpg</foto>
+            <producto>Blusa de plumeti</producto>
+            <precio>15.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/blusa-bordada-y-calada-con-cuello-de-pico-rosa-bpy90_1_frf1.jpg</foto>
+            <producto>Blusa bordada y calada con cuello de pico</producto>
+            <precio>22.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vestido-camisero-premama-de-gasa-de-algodon-blanco-bcv93_1_frf1.jpg</foto>
+            <producto>Vestido camisero premamá de gasa de algodón</producto>
+            <precio>16.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/blusa-satinada-con-encaje-blanco-acw46_1_frf1.jpg</foto>
+            <producto>Blusa satinada con encaje</producto>
+            <precio>15.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/top-vaporoso-negro-zj072_3_frf1.jpg</foto>
+            <producto>Top vaporoso</producto>
+            <precio>10.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/blusa-de-plumeti-negro-baw19_3_frf1.jpg</foto>
+            <producto>Blusa de plumeti</producto>
+            <precio>15.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/blusa-con-estampado-marron-baw25_2_frf1.jpg</foto>
+            <producto>Blusa con estampado</producto>
+            <precio>15.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/blusa-vaporosa-rosa-baw16_4_frf1.jpg</foto>
+            <producto>Blusa vaporosa</producto>
+            <precio>12.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/top-vaporoso-blanco-zj072_2_frf1.jpg</foto>
+            <producto>Top vaporoso</producto>
+            <precio>10.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/blusa-de-gasa-con-plumeti-rosa-azh78_4_frf1.jpg</foto>
+            <producto>Blusa de gasa con plumeti</producto>
+            <precio>18.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/blusa-fluida-con-volante-en-el-cuello-blanco-baw23_4_frf1.jpg</foto>
+            <producto>Blusa fluida con volante en el cuello</producto>
+            <precio>15.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/blusa-con-estampado-azul-baw25_3_frf1.jpg</foto>
+            <producto>Blusa con estampado</producto>
+            <precio>15.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/camisa-vaporosa-blanco-xm738_1_frf1.jpg</foto>
+            <producto>Camisa vaporosa</producto>
+            <precio>12.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vestido-camisero-premama-de-gasa-de-algodon-amarillo-bcv93_2_frf1.jpg</foto>
+            <producto>Vestido camisero premamá de gasa de algodón</producto>
+            <precio>16.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/blusa-ligera-con-cuello-de-pijama-verde-baw27_2_frf1.jpg</foto>
+            <producto>Blusa ligera con cuello de pijama</producto>
+            <precio>20.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/blusa-de-gasa-de-algodon-azul-bio15_3_frf1.jpg</foto>
+            <producto>Blusa de gasa de algodón</producto>
+            <precio>20.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/blusa-de-manga-corta-de-punto-de-crepe-verde-baw20_3_frf1.jpg</foto>
+            <producto>Blusa de manga corta de punto de crepé</producto>
+            <precio>12.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/blusa-fluida-con-volante-en-el-cuello-negro-baw23_3_frf1.jpg</foto>
+            <producto>Blusa fluida con volante en el cuello</producto>
+            <precio>15.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/blusa-vaporosa-verde-baw16_1_frf1.jpg</foto>
+            <producto>Blusa vaporosa</producto>
+            <precio>12.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/blusa-con-cuello-mao-verde-azl99_2_frf1.jpg</foto>
+            <producto>Blusa con cuello mao</producto>
+            <precio>18.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/camisa-ajustada-con-cuello-italiano-azul-yz543_2_frf1.jpg</foto>
+            <producto>Camisa ajustada con cuello italiano</producto>
+            <precio>10.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/camisa-vaporosa-negro-xm738_8_frf1.jpg</foto>
+            <producto>Camisa vaporosa</producto>
+            <precio>12.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/top-de-tirantes-finos-negro-vs169_2_frf1.jpg</foto>
+            <producto>Top de tirantes finos</producto>
+            <precio>5.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/blusa-con-estampado-negro-baw25_4_frf1.jpg</foto>
+            <producto>Blusa con estampado</producto>
+            <precio>15.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/blusa-de-manga-corta-de-punto-de-crepe-azul-baw20_2_frf1.jpg</foto>
+            <producto>Blusa de manga corta de punto de crepé</producto>
+            <precio>12.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/top-vaporoso-purpura-zj072_23_frf1.jpg</foto>
+            <producto>Top vaporoso</producto>
+            <precio>10.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/blusa-satinada-verde-azb17_7_frf1.jpg</foto>
+            <producto>Blusa satinada</producto>
+            <precio>15.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/blusa-de-fantasia-verde-bav57_2_frf1.jpg</foto>
+            <producto>Blusa de fantasía</producto>
+            <precio>18.00</precio>
+        </prenda>
+    </categoria>
+    <categoria nombre="Camisetas">
+        <foto>https://static.kiabi.es/images/camisa-oversize-a-rayas-azul-bub83_1_sr1.jpg</foto>
+        <prenda>
+            <foto>https://static.kiabi.es/images/camiseta-lisa-sin-mangas-negro-bhr47_5_frf1.jpg</foto>
+            <producto>Camiseta lisa sin mangas</producto>
+            <precio>8.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/camiseta-elastica-de-cuello-cuadrado-blanco-bhr38_1_frf1.jpg</foto>
+            <producto>Camiseta elástica de cuello cuadrado</producto>
+            <precio>8.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/camiseta-lisa-de-punto-azul-xi234_22_frf1.jpg</foto>
+            <producto>Camiseta lisa de punto</producto>
+            <precio>4.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/camiseta-inscripcion-en-relieve-sparkle-gris-btw39_1_frf1.jpg</foto>
+            <producto>Camiseta inscripción en relieve &apos;Sparkle&apos;</producto>
+            <precio>13.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/camiseta-corazones-verde-xi236_134_frf1.jpg</foto>
+            <producto>Camiseta &apos;corazones&apos;</producto>
+            <precio>5.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/camiseta-corazones-purpura-xi236_131_frf1.jpg</foto>
+            <producto>Camiseta &apos;corazones&apos;</producto>
+            <precio>5.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/camiseta-elastica-de-cuello-cuadrado-negro-bhr38_2_frf1.jpg</foto>
+            <producto>Camiseta elástica de cuello cuadrado</producto>
+            <precio>8.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/camiseta-de-punto-calado-azul-bqh46_2_frf1.jpg</foto>
+            <producto>Camiseta de punto calado</producto>
+            <precio>15.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/camiseta-clasica-vaporosa-negro-caf72_3_frf1.jpg</foto>
+            <producto>Camiseta clásica vaporosa</producto>
+            <precio>15.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/camiseta-lisa-de-punto-blanco-xi234_7_frf1.jpg</foto>
+            <producto>Camiseta lisa de punto</producto>
+            <precio>4.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/camiseta-corazones-rosa-xi236_123_frf1.jpg</foto>
+            <producto>Camiseta &apos;corazones&apos;</producto>
+            <precio>5.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/camiseta-basica-amarillo-ayy96_2_frf1.jpg</foto>
+            <producto>Camiseta básica</producto>
+            <precio>4.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/camiseta-lisa-de-punto-gris-xi234_69_frf1.jpg</foto>
+            <producto>Camiseta lisa de punto</producto>
+            <precio>4.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/camiseta-de-tirantes-finos-negro-fm862_6_frf1.jpg</foto>
+            <producto>Camiseta de tirantes finos</producto>
+            <precio>2.50</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/camiseta-corazones-blanco-xi236_142_frf1.jpg</foto>
+            <producto>Camiseta &apos;corazones&apos;</producto>
+            <precio>5.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/camiseta-basica-rosa-ayy96_6_frf1.jpg</foto>
+            <producto>Camiseta básica</producto>
+            <precio>4.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/camiseta-lisa-de-punto-rosa-suave-xi234_66_frf1.jpg</foto>
+            <producto>Camiseta lisa de punto</producto>
+            <precio>4.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/camiseta-sin-mangas-negro-ayy86_1_frf1.jpg</foto>
+            <producto>Camiseta sin mangas</producto>
+            <precio>4.50</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/camiseta-lisa-de-punto-azul-xi234_67_frf1.jpg</foto>
+            <producto>Camiseta lisa de punto</producto>
+            <precio>4.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/camiseta-lisa-sin-mangas-rosa-bhr47_1_frf1.jpg</foto>
+            <producto>Camiseta lisa sin mangas</producto>
+            <precio>8.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/camiseta-elastica-de-cuello-cuadrado-verde-bhr38_3_frf1.jpg</foto>
+            <producto>Camiseta elástica de cuello cuadrado</producto>
+            <precio>8.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/camiseta-corazones-blanco-xi236_127_frf1.jpg</foto>
+            <producto>Camiseta &apos;corazones&apos;</producto>
+            <precio>5.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/camiseta-elastica-de-cuello-cuadrado-beige-bhr38_4_frf1.jpg</foto>
+            <producto>Camiseta elástica de cuello cuadrado</producto>
+            <precio>8.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/camiseta-lisa-de-punto-rosa-fucsia-xi234_68_frf1.jpg</foto>
+            <producto>Camiseta lisa de punto</producto>
+            <precio>4.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/camiseta-corazones-blanco-xi236_126_frf1.jpg</foto>
+            <producto>Camiseta &apos;corazones&apos;</producto>
+            <precio>5.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/camiseta-de-punto-calado-marron-bqh46_5_frf1.jpg</foto>
+            <producto>Camiseta de punto calado</producto>
+            <precio>15.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/camiseta-lisa-sin-mangas-beige-bhr47_2_frf1.jpg</foto>
+            <producto>Camiseta lisa sin mangas</producto>
+            <precio>8.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/camiseta-de-tirantes-de-canale-con-cuello-americano-negro-azx39_1_frf1.jpg</foto>
+            <producto>Camiseta de tirantes de canalé con cuello americano</producto>
+            <precio>6.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/camiseta-de-tirantes-finos-blanco-fm862_1_frf1.jpg</foto>
+            <producto>Camiseta de tirantes finos</producto>
+            <precio>2.50</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/camiseta-basica-con-manga-caida-azul-bhr46_2_frf1.jpg</foto>
+            <producto>Camiseta básica con manga caída</producto>
+            <precio>10.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/camiseta-corazones-blanco-xi236_82_frf1.jpg</foto>
+            <producto>Camiseta &apos;corazones&apos;</producto>
+            <precio>5.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/body-de-canale-de-leopardo-beige-btt98_3_frf1.jpg</foto>
+            <producto>Body de canalé de leopardo</producto>
+            <precio>12.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/camiseta-de-punto-con-cuello-de-pico-negro-iris-zj406_44_frf1.jpg</foto>
+            <producto>Camiseta de punto con cuello de pico</producto>
+            <precio>6.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/camiseta-de-punto-calado-gris-bqh46_4_frf1.jpg</foto>
+            <producto>Camiseta de punto calado</producto>
+            <precio>15.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/camiseta-corazones-verde-xi236_135_frf1.jpg</foto>
+            <producto>Camiseta &apos;corazones&apos;</producto>
+            <precio>5.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/camiseta-sin-mangas-basica-acanalada-negro-bbq66_1_frf1.jpg</foto>
+            <producto>Camiseta sin mangas básica acanalada</producto>
+            <precio>7.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/camiseta-sin-mangas-con-hombreras-negro-bqg79_2_frf1.jpg</foto>
+            <producto>Camiseta sin mangas con hombreras</producto>
+            <precio>12.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/camiseta-de-tirantes-finos-negro-azi86_1_frf1.jpg</foto>
+            <producto>Camiseta de tirantes finos</producto>
+            <precio>8.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/camiseta-de-tirantes-finos-verde-azi85_5_frf1.jpg</foto>
+            <producto>Camiseta de tirantes finos</producto>
+            <precio>5.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/camiseta-de-punto-blanco-bbq61_1_frf1.jpg</foto>
+            <producto>Camiseta de punto</producto>
+            <precio>8.00</precio>
+        </prenda>
+    </categoria>
+    <categoria nombre="Pantalones">
+        <foto>https://static.kiabi.es/images/pantalon-ancho-con-pinzas-negro-bji64_2_sr1.jpg</foto>
+        <prenda>
+            <foto>https://static.kiabi.es/images/pantalon-ancho-de-cintura-elastica-negro-bik69_1_frf2.jpg</foto>
+            <producto>Pantalón ancho de cintura elástica</producto>
+            <precio>22.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/pantalon-de-sastre-de-talle-alto-beige-bfb56_1_frf2.jpg</foto>
+            <producto>Pantalón de sastre de talle alto</producto>
+            <precio>15.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/pantalon-ancho-de-crepe-rosa-bim56_1_frf2.jpg</foto>
+            <producto>Pantalón ancho de crepé</producto>
+            <precio>22.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/pantalon-ancho-beige-bqh17_1_frf2.jpg</foto>
+            <producto>Pantalón ancho</producto>
+            <precio>18.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/pantalon-ancho-beige-bfl44_1_frf2.jpg</foto>
+            <producto>Pantalón ancho</producto>
+            <precio>25.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/pantalon-con-corte-de-pitillo-blanco-bfl37_2_frf1.jpg</foto>
+            <producto>Pantalón con corte de pitillo</producto>
+            <precio>20.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/pantalon-de-traje-de-corte-ancho-blanco-bfl39_1_frf1.jpg</foto>
+            <producto>Pantalón de traje de corte ancho</producto>
+            <precio>20.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/pantalon-ancho-vaporoso-rosa-bim52_2_frf1.jpg</foto>
+            <producto>Pantalón ancho vaporoso</producto>
+            <precio>22.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/pantalon-de-deporte-de-punto-fino-negro-tv684_2_frf1.jpg</foto>
+            <producto>Pantalón de deporte de punto fino</producto>
+            <precio>12.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/pantalon-recto-de-tiro-alto-beige-bhy73_2_frf1.jpg</foto>
+            <producto>Pantalón recto de tiro alto</producto>
+            <precio>25.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/pantalon-de-traje-de-corte-ancho-azul-bfl39_2_frf1.jpg</foto>
+            <producto>Pantalón de traje de corte ancho</producto>
+            <precio>20.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/legging-largo-de-algodon-negro-baa24_1_frf1.jpg</foto>
+            <producto>Legging largo de algodón</producto>
+            <precio>9.50</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/legging-de-deporte-negro-tn222_4_frf1.jpg</foto>
+            <producto>Legging de deporte</producto>
+            <precio>7.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/pantalon-ancho-negro-bqh17_2_frf1.jpg</foto>
+            <producto>Pantalón ancho</producto>
+            <precio>18.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/pantalon-corto-deportivo-jaspeado-de-chandal-negro-azw93_1_frf1.jpg</foto>
+            <producto>Pantalón corto deportivo jaspeado de chándal</producto>
+            <precio>8.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/pantalon-de-punto-plisado-con-cintura-elastica-negro-bij17_1_frf1.jpg</foto>
+            <producto>Pantalón de punto plisado con cintura elástica</producto>
+            <precio>18.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/legging-de-viscosa-negro-du687_39_frf1.jpg</foto>
+            <producto>Legging de viscosa</producto>
+            <precio>9.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/pantalon-capri-jogging-negro-zk702_1_frf1.jpg</foto>
+            <producto>Pantalón capri jogging</producto>
+            <precio>8.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/pantalon-recto-de-tiro-alto-blanco-baj94_2_frf1.jpg</foto>
+            <producto>Pantalón recto de tiro alto</producto>
+            <precio>20.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/pantalon-ancho-vaporoso-naranja-bim52_1_frf1.jpg</foto>
+            <producto>Pantalón ancho vaporoso</producto>
+            <precio>22.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/pantalon-de-jogging-de-felpa-gris-zq913_10_frf1.jpg</foto>
+            <producto>Pantalón de jogging de felpa</producto>
+            <precio>12.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/pantalon-recto-de-tiro-alto-marron-bty93_3_frf1.jpg</foto>
+            <producto>Pantalón recto de tiro alto</producto>
+            <precio>25.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/legging-con-estampado-de-leopardo-marron-azy83_1_frf1.jpg</foto>
+            <producto>Legging con estampado de leopardo</producto>
+            <precio>12.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/pantalon-ancho-de-gasa-de-algodon-negro-box61_1_frf1.jpg</foto>
+            <producto>Pantalón ancho de gasa de algodón</producto>
+            <precio>20.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/legging-premama-largo-de-punto-liso-negro-bam27_1_frf1.jpg</foto>
+            <producto>Legging premamá largo de punto liso</producto>
+            <precio>10.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/pantalon-pitillo-blanco-ayq69_4_frf1.jpg</foto>
+            <producto>Pantalón pitillo</producto>
+            <precio>15.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/short-ciclista-de-punto-liso-negro-baa27_2_frf1.jpg</foto>
+            <producto>Short ciclista de punto liso</producto>
+            <precio>7.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/pantalon-recto-de-tiro-alto-beige-baj94_1_frf1.jpg</foto>
+            <producto>Pantalón recto de tiro alto</producto>
+            <precio>20.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/pantalon-corto-deportivo-jaspeado-de-chandal-rosa-azw93_6_frf1.jpg</foto>
+            <producto>Pantalón corto deportivo jaspeado de chándal</producto>
+            <precio>8.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/pantalon-ancho-de-punto-kaki-brl29_2_frf1.jpg</foto>
+            <producto>Pantalón ancho de punto</producto>
+            <precio>18.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vaquero-recto-de-tiro-alto-marron-box58_2_frf1.jpg</foto>
+            <producto>Vaquero recto de tiro alto</producto>
+            <precio>22.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/pantalon-ancho-de-punto-negro-brl29_1_frf1.jpg</foto>
+            <producto>Pantalón ancho de punto</producto>
+            <precio>18.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/pantalon-ancho-de-punto-de-crepe-negro-bgt88_5_frf1.jpg</foto>
+            <producto>Pantalón ancho de punto de crepé</producto>
+            <precio>16.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/short-ciclista-de-punto-liso-beige-baa27_1_frf1.jpg</foto>
+            <producto>Short ciclista de punto liso</producto>
+            <precio>7.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/pantalon-corto-deportivo-jaspeado-de-chandal-gris-azw93_2_frf1.jpg</foto>
+            <producto>Pantalón corto deportivo jaspeado de chándal</producto>
+            <precio>8.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/legging-verde-azw07_2_frf1.jpg</foto>
+            <producto>Legging</producto>
+            <precio>8.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/pantalon-pitillo-rosa-ayq69_3_frf1.jpg</foto>
+            <producto>Pantalón pitillo</producto>
+            <precio>15.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/legging-largo-de-algodon-blanco-baa24_4_frf1.jpg</foto>
+            <producto>Legging largo de algodón</producto>
+            <precio>9.50</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/pantalon-tapered-verde-azf12_3_frf1.jpg</foto>
+            <producto>Pantalón tapered</producto>
+            <precio>25.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/pantalon-recto-con-bolsillos-de-parche-negro-box45_1_frf1.jpg</foto>
+            <producto>Pantalón recto con bolsillos de parche</producto>
+            <precio>22.00</precio>
+        </prenda>
+    </categoria>
+    <categoria nombre="Vaqueros">
+        <foto>https://static.kiabi.es/images/pantalon-vaquero-con-cintura-elastica-azul-bdo65_2_sr1.jpg</foto>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vaquero-flare---l30-azul-zk664_4_frf2.jpg</foto>
+            <producto>Vaquero flare - L30</producto>
+            <precio>20.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/jegging-regular-elastico-de-tiro-alto-negro-ayb82_2_frf2.jpg</foto>
+            <producto>Jegging regular elástico de tiro alto</producto>
+            <precio>15.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vaquero-wide-leg-ancho-azul-bgg01_1_frf2.jpg</foto>
+            <producto>Vaquero wide leg / ancho</producto>
+            <precio>20.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vaquero-skinny-de-tiro-alto-azul-acg04_4_frf2.jpg</foto>
+            <producto>Vaquero skinny de tiro alto</producto>
+            <precio>20.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vaquero-wide-leg---32-l-azul-zk661_5_frf2.jpg</foto>
+            <producto>Vaquero wide leg - 32 L</producto>
+            <precio>22.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vaquero-regular-de-tiro-alto-3828l-azul-aci45_2_frf1.jpg</foto>
+            <producto>Vaquero regular de tiro alto 38/28L</producto>
+            <precio>18.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vaquero-regular-l32-azul-acm07_2_frf1.jpg</foto>
+            <producto>Vaquero regular L32</producto>
+            <precio>22.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vaquero-regular-l28-azul-acm06_4_frf1.jpg</foto>
+            <producto>Vaquero regular L28</producto>
+            <precio>22.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/corte-muy-entalladovaqueros-skinny-fit-azul-zq822_1_frf1.jpg</foto>
+            <producto>Corte muy entallado/vaqueros skinny fit</producto>
+            <precio>10.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vaquero-regular-l32-azul-acm07_3_frf1.jpg</foto>
+            <producto>Vaquero regular L32</producto>
+            <precio>22.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vaquero-skinny-de-tiro-alto-blanco-acg04_2_frf1.jpg</foto>
+            <producto>Vaquero skinny de tiro alto</producto>
+            <precio>20.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vaquero-skinny-de-tiro-alto-negro-acg04_1_frf1.jpg</foto>
+            <producto>Vaquero skinny de tiro alto</producto>
+            <precio>20.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vaquero-regular-l32-azul-acm07_4_frf1.jpg</foto>
+            <producto>Vaquero regular L32</producto>
+            <precio>22.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/pantalon-vaquero-wide-leg-blanco-bgf99_2_frf1.jpg</foto>
+            <producto>Pantalón vaquero wide leg</producto>
+            <precio>25.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/pantalon-skinny-elastico---5-bolsillos---l30-negro-acf89_1_frf1.jpg</foto>
+            <producto>Pantalón skinny elástico - 5 bolsillos - L30</producto>
+            <precio>25.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/corte-muy-entalladovaqueros-skinny-fit-negro-zq822_2_frf1.jpg</foto>
+            <producto>Corte muy entallado/vaqueros skinny fit</producto>
+            <precio>10.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/corte-muy-entalladovaqueros-skinny-fit-azul-zq822_4_frf1.jpg</foto>
+            <producto>Corte muy entallado/vaqueros skinny fit</producto>
+            <precio>10.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vaquero-skinny-de-tiro-alto-azul-acg04_3_frf1.jpg</foto>
+            <producto>Vaquero skinny de tiro alto</producto>
+            <precio>20.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vaquero-regular-l34-azul-acm08_3_frf1.jpg</foto>
+            <producto>Vaquero regular L34</producto>
+            <precio>22.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vaquero-skinny-de-tiro-alto---l34-blanco-axl42_1_frf1.jpg</foto>
+            <producto>Vaquero skinny de tiro alto - L34</producto>
+            <precio>18.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vaquero-regular-de-tiro-alto---l34-azul-aci47_2_frf1.jpg</foto>
+            <producto>Vaquero regular de tiro alto - L34</producto>
+            <precio>18.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/peto-vaquero-beige-bhr48_1_frf1.jpg</foto>
+            <producto>Peto vaquero</producto>
+            <precio>25.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vaquero-wide-leg---30-l-negro-zk660_1_frf1.jpg</foto>
+            <producto>Vaquero wide leg - 30 L</producto>
+            <precio>22.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/jegging-regular-elastico-de-tiro-alto-azul-ayb82_1_frf1.jpg</foto>
+            <producto>Jegging regular elástico de tiro alto</producto>
+            <precio>15.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vaquero-wide-leg-azul-bdo70_1_frf1.jpg</foto>
+            <producto>Vaquero wide leg</producto>
+            <precio>25.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vaquero-ancho-de-tiro-alto-negro-bdo66_2_frf1.jpg</foto>
+            <producto>Vaquero ancho de tiro alto</producto>
+            <precio>25.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vaquero-regular-l34-azul-acm08_4_frf1.jpg</foto>
+            <producto>Vaquero regular L34</producto>
+            <precio>22.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vaquero-regular-de-tiro-alto-3828l-azul-aci45_3_frf1.jpg</foto>
+            <producto>Vaquero regular de tiro alto 38/28L</producto>
+            <precio>18.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vaquero-slim---l28-azul-adc89_4_frf1.jpg</foto>
+            <producto>Vaquero slim - L28</producto>
+            <precio>18.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/pantalon-vaquero-wide-leg-azul-bgf99_1_frf1.jpg</foto>
+            <producto>Pantalón vaquero wide leg</producto>
+            <precio>25.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vaquero-regular---l30-azul-acf58_4_frf1.jpg</foto>
+            <producto>Vaquero regular - L30</producto>
+            <precio>18.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/pantalon-vaquero-slim---l32-negro-adc91_1_frf1.jpg</foto>
+            <producto>Pantalón vaquero slim - L32</producto>
+            <precio>18.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vaquero-acampanado-con-5bolsillos---l28-azul-ahr47_3_frf1.jpg</foto>
+            <producto>Vaquero acampanado con 5 bolsillos - L28</producto>
+            <precio>20.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/pantalon-mom-con-talle-muy-alto---l30-azul-zk669_6_frf1.jpg</foto>
+            <producto>Pantalón mom con talle muy alto - L30</producto>
+            <precio>20.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/pantalon-vaquero-slim-l30-azul-adc84_4_frf1.jpg</foto>
+            <producto>Pantalón vaquero slim L30</producto>
+            <precio>18.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vaquero-slim---l28-azul-adc89_2_frf1.jpg</foto>
+            <producto>Vaquero slim - L28</producto>
+            <precio>18.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vaquero-skinny-de-talle-alto-azul-vl758_5_frf1.jpg</foto>
+            <producto>Vaquero skinny de talle alto</producto>
+            <precio>25.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vaquero-mom-de-tiro-alto-l34---5-bolsillos-azul-acm11_4_frf1.jpg</foto>
+            <producto>Vaquero mom de tiro alto L34 - 5 bolsillos</producto>
+            <precio>22.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/pantalon-vaquero-wide-leg-azul-aof26_1_frf1.jpg</foto>
+            <producto>Pantalón vaquero wide leg</producto>
+            <precio>25.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vaquero-wide-leg-gris-bdo70_2_frf1.jpg</foto>
+            <producto>Vaquero wide leg</producto>
+            <precio>25.00</precio>
+        </prenda>
+    </categoria>
+    <categoria nombre="Vestidos">
+        <foto>https://static.kiabi.es/images/vestido-liso-con-detalle-anudado-en-la-cintura-rosa-baj17_1_sr1.jpg</foto>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vestido-premama-de-lino-beige-bbp64_2_frf2.jpg</foto>
+            <producto>Vestido premamá de lino</producto>
+            <precio>28.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vestido-premama-de-lino-negro-bbp64_1_frf2.jpg</foto>
+            <producto>Vestido premamá de lino</producto>
+            <precio>28.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vestido-largo-amarillo-bhq49_2_frf2.jpg</foto>
+            <producto>Vestido largo</producto>
+            <precio>29.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vestido-largo-vaquero-azul-bgk04_1_frf2.jpg</foto>
+            <producto>Vestido largo vaquero</producto>
+            <precio>29.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vestido-largo-drapeado-delantero-rojo-bqs60_2_frf2.jpg</foto>
+            <producto>Vestido largo drapeado delantero</producto>
+            <precio>15.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vestido-largo-drapeado-delantero-negro-bqs60_1_frf1.jpg</foto>
+            <producto>Vestido largo drapeado delantero</producto>
+            <precio>15.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vestido-largo-tipo-chilaba-rosa-bhq44_1_frf1.jpg</foto>
+            <producto>Vestido largo tipo chilaba</producto>
+            <precio>32.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vestido-con-corte-cruzado-beige-bku27_1_frf1.jpg</foto>
+            <producto>Vestido con corte cruzado</producto>
+            <precio>29.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vestido-largo-tipo-chilaba-amarillo-bhq44_2_frf1.jpg</foto>
+            <producto>Vestido largo tipo chilaba</producto>
+            <precio>32.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vestido-cruzado-tipo-sastre-blanco-bjv36_1_frf1.jpg</foto>
+            <producto>Vestido cruzado tipo sastre</producto>
+            <precio>39.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vestido-largo-rosa-bhq49_1_frf1.jpg</foto>
+            <producto>Vestido largo</producto>
+            <precio>29.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vestido-largo-drapeado-delantero-marron-bqs60_3_frf1.jpg</foto>
+            <producto>Vestido largo drapeado delantero</producto>
+            <precio>15.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vestido-largo-ajustado-negro-cae18_1_frf1.jpg</foto>
+            <producto>Vestido largo ajustado</producto>
+            <precio>18.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vestido-largo-vaporoso-ligero-rosa-bhq45_1_frf1.jpg</foto>
+            <producto>Vestido largo vaporoso ligero</producto>
+            <precio>27.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vestido-abombado-con-bordado-calado-blanco-bju20_2_frf1.jpg</foto>
+            <producto>Vestido abombado con bordado calado</producto>
+            <precio>29.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vestido-abombado-con-bordado-calado-negro-bju20_1_frf1.jpg</foto>
+            <producto>Vestido abombado con bordado calado</producto>
+            <precio>29.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vestido-con-corte-cruzado-negro-bgl70_2_frf1.jpg</foto>
+            <producto>Vestido con corte cruzado</producto>
+            <precio>29.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vestido-con-corte-cruzado-negro-caf51_1_frf1.jpg</foto>
+            <producto>Vestido con corte cruzado</producto>
+            <precio>27.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vestido-largo-ajustado-marron-cae18_2_frf1.jpg</foto>
+            <producto>Vestido largo ajustado</producto>
+            <precio>18.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vestido-corto-drapeado-en-la-parte-delantera-beige-bpk33_2_frf1.jpg</foto>
+            <producto>Vestido corto drapeado en la parte delantera</producto>
+            <precio>13.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vestido-de-plumeti-con-volantes-negro-bjt89_3_frf1.jpg</foto>
+            <producto>Vestido de plumeti con volantes</producto>
+            <precio>18.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/combinacion-para-debajo-de-los-vestidos-negro-ahv55_2_frf1.jpg</foto>
+            <producto>Combinación para debajo de los vestidos</producto>
+            <precio>15.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vestido-anudable-rosa-baq06_1_frf1.jpg</foto>
+            <producto>Vestido anudable</producto>
+            <precio>20.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vestido-corto-cruzado-tipo-sastre-blanco-bjv35_1_frf1.jpg</foto>
+            <producto>Vestido corto cruzado tipo sastre</producto>
+            <precio>34.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vestido-largo-vaporoso-de-manga-corta-azul-bju29_1_frf1.jpg</foto>
+            <producto>Vestido largo vaporoso de manga corta</producto>
+            <precio>29.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vestido-cruzado-verde-baq34_2_frf1.jpg</foto>
+            <producto>Vestido cruzado</producto>
+            <precio>25.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vestido-satinado-con-cierre-de-botones-azul-bgl52_2_frf1.jpg</foto>
+            <producto>Vestido satinado con cierre de botones</producto>
+            <precio>32.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/combinacion-para-debajo-de-los-vestidos-beige-ahv55_1_frf1.jpg</foto>
+            <producto>Combinación para debajo de los vestidos</producto>
+            <precio>15.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vestido-wrap-de-lino-negro-bju18_1_frf1.jpg</foto>
+            <producto>Vestido wrap de lino</producto>
+            <precio>22.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vestido-largo-satinado-azul-bju35_1_frf1.jpg</foto>
+            <producto>Vestido largo satinado</producto>
+            <precio>39.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vestido-premama-largo-y-elastico-verde-bor51_3_frf1.jpg</foto>
+            <producto>Vestido premamá largo y elástico</producto>
+            <precio>22.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vestido-largo-vaporoso-ligero-amarillo-bhq45_2_frf1.jpg</foto>
+            <producto>Vestido largo vaporoso ligero</producto>
+            <precio>27.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vestido-de-gasa-de-plumeti-negro-bju28_2_frf1.jpg</foto>
+            <producto>Vestido de gasa de &apos;plumeti&apos;</producto>
+            <precio>22.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vestido-vaquero-kaki-bjr37_1_frf1.jpg</foto>
+            <producto>Vestido vaquero</producto>
+            <precio>25.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vestido-corto-con-mangas-34-mostaza-bpi18_2_frf1.jpg</foto>
+            <producto>Vestido corto con mangas 3/4</producto>
+            <precio>34.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vestido-cruzado-rosa-baq34_1_frf1.jpg</foto>
+            <producto>Vestido cruzado</producto>
+            <precio>25.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vestido-largo-negro-bal62_1_frf1.jpg</foto>
+            <producto>Vestido largo</producto>
+            <precio>22.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vestido-satinado-con-cierre-de-botones-verde-bgl52_1_frf1.jpg</foto>
+            <producto>Vestido satinado con cierre de botones</producto>
+            <precio>32.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vestido-con-corte-cruzado-blanco-bgl72_1_frf1.jpg</foto>
+            <producto>Vestido con corte cruzado</producto>
+            <precio>25.00</precio>
+        </prenda>
+        <prenda>
+            <foto>https://static.kiabi.es/images/vestido-midi-de-tubo-de-punto-de-canale-kaki-bmy69_3_frf1.jpg</foto>
+            <producto>Vestido midi de tubo de punto de canalé</producto>
+            <precio>18.00</precio>
+        </prenda>
+    </categoria>
+</kiabi>

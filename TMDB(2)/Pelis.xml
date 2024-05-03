@@ -1,0 +1,1203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<peliculas>
+  <pelicula>
+    <titulo>Atrapados en lo profundo</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/fSY6BYUZMObTIzPfRBlhuAb5lsd.jpg</poster>
+    <fecha>18 ene 2024</fecha>
+    <rating>59.88</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Kung Fu Panda 4</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/bqe5pdLIoLeZSszA8N5ZvoIS4aB.jpg</poster>
+    <fecha>2 mar 2024</fecha>
+    <rating>69.79</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Código 8 (Parte 2)</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/b00zs9USt7Qwd1po8Dm5tt0JUU9.jpg</poster>
+    <fecha>27 feb 2024</fecha>
+    <rating>66.55</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Megamind contra el sindicato del mal</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/1N7terrMeZPwK5qq31MUD0HQ3IG.jpg</poster>
+    <fecha>1 mar 2024</fecha>
+    <rating>55.339999999999996</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Pobres criaturas</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/mm1M6CoN2qLy8BpnrmYEVToQHJR.jpg</poster>
+    <fecha>7 dic 2023</fecha>
+    <rating>79.05</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Argylle</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/aSm3b2gaDTnt35RekjEEanxIusg.jpg</poster>
+    <fecha>31 ene 2024</fecha>
+    <rating>61.18000000000001</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Dune: Parte dos</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/v2NN1TMK3ifuiEyawa3ukkcSOUQ.jpg</poster>
+    <fecha>27 feb 2024</fecha>
+    <rating>84.24</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Migración: un viaje patas arriba</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/brAqSBoSXzxEYV6rGYwbRvhlXCE.jpg</poster>
+    <fecha>6 dic 2023</fecha>
+    <rating>75.52</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Meteoro</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/p9kTkPa4wMA7uStnvglAcBmEOUq.jpg</poster>
+    <fecha>1 sep 2021</fecha>
+    <rating>54.44</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Rescate imposible</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/syKwepJwzvoYhPLBfUy4YYSrstr.jpg</poster>
+    <fecha>25 ene 2024</fecha>
+    <rating>69.35</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Oppenheimer</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/ncKCQVXgk4BcQV6XbvesgZ2zLvZ.jpg</poster>
+    <fecha>19 jul 2023</fecha>
+    <rating>81.16</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Cualquiera menos tú</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/gvpU4eMgDC6LpWLxnqGW3uMFDx3.jpg</poster>
+    <fecha>21 dic 2023</fecha>
+    <rating>70.17</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Implacable</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/bGsagD1rvgqb0c59YuYzkCcj7bM.jpg</poster>
+    <fecha>14 dic 2023</fecha>
+    <rating>66.42999999999999</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Dune</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/hIEKzq0klqtz1H3S7QxzH4mMbvT.jpg</poster>
+    <fecha>15 sep 2021</fecha>
+    <rating>77.86</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>El retorno de los Thunderman</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/u9F0QlZwwecGE9eHaaGKzx3pSS0.jpg</poster>
+    <fecha>7 mar 2024</fecha>
+    <rating>76.0</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>El astronauta</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/kyYNMXbXzuAw1LpnvzheqTKNaoL.jpg</poster>
+    <fecha>23 feb 2024</fecha>
+    <rating>66.88</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Red Right Hand</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/vfEG79SQIg3p6B8rBLVeIo2BBhb.jpg</poster>
+    <fecha>22 feb 2024</fecha>
+    <rating>70.0</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Wonka</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/6eHcR7zwvNSvkOl9jbctU0lvZQ1.jpg</poster>
+    <fecha>6 dic 2023</fecha>
+    <rating>71.92999999999999</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>El chico y la garza</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/cUZop9T440Bx25P8Ptc0qXkLYEa.jpg</poster>
+    <fecha>14 jul 2023</fecha>
+    <rating>75.0</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>El cerdo, la serpiente y la paloma</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/aqfS8ZHWq9UY52XRZXVmwBHB2r8.jpg</poster>
+    <fecha>6 oct 2023</fecha>
+    <rating>77.12</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Atrapados en lo profundo</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/fSY6BYUZMObTIzPfRBlhuAb5lsd.jpg</poster>
+    <fecha>18 ene 2024</fecha>
+    <rating>59.88</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Kung Fu Panda 4</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/bqe5pdLIoLeZSszA8N5ZvoIS4aB.jpg</poster>
+    <fecha>2 mar 2024</fecha>
+    <rating>69.79</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Código 8 (Parte 2)</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/b00zs9USt7Qwd1po8Dm5tt0JUU9.jpg</poster>
+    <fecha>27 feb 2024</fecha>
+    <rating>66.55</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Megamind contra el sindicato del mal</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/1N7terrMeZPwK5qq31MUD0HQ3IG.jpg</poster>
+    <fecha>1 mar 2024</fecha>
+    <rating>55.339999999999996</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Pobres criaturas</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/mm1M6CoN2qLy8BpnrmYEVToQHJR.jpg</poster>
+    <fecha>7 dic 2023</fecha>
+    <rating>79.05</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Argylle</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/aSm3b2gaDTnt35RekjEEanxIusg.jpg</poster>
+    <fecha>31 ene 2024</fecha>
+    <rating>61.18000000000001</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Dune: Parte dos</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/v2NN1TMK3ifuiEyawa3ukkcSOUQ.jpg</poster>
+    <fecha>27 feb 2024</fecha>
+    <rating>84.24</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Migración: un viaje patas arriba</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/brAqSBoSXzxEYV6rGYwbRvhlXCE.jpg</poster>
+    <fecha>6 dic 2023</fecha>
+    <rating>75.52</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Meteoro</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/p9kTkPa4wMA7uStnvglAcBmEOUq.jpg</poster>
+    <fecha>1 sep 2021</fecha>
+    <rating>54.44</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Rescate imposible</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/syKwepJwzvoYhPLBfUy4YYSrstr.jpg</poster>
+    <fecha>25 ene 2024</fecha>
+    <rating>69.35</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Oppenheimer</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/ncKCQVXgk4BcQV6XbvesgZ2zLvZ.jpg</poster>
+    <fecha>19 jul 2023</fecha>
+    <rating>81.16</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Cualquiera menos tú</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/gvpU4eMgDC6LpWLxnqGW3uMFDx3.jpg</poster>
+    <fecha>21 dic 2023</fecha>
+    <rating>70.17</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Implacable</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/bGsagD1rvgqb0c59YuYzkCcj7bM.jpg</poster>
+    <fecha>14 dic 2023</fecha>
+    <rating>66.42999999999999</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Dune</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/hIEKzq0klqtz1H3S7QxzH4mMbvT.jpg</poster>
+    <fecha>15 sep 2021</fecha>
+    <rating>77.86</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>El retorno de los Thunderman</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/u9F0QlZwwecGE9eHaaGKzx3pSS0.jpg</poster>
+    <fecha>7 mar 2024</fecha>
+    <rating>76.0</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>El astronauta</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/kyYNMXbXzuAw1LpnvzheqTKNaoL.jpg</poster>
+    <fecha>23 feb 2024</fecha>
+    <rating>66.88</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Red Right Hand</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/vfEG79SQIg3p6B8rBLVeIo2BBhb.jpg</poster>
+    <fecha>22 feb 2024</fecha>
+    <rating>70.0</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Wonka</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/6eHcR7zwvNSvkOl9jbctU0lvZQ1.jpg</poster>
+    <fecha>6 dic 2023</fecha>
+    <rating>71.92999999999999</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>El chico y la garza</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/cUZop9T440Bx25P8Ptc0qXkLYEa.jpg</poster>
+    <fecha>14 jul 2023</fecha>
+    <rating>75.0</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>El cerdo, la serpiente y la paloma</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/aqfS8ZHWq9UY52XRZXVmwBHB2r8.jpg</poster>
+    <fecha>6 oct 2023</fecha>
+    <rating>77.12</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Atrapados en lo profundo</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/fSY6BYUZMObTIzPfRBlhuAb5lsd.jpg</poster>
+    <fecha>18 ene 2024</fecha>
+    <rating>59.88</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Kung Fu Panda 4</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/bqe5pdLIoLeZSszA8N5ZvoIS4aB.jpg</poster>
+    <fecha>2 mar 2024</fecha>
+    <rating>69.79</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Código 8 (Parte 2)</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/b00zs9USt7Qwd1po8Dm5tt0JUU9.jpg</poster>
+    <fecha>27 feb 2024</fecha>
+    <rating>66.55</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Megamind contra el sindicato del mal</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/1N7terrMeZPwK5qq31MUD0HQ3IG.jpg</poster>
+    <fecha>1 mar 2024</fecha>
+    <rating>55.339999999999996</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Pobres criaturas</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/mm1M6CoN2qLy8BpnrmYEVToQHJR.jpg</poster>
+    <fecha>7 dic 2023</fecha>
+    <rating>79.05</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Argylle</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/aSm3b2gaDTnt35RekjEEanxIusg.jpg</poster>
+    <fecha>31 ene 2024</fecha>
+    <rating>61.18000000000001</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Dune: Parte dos</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/v2NN1TMK3ifuiEyawa3ukkcSOUQ.jpg</poster>
+    <fecha>27 feb 2024</fecha>
+    <rating>84.24</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Migración: un viaje patas arriba</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/brAqSBoSXzxEYV6rGYwbRvhlXCE.jpg</poster>
+    <fecha>6 dic 2023</fecha>
+    <rating>75.52</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Meteoro</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/p9kTkPa4wMA7uStnvglAcBmEOUq.jpg</poster>
+    <fecha>1 sep 2021</fecha>
+    <rating>54.44</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Rescate imposible</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/syKwepJwzvoYhPLBfUy4YYSrstr.jpg</poster>
+    <fecha>25 ene 2024</fecha>
+    <rating>69.35</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Oppenheimer</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/ncKCQVXgk4BcQV6XbvesgZ2zLvZ.jpg</poster>
+    <fecha>19 jul 2023</fecha>
+    <rating>81.16</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Cualquiera menos tú</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/gvpU4eMgDC6LpWLxnqGW3uMFDx3.jpg</poster>
+    <fecha>21 dic 2023</fecha>
+    <rating>70.17</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Implacable</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/bGsagD1rvgqb0c59YuYzkCcj7bM.jpg</poster>
+    <fecha>14 dic 2023</fecha>
+    <rating>66.42999999999999</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Dune</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/hIEKzq0klqtz1H3S7QxzH4mMbvT.jpg</poster>
+    <fecha>15 sep 2021</fecha>
+    <rating>77.86</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>El retorno de los Thunderman</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/u9F0QlZwwecGE9eHaaGKzx3pSS0.jpg</poster>
+    <fecha>7 mar 2024</fecha>
+    <rating>76.0</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>El astronauta</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/kyYNMXbXzuAw1LpnvzheqTKNaoL.jpg</poster>
+    <fecha>23 feb 2024</fecha>
+    <rating>66.88</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Red Right Hand</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/vfEG79SQIg3p6B8rBLVeIo2BBhb.jpg</poster>
+    <fecha>22 feb 2024</fecha>
+    <rating>70.0</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Wonka</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/6eHcR7zwvNSvkOl9jbctU0lvZQ1.jpg</poster>
+    <fecha>6 dic 2023</fecha>
+    <rating>71.92999999999999</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>El chico y la garza</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/cUZop9T440Bx25P8Ptc0qXkLYEa.jpg</poster>
+    <fecha>14 jul 2023</fecha>
+    <rating>75.0</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>El cerdo, la serpiente y la paloma</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/aqfS8ZHWq9UY52XRZXVmwBHB2r8.jpg</poster>
+    <fecha>6 oct 2023</fecha>
+    <rating>77.12</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Atrapados en lo profundo</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/fSY6BYUZMObTIzPfRBlhuAb5lsd.jpg</poster>
+    <fecha>18 ene 2024</fecha>
+    <rating>59.88</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Kung Fu Panda 4</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/bqe5pdLIoLeZSszA8N5ZvoIS4aB.jpg</poster>
+    <fecha>2 mar 2024</fecha>
+    <rating>69.79</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Código 8 (Parte 2)</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/b00zs9USt7Qwd1po8Dm5tt0JUU9.jpg</poster>
+    <fecha>27 feb 2024</fecha>
+    <rating>66.55</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Megamind contra el sindicato del mal</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/1N7terrMeZPwK5qq31MUD0HQ3IG.jpg</poster>
+    <fecha>1 mar 2024</fecha>
+    <rating>55.339999999999996</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Pobres criaturas</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/mm1M6CoN2qLy8BpnrmYEVToQHJR.jpg</poster>
+    <fecha>7 dic 2023</fecha>
+    <rating>79.05</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Argylle</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/aSm3b2gaDTnt35RekjEEanxIusg.jpg</poster>
+    <fecha>31 ene 2024</fecha>
+    <rating>61.18000000000001</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Dune: Parte dos</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/v2NN1TMK3ifuiEyawa3ukkcSOUQ.jpg</poster>
+    <fecha>27 feb 2024</fecha>
+    <rating>84.24</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Migración: un viaje patas arriba</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/brAqSBoSXzxEYV6rGYwbRvhlXCE.jpg</poster>
+    <fecha>6 dic 2023</fecha>
+    <rating>75.52</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Meteoro</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/p9kTkPa4wMA7uStnvglAcBmEOUq.jpg</poster>
+    <fecha>1 sep 2021</fecha>
+    <rating>54.44</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Rescate imposible</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/syKwepJwzvoYhPLBfUy4YYSrstr.jpg</poster>
+    <fecha>25 ene 2024</fecha>
+    <rating>69.35</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Oppenheimer</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/ncKCQVXgk4BcQV6XbvesgZ2zLvZ.jpg</poster>
+    <fecha>19 jul 2023</fecha>
+    <rating>81.16</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Cualquiera menos tú</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/gvpU4eMgDC6LpWLxnqGW3uMFDx3.jpg</poster>
+    <fecha>21 dic 2023</fecha>
+    <rating>70.17</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Implacable</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/bGsagD1rvgqb0c59YuYzkCcj7bM.jpg</poster>
+    <fecha>14 dic 2023</fecha>
+    <rating>66.42999999999999</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Dune</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/hIEKzq0klqtz1H3S7QxzH4mMbvT.jpg</poster>
+    <fecha>15 sep 2021</fecha>
+    <rating>77.86</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>El retorno de los Thunderman</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/u9F0QlZwwecGE9eHaaGKzx3pSS0.jpg</poster>
+    <fecha>7 mar 2024</fecha>
+    <rating>76.0</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>El astronauta</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/kyYNMXbXzuAw1LpnvzheqTKNaoL.jpg</poster>
+    <fecha>23 feb 2024</fecha>
+    <rating>66.88</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Red Right Hand</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/vfEG79SQIg3p6B8rBLVeIo2BBhb.jpg</poster>
+    <fecha>22 feb 2024</fecha>
+    <rating>70.0</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Wonka</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/6eHcR7zwvNSvkOl9jbctU0lvZQ1.jpg</poster>
+    <fecha>6 dic 2023</fecha>
+    <rating>71.92999999999999</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>El chico y la garza</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/cUZop9T440Bx25P8Ptc0qXkLYEa.jpg</poster>
+    <fecha>14 jul 2023</fecha>
+    <rating>75.0</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>El cerdo, la serpiente y la paloma</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/aqfS8ZHWq9UY52XRZXVmwBHB2r8.jpg</poster>
+    <fecha>6 oct 2023</fecha>
+    <rating>77.12</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Atrapados en lo profundo</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/fSY6BYUZMObTIzPfRBlhuAb5lsd.jpg</poster>
+    <fecha>18 ene 2024</fecha>
+    <rating>59.88</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Kung Fu Panda 4</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/bqe5pdLIoLeZSszA8N5ZvoIS4aB.jpg</poster>
+    <fecha>2 mar 2024</fecha>
+    <rating>69.79</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Código 8 (Parte 2)</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/b00zs9USt7Qwd1po8Dm5tt0JUU9.jpg</poster>
+    <fecha>27 feb 2024</fecha>
+    <rating>66.55</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Megamind contra el sindicato del mal</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/1N7terrMeZPwK5qq31MUD0HQ3IG.jpg</poster>
+    <fecha>1 mar 2024</fecha>
+    <rating>55.339999999999996</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Pobres criaturas</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/mm1M6CoN2qLy8BpnrmYEVToQHJR.jpg</poster>
+    <fecha>7 dic 2023</fecha>
+    <rating>79.05</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Argylle</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/aSm3b2gaDTnt35RekjEEanxIusg.jpg</poster>
+    <fecha>31 ene 2024</fecha>
+    <rating>61.18000000000001</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Dune: Parte dos</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/v2NN1TMK3ifuiEyawa3ukkcSOUQ.jpg</poster>
+    <fecha>27 feb 2024</fecha>
+    <rating>84.24</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Migración: un viaje patas arriba</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/brAqSBoSXzxEYV6rGYwbRvhlXCE.jpg</poster>
+    <fecha>6 dic 2023</fecha>
+    <rating>75.52</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Meteoro</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/p9kTkPa4wMA7uStnvglAcBmEOUq.jpg</poster>
+    <fecha>1 sep 2021</fecha>
+    <rating>54.44</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Rescate imposible</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/syKwepJwzvoYhPLBfUy4YYSrstr.jpg</poster>
+    <fecha>25 ene 2024</fecha>
+    <rating>69.35</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Oppenheimer</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/ncKCQVXgk4BcQV6XbvesgZ2zLvZ.jpg</poster>
+    <fecha>19 jul 2023</fecha>
+    <rating>81.16</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Cualquiera menos tú</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/gvpU4eMgDC6LpWLxnqGW3uMFDx3.jpg</poster>
+    <fecha>21 dic 2023</fecha>
+    <rating>70.17</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Implacable</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/bGsagD1rvgqb0c59YuYzkCcj7bM.jpg</poster>
+    <fecha>14 dic 2023</fecha>
+    <rating>66.42999999999999</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Dune</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/hIEKzq0klqtz1H3S7QxzH4mMbvT.jpg</poster>
+    <fecha>15 sep 2021</fecha>
+    <rating>77.86</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>El retorno de los Thunderman</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/u9F0QlZwwecGE9eHaaGKzx3pSS0.jpg</poster>
+    <fecha>7 mar 2024</fecha>
+    <rating>76.0</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>El astronauta</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/kyYNMXbXzuAw1LpnvzheqTKNaoL.jpg</poster>
+    <fecha>23 feb 2024</fecha>
+    <rating>66.88</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Red Right Hand</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/vfEG79SQIg3p6B8rBLVeIo2BBhb.jpg</poster>
+    <fecha>22 feb 2024</fecha>
+    <rating>70.0</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Wonka</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/6eHcR7zwvNSvkOl9jbctU0lvZQ1.jpg</poster>
+    <fecha>6 dic 2023</fecha>
+    <rating>71.92999999999999</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>El chico y la garza</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/cUZop9T440Bx25P8Ptc0qXkLYEa.jpg</poster>
+    <fecha>14 jul 2023</fecha>
+    <rating>75.0</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>El cerdo, la serpiente y la paloma</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/aqfS8ZHWq9UY52XRZXVmwBHB2r8.jpg</poster>
+    <fecha>6 oct 2023</fecha>
+    <rating>77.12</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Atrapados en lo profundo</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/fSY6BYUZMObTIzPfRBlhuAb5lsd.jpg</poster>
+    <fecha>18 ene 2024</fecha>
+    <rating>59.88</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Kung Fu Panda 4</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/bqe5pdLIoLeZSszA8N5ZvoIS4aB.jpg</poster>
+    <fecha>2 mar 2024</fecha>
+    <rating>69.79</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Código 8 (Parte 2)</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/b00zs9USt7Qwd1po8Dm5tt0JUU9.jpg</poster>
+    <fecha>27 feb 2024</fecha>
+    <rating>66.55</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Megamind contra el sindicato del mal</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/1N7terrMeZPwK5qq31MUD0HQ3IG.jpg</poster>
+    <fecha>1 mar 2024</fecha>
+    <rating>55.339999999999996</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Pobres criaturas</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/mm1M6CoN2qLy8BpnrmYEVToQHJR.jpg</poster>
+    <fecha>7 dic 2023</fecha>
+    <rating>79.05</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Argylle</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/aSm3b2gaDTnt35RekjEEanxIusg.jpg</poster>
+    <fecha>31 ene 2024</fecha>
+    <rating>61.18000000000001</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Dune: Parte dos</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/v2NN1TMK3ifuiEyawa3ukkcSOUQ.jpg</poster>
+    <fecha>27 feb 2024</fecha>
+    <rating>84.24</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Migración: un viaje patas arriba</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/brAqSBoSXzxEYV6rGYwbRvhlXCE.jpg</poster>
+    <fecha>6 dic 2023</fecha>
+    <rating>75.52</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Meteoro</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/p9kTkPa4wMA7uStnvglAcBmEOUq.jpg</poster>
+    <fecha>1 sep 2021</fecha>
+    <rating>54.44</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Rescate imposible</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/syKwepJwzvoYhPLBfUy4YYSrstr.jpg</poster>
+    <fecha>25 ene 2024</fecha>
+    <rating>69.35</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Oppenheimer</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/ncKCQVXgk4BcQV6XbvesgZ2zLvZ.jpg</poster>
+    <fecha>19 jul 2023</fecha>
+    <rating>81.16</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Cualquiera menos tú</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/gvpU4eMgDC6LpWLxnqGW3uMFDx3.jpg</poster>
+    <fecha>21 dic 2023</fecha>
+    <rating>70.17</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Implacable</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/bGsagD1rvgqb0c59YuYzkCcj7bM.jpg</poster>
+    <fecha>14 dic 2023</fecha>
+    <rating>66.42999999999999</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Dune</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/hIEKzq0klqtz1H3S7QxzH4mMbvT.jpg</poster>
+    <fecha>15 sep 2021</fecha>
+    <rating>77.86</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>El retorno de los Thunderman</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/u9F0QlZwwecGE9eHaaGKzx3pSS0.jpg</poster>
+    <fecha>7 mar 2024</fecha>
+    <rating>76.0</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>El astronauta</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/kyYNMXbXzuAw1LpnvzheqTKNaoL.jpg</poster>
+    <fecha>23 feb 2024</fecha>
+    <rating>66.88</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Red Right Hand</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/vfEG79SQIg3p6B8rBLVeIo2BBhb.jpg</poster>
+    <fecha>22 feb 2024</fecha>
+    <rating>70.0</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Wonka</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/6eHcR7zwvNSvkOl9jbctU0lvZQ1.jpg</poster>
+    <fecha>6 dic 2023</fecha>
+    <rating>71.92999999999999</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>El chico y la garza</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/cUZop9T440Bx25P8Ptc0qXkLYEa.jpg</poster>
+    <fecha>14 jul 2023</fecha>
+    <rating>75.0</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>El cerdo, la serpiente y la paloma</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/aqfS8ZHWq9UY52XRZXVmwBHB2r8.jpg</poster>
+    <fecha>6 oct 2023</fecha>
+    <rating>77.12</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Atrapados en lo profundo</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/fSY6BYUZMObTIzPfRBlhuAb5lsd.jpg</poster>
+    <fecha>18 ene 2024</fecha>
+    <rating>59.88</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Kung Fu Panda 4</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/bqe5pdLIoLeZSszA8N5ZvoIS4aB.jpg</poster>
+    <fecha>2 mar 2024</fecha>
+    <rating>69.79</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Código 8 (Parte 2)</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/b00zs9USt7Qwd1po8Dm5tt0JUU9.jpg</poster>
+    <fecha>27 feb 2024</fecha>
+    <rating>66.55</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Megamind contra el sindicato del mal</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/1N7terrMeZPwK5qq31MUD0HQ3IG.jpg</poster>
+    <fecha>1 mar 2024</fecha>
+    <rating>55.339999999999996</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Pobres criaturas</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/mm1M6CoN2qLy8BpnrmYEVToQHJR.jpg</poster>
+    <fecha>7 dic 2023</fecha>
+    <rating>79.05</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Argylle</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/aSm3b2gaDTnt35RekjEEanxIusg.jpg</poster>
+    <fecha>31 ene 2024</fecha>
+    <rating>61.18000000000001</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Dune: Parte dos</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/v2NN1TMK3ifuiEyawa3ukkcSOUQ.jpg</poster>
+    <fecha>27 feb 2024</fecha>
+    <rating>84.24</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Migración: un viaje patas arriba</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/brAqSBoSXzxEYV6rGYwbRvhlXCE.jpg</poster>
+    <fecha>6 dic 2023</fecha>
+    <rating>75.52</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Meteoro</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/p9kTkPa4wMA7uStnvglAcBmEOUq.jpg</poster>
+    <fecha>1 sep 2021</fecha>
+    <rating>54.44</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Rescate imposible</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/syKwepJwzvoYhPLBfUy4YYSrstr.jpg</poster>
+    <fecha>25 ene 2024</fecha>
+    <rating>69.35</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Oppenheimer</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/ncKCQVXgk4BcQV6XbvesgZ2zLvZ.jpg</poster>
+    <fecha>19 jul 2023</fecha>
+    <rating>81.16</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Cualquiera menos tú</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/gvpU4eMgDC6LpWLxnqGW3uMFDx3.jpg</poster>
+    <fecha>21 dic 2023</fecha>
+    <rating>70.17</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Implacable</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/bGsagD1rvgqb0c59YuYzkCcj7bM.jpg</poster>
+    <fecha>14 dic 2023</fecha>
+    <rating>66.42999999999999</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Dune</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/hIEKzq0klqtz1H3S7QxzH4mMbvT.jpg</poster>
+    <fecha>15 sep 2021</fecha>
+    <rating>77.86</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>El retorno de los Thunderman</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/u9F0QlZwwecGE9eHaaGKzx3pSS0.jpg</poster>
+    <fecha>7 mar 2024</fecha>
+    <rating>76.0</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>El astronauta</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/kyYNMXbXzuAw1LpnvzheqTKNaoL.jpg</poster>
+    <fecha>23 feb 2024</fecha>
+    <rating>66.88</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Red Right Hand</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/vfEG79SQIg3p6B8rBLVeIo2BBhb.jpg</poster>
+    <fecha>22 feb 2024</fecha>
+    <rating>70.0</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Wonka</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/6eHcR7zwvNSvkOl9jbctU0lvZQ1.jpg</poster>
+    <fecha>6 dic 2023</fecha>
+    <rating>71.92999999999999</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>El chico y la garza</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/cUZop9T440Bx25P8Ptc0qXkLYEa.jpg</poster>
+    <fecha>14 jul 2023</fecha>
+    <rating>75.0</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>El cerdo, la serpiente y la paloma</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/aqfS8ZHWq9UY52XRZXVmwBHB2r8.jpg</poster>
+    <fecha>6 oct 2023</fecha>
+    <rating>77.12</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Atrapados en lo profundo</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/fSY6BYUZMObTIzPfRBlhuAb5lsd.jpg</poster>
+    <fecha>18 ene 2024</fecha>
+    <rating>59.88</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Kung Fu Panda 4</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/bqe5pdLIoLeZSszA8N5ZvoIS4aB.jpg</poster>
+    <fecha>2 mar 2024</fecha>
+    <rating>69.79</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Código 8 (Parte 2)</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/b00zs9USt7Qwd1po8Dm5tt0JUU9.jpg</poster>
+    <fecha>27 feb 2024</fecha>
+    <rating>66.55</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Megamind contra el sindicato del mal</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/1N7terrMeZPwK5qq31MUD0HQ3IG.jpg</poster>
+    <fecha>1 mar 2024</fecha>
+    <rating>55.339999999999996</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Pobres criaturas</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/mm1M6CoN2qLy8BpnrmYEVToQHJR.jpg</poster>
+    <fecha>7 dic 2023</fecha>
+    <rating>79.05</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Argylle</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/aSm3b2gaDTnt35RekjEEanxIusg.jpg</poster>
+    <fecha>31 ene 2024</fecha>
+    <rating>61.18000000000001</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Dune: Parte dos</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/v2NN1TMK3ifuiEyawa3ukkcSOUQ.jpg</poster>
+    <fecha>27 feb 2024</fecha>
+    <rating>84.24</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Migración: un viaje patas arriba</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/brAqSBoSXzxEYV6rGYwbRvhlXCE.jpg</poster>
+    <fecha>6 dic 2023</fecha>
+    <rating>75.52</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Meteoro</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/p9kTkPa4wMA7uStnvglAcBmEOUq.jpg</poster>
+    <fecha>1 sep 2021</fecha>
+    <rating>54.44</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Rescate imposible</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/syKwepJwzvoYhPLBfUy4YYSrstr.jpg</poster>
+    <fecha>25 ene 2024</fecha>
+    <rating>69.35</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Oppenheimer</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/ncKCQVXgk4BcQV6XbvesgZ2zLvZ.jpg</poster>
+    <fecha>19 jul 2023</fecha>
+    <rating>81.16</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Cualquiera menos tú</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/gvpU4eMgDC6LpWLxnqGW3uMFDx3.jpg</poster>
+    <fecha>21 dic 2023</fecha>
+    <rating>70.17</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Implacable</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/bGsagD1rvgqb0c59YuYzkCcj7bM.jpg</poster>
+    <fecha>14 dic 2023</fecha>
+    <rating>66.42999999999999</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Dune</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/hIEKzq0klqtz1H3S7QxzH4mMbvT.jpg</poster>
+    <fecha>15 sep 2021</fecha>
+    <rating>77.86</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>El retorno de los Thunderman</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/u9F0QlZwwecGE9eHaaGKzx3pSS0.jpg</poster>
+    <fecha>7 mar 2024</fecha>
+    <rating>76.0</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>El astronauta</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/kyYNMXbXzuAw1LpnvzheqTKNaoL.jpg</poster>
+    <fecha>23 feb 2024</fecha>
+    <rating>66.88</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Red Right Hand</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/vfEG79SQIg3p6B8rBLVeIo2BBhb.jpg</poster>
+    <fecha>22 feb 2024</fecha>
+    <rating>70.0</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Wonka</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/6eHcR7zwvNSvkOl9jbctU0lvZQ1.jpg</poster>
+    <fecha>6 dic 2023</fecha>
+    <rating>71.92999999999999</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>El chico y la garza</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/cUZop9T440Bx25P8Ptc0qXkLYEa.jpg</poster>
+    <fecha>14 jul 2023</fecha>
+    <rating>75.0</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>El cerdo, la serpiente y la paloma</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/aqfS8ZHWq9UY52XRZXVmwBHB2r8.jpg</poster>
+    <fecha>6 oct 2023</fecha>
+    <rating>77.12</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Atrapados en lo profundo</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/fSY6BYUZMObTIzPfRBlhuAb5lsd.jpg</poster>
+    <fecha>18 ene 2024</fecha>
+    <rating>59.88</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Kung Fu Panda 4</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/bqe5pdLIoLeZSszA8N5ZvoIS4aB.jpg</poster>
+    <fecha>2 mar 2024</fecha>
+    <rating>69.79</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Código 8 (Parte 2)</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/b00zs9USt7Qwd1po8Dm5tt0JUU9.jpg</poster>
+    <fecha>27 feb 2024</fecha>
+    <rating>66.55</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Megamind contra el sindicato del mal</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/1N7terrMeZPwK5qq31MUD0HQ3IG.jpg</poster>
+    <fecha>1 mar 2024</fecha>
+    <rating>55.339999999999996</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Pobres criaturas</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/mm1M6CoN2qLy8BpnrmYEVToQHJR.jpg</poster>
+    <fecha>7 dic 2023</fecha>
+    <rating>79.05</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Argylle</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/aSm3b2gaDTnt35RekjEEanxIusg.jpg</poster>
+    <fecha>31 ene 2024</fecha>
+    <rating>61.18000000000001</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Dune: Parte dos</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/v2NN1TMK3ifuiEyawa3ukkcSOUQ.jpg</poster>
+    <fecha>27 feb 2024</fecha>
+    <rating>84.24</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Migración: un viaje patas arriba</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/brAqSBoSXzxEYV6rGYwbRvhlXCE.jpg</poster>
+    <fecha>6 dic 2023</fecha>
+    <rating>75.52</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Meteoro</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/p9kTkPa4wMA7uStnvglAcBmEOUq.jpg</poster>
+    <fecha>1 sep 2021</fecha>
+    <rating>54.44</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Rescate imposible</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/syKwepJwzvoYhPLBfUy4YYSrstr.jpg</poster>
+    <fecha>25 ene 2024</fecha>
+    <rating>69.35</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Oppenheimer</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/ncKCQVXgk4BcQV6XbvesgZ2zLvZ.jpg</poster>
+    <fecha>19 jul 2023</fecha>
+    <rating>81.16</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Cualquiera menos tú</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/gvpU4eMgDC6LpWLxnqGW3uMFDx3.jpg</poster>
+    <fecha>21 dic 2023</fecha>
+    <rating>70.17</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Implacable</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/bGsagD1rvgqb0c59YuYzkCcj7bM.jpg</poster>
+    <fecha>14 dic 2023</fecha>
+    <rating>66.42999999999999</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Dune</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/hIEKzq0klqtz1H3S7QxzH4mMbvT.jpg</poster>
+    <fecha>15 sep 2021</fecha>
+    <rating>77.86</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>El retorno de los Thunderman</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/u9F0QlZwwecGE9eHaaGKzx3pSS0.jpg</poster>
+    <fecha>7 mar 2024</fecha>
+    <rating>76.0</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>El astronauta</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/kyYNMXbXzuAw1LpnvzheqTKNaoL.jpg</poster>
+    <fecha>23 feb 2024</fecha>
+    <rating>66.88</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Red Right Hand</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/vfEG79SQIg3p6B8rBLVeIo2BBhb.jpg</poster>
+    <fecha>22 feb 2024</fecha>
+    <rating>70.0</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Wonka</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/6eHcR7zwvNSvkOl9jbctU0lvZQ1.jpg</poster>
+    <fecha>6 dic 2023</fecha>
+    <rating>71.92999999999999</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>El chico y la garza</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/cUZop9T440Bx25P8Ptc0qXkLYEa.jpg</poster>
+    <fecha>14 jul 2023</fecha>
+    <rating>75.0</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>El cerdo, la serpiente y la paloma</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/aqfS8ZHWq9UY52XRZXVmwBHB2r8.jpg</poster>
+    <fecha>6 oct 2023</fecha>
+    <rating>77.12</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Atrapados en lo profundo</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/fSY6BYUZMObTIzPfRBlhuAb5lsd.jpg</poster>
+    <fecha>18 ene 2024</fecha>
+    <rating>59.88</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Kung Fu Panda 4</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/bqe5pdLIoLeZSszA8N5ZvoIS4aB.jpg</poster>
+    <fecha>2 mar 2024</fecha>
+    <rating>69.79</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Código 8 (Parte 2)</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/b00zs9USt7Qwd1po8Dm5tt0JUU9.jpg</poster>
+    <fecha>27 feb 2024</fecha>
+    <rating>66.55</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Megamind contra el sindicato del mal</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/1N7terrMeZPwK5qq31MUD0HQ3IG.jpg</poster>
+    <fecha>1 mar 2024</fecha>
+    <rating>55.339999999999996</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Pobres criaturas</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/mm1M6CoN2qLy8BpnrmYEVToQHJR.jpg</poster>
+    <fecha>7 dic 2023</fecha>
+    <rating>79.05</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Argylle</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/aSm3b2gaDTnt35RekjEEanxIusg.jpg</poster>
+    <fecha>31 ene 2024</fecha>
+    <rating>61.18000000000001</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Dune: Parte dos</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/v2NN1TMK3ifuiEyawa3ukkcSOUQ.jpg</poster>
+    <fecha>27 feb 2024</fecha>
+    <rating>84.24</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Migración: un viaje patas arriba</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/brAqSBoSXzxEYV6rGYwbRvhlXCE.jpg</poster>
+    <fecha>6 dic 2023</fecha>
+    <rating>75.52</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Meteoro</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/p9kTkPa4wMA7uStnvglAcBmEOUq.jpg</poster>
+    <fecha>1 sep 2021</fecha>
+    <rating>54.44</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Rescate imposible</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/syKwepJwzvoYhPLBfUy4YYSrstr.jpg</poster>
+    <fecha>25 ene 2024</fecha>
+    <rating>69.35</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Oppenheimer</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/ncKCQVXgk4BcQV6XbvesgZ2zLvZ.jpg</poster>
+    <fecha>19 jul 2023</fecha>
+    <rating>81.16</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Cualquiera menos tú</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/gvpU4eMgDC6LpWLxnqGW3uMFDx3.jpg</poster>
+    <fecha>21 dic 2023</fecha>
+    <rating>70.17</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Implacable</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/bGsagD1rvgqb0c59YuYzkCcj7bM.jpg</poster>
+    <fecha>14 dic 2023</fecha>
+    <rating>66.42999999999999</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Dune</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/hIEKzq0klqtz1H3S7QxzH4mMbvT.jpg</poster>
+    <fecha>15 sep 2021</fecha>
+    <rating>77.86</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>El retorno de los Thunderman</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/u9F0QlZwwecGE9eHaaGKzx3pSS0.jpg</poster>
+    <fecha>7 mar 2024</fecha>
+    <rating>76.0</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>El astronauta</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/kyYNMXbXzuAw1LpnvzheqTKNaoL.jpg</poster>
+    <fecha>23 feb 2024</fecha>
+    <rating>66.88</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Red Right Hand</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/vfEG79SQIg3p6B8rBLVeIo2BBhb.jpg</poster>
+    <fecha>22 feb 2024</fecha>
+    <rating>70.0</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>Wonka</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/6eHcR7zwvNSvkOl9jbctU0lvZQ1.jpg</poster>
+    <fecha>6 dic 2023</fecha>
+    <rating>71.92999999999999</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>El chico y la garza</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/cUZop9T440Bx25P8Ptc0qXkLYEa.jpg</poster>
+    <fecha>14 jul 2023</fecha>
+    <rating>75.0</rating>
+  </pelicula>
+  <pelicula>
+    <titulo>El cerdo, la serpiente y la paloma</titulo>
+    <poster>https://media.themoviedb.org/t/p/w220_and_h330_face/aqfS8ZHWq9UY52XRZXVmwBHB2r8.jpg</poster>
+    <fecha>6 oct 2023</fecha>
+    <rating>77.12</rating>
+  </pelicula>
+</peliculas>

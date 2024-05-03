@@ -1,0 +1,4970 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet href="style.xsl" type="text/xsl"?>
+<fitness>
+  <target name="Abductors">
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>leverage machine</equipment>
+        <gifUrl>https://v2.exercisedb.io/image/v7dKNre2JWr2Qg</gifUrl>
+        <id>0597</id>
+        <name>lever seated hip abduction</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>resistance band</equipment>
+        <gifUrl>https://v2.exercisedb.io/image/o0-hK0HLIS8Wrw</gifUrl>
+        <id>3006</id>
+        <name>resistance band seated hip abduction</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>https://v2.exercisedb.io/image/ZGcD9t2EkIiPOi</gifUrl>
+        <id>1774</id>
+        <name>side bridge hip abduction</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>https://v2.exercisedb.io/image/vEsEBQmCQa7lDe</gifUrl>
+        <id>0710</id>
+        <name>side hip abduction</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>https://v2.exercisedb.io/image/xNOiMDzGHOIQn6</gifUrl>
+        <id>1427</id>
+        <name>straight leg outer hip abductor</name>
+      </exercise>
+  </target>
+  <target name="Abs">
+      <exercise>
+        <bodyPart>waist</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>https://v2.exercisedb.io/image/UcvY9fRgNeiV4m</gifUrl>
+        <id>0001</id>
+        <name>3/4 sit-up</name>
+      </exercise>
+      <exercise>
+        <bodyPart>waist</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>https://v2.exercisedb.io/image/I-Of0Ev43i4Zt7</gifUrl>
+        <id>0002</id>
+        <name>45° side bend</name>
+      </exercise>
+      <exercise>
+        <bodyPart>waist</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>https://v2.exercisedb.io/image/vqnn-xmm4fINTJ</gifUrl>
+        <id>0003</id>
+        <name>air bike</name>
+      </exercise>
+      <exercise>
+        <bodyPart>waist</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>https://v2.exercisedb.io/image/Y99VpeCGG19urP</gifUrl>
+        <id>0006</id>
+        <name>alternate heel touchers</name>
+      </exercise>
+      <exercise>
+        <bodyPart>waist</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>https://v2.exercisedb.io/image/syexFkqm09g-Ms</gifUrl>
+        <id>2355</id>
+        <name>arm slingers hanging bent knee legs</name>
+      </exercise>
+      <exercise>
+        <bodyPart>waist</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>https://v2.exercisedb.io/image/Sv6SbN1kjlv7cR</gifUrl>
+        <id>2333</id>
+        <name>arm slingers hanging straight legs</name>
+      </exercise>
+      <exercise>
+        <bodyPart>waist</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>https://v2.exercisedb.io/image/hcbbkHUzwGrwny</gifUrl>
+        <id>3204</id>
+        <name>arms overhead full sit-up (male)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>waist</bodyPart>
+        <equipment>assisted</equipment>
+        <gifUrl>https://v2.exercisedb.io/image/AZb8RmkBQvPpqG</gifUrl>
+        <id>0011</id>
+        <name>assisted hanging knee raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>waist</bodyPart>
+        <equipment>assisted</equipment>
+        <gifUrl>https://v2.exercisedb.io/image/LGGn33YGqbqkKG</gifUrl>
+        <id>0010</id>
+        <name>assisted hanging knee raise with throw down</name>
+      </exercise>
+      <exercise>
+        <bodyPart>waist</bodyPart>
+        <equipment>assisted</equipment>
+        <gifUrl>https://v2.exercisedb.io/image/7rVuOzzhMo3qnN</gifUrl>
+        <id>0012</id>
+        <name>assisted lying leg raise with lateral throw down</name>
+      </exercise>
+  </target>
+  <target name="Biceps">
+      <exercise>
+        <bodyPart>upper arms</bodyPart>
+        <equipment>band</equipment>
+        <gifUrl>https://v2.exercisedb.io/image/zeImPkhuk0S44W</gifUrl>
+        <id>0968</id>
+        <name>band alternating biceps curl</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper arms</bodyPart>
+        <equipment>band</equipment>
+        <gifUrl>https://v2.exercisedb.io/image/OZ8aCIz-yHnzxI</gifUrl>
+        <id>0976</id>
+        <name>band concentration curl</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper arms</bodyPart>
+        <equipment>band</equipment>
+        <gifUrl>https://v2.exercisedb.io/image/C1GMnUWg2WEU0O</gifUrl>
+        <id>0986</id>
+        <name>band one arm overhead biceps curl</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper arms</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>https://v2.exercisedb.io/image/IXPYtcuDwKgBZp</gifUrl>
+        <id>0023</id>
+        <name>barbell alternate biceps curl</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper arms</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>https://v2.exercisedb.io/image/5wo3CRWwx4WKni</gifUrl>
+        <id>2407</id>
+        <name>barbell biceps curl (with arm blaster)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper arms</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>https://v2.exercisedb.io/image/vwszBKK6x4r7kW</gifUrl>
+        <id>0031</id>
+        <name>barbell curl</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper arms</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>https://v2.exercisedb.io/image/08go31u8hI0VJE</gifUrl>
+        <id>0038</id>
+        <name>barbell drag curl</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper arms</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>https://v2.exercisedb.io/image/aWO5vGk3H9W-vQ</gifUrl>
+        <id>0059</id>
+        <name>barbell lying preacher curl</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper arms</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>https://v2.exercisedb.io/image/pfGKBd4Ru6wvgo</gifUrl>
+        <id>0070</id>
+        <name>barbell preacher curl</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper arms</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>https://v2.exercisedb.io/image/HoU1gwzTfZYZTi</gifUrl>
+        <id>0072</id>
+        <name>barbell prone incline curl</name>
+      </exercise>
+  </target>
+  <target name="Calves">
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1368.gif</gifUrl>
+        <id>1368</id>
+        <name>ankle circles</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>assisted</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1708.gif</gifUrl>
+        <id>1708</id>
+        <name>assisted lying calves stretch</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>band</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0999.gif</gifUrl>
+        <id>0999</id>
+        <name>band single leg calf raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>band</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1000.gif</gifUrl>
+        <id>1000</id>
+        <name>band single leg reverse calf raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>band</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1369.gif</gifUrl>
+        <id>1369</id>
+        <name>band two legs calf raise - (band under both legs) v. 2</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1370.gif</gifUrl>
+        <id>1370</id>
+        <name>barbell floor calf raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0088.gif</gifUrl>
+        <id>0088</id>
+        <name>barbell seated calf raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1371.gif</gifUrl>
+        <id>1371</id>
+        <name>barbell seated calf raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1372.gif</gifUrl>
+        <id>1372</id>
+        <name>barbell standing calf raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0108.gif</gifUrl>
+        <id>0108</id>
+        <name>barbell standing leg calf raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0111.gif</gifUrl>
+        <id>0111</id>
+        <name>barbell standing rocking leg calf raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1373.gif</gifUrl>
+        <id>1373</id>
+        <name>bodyweight standing calf raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1374.gif</gifUrl>
+        <id>1374</id>
+        <name>box jump down with one leg stabilization</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1375.gif</gifUrl>
+        <id>1375</id>
+        <name>cable standing calf raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1376.gif</gifUrl>
+        <id>1376</id>
+        <name>cable standing one leg calf raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1407.gif</gifUrl>
+        <id>1407</id>
+        <name>calf push stretch with hands against wall</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1377.gif</gifUrl>
+        <id>1377</id>
+        <name>calf stretch with hands against wall</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>rope</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1378.gif</gifUrl>
+        <id>1378</id>
+        <name>calf stretch with rope</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0257.gif</gifUrl>
+        <id>0257</id>
+        <name>circles knee stretch</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0284.gif</gifUrl>
+        <id>0284</id>
+        <name>donkey calf raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1379.gif</gifUrl>
+        <id>1379</id>
+        <name>dumbbell seated calf raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0400.gif</gifUrl>
+        <id>0400</id>
+        <name>dumbbell seated one leg calf raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1380.gif</gifUrl>
+        <id>1380</id>
+        <name>dumbbell seated one leg calf raise - hammer grip</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1381.gif</gifUrl>
+        <id>1381</id>
+        <name>dumbbell seated one leg calf raise - palm up</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0409.gif</gifUrl>
+        <id>0409</id>
+        <name>dumbbell single leg calf raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0417.gif</gifUrl>
+        <id>0417</id>
+        <name>dumbbell standing calf raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1382.gif</gifUrl>
+        <id>1382</id>
+        <name>exercise ball on the wall calf raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3241.gif</gifUrl>
+        <id>3241</id>
+        <name>exercise ball on the wall calf raise (tennis ball between ankles)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3240.gif</gifUrl>
+        <id>3240</id>
+        <name>exercise ball on the wall calf raise (tennis ball between knees)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>sled machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1383.gif</gifUrl>
+        <id>1383</id>
+        <name>hack calf raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>sled machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1384.gif</gifUrl>
+        <id>1384</id>
+        <name>hack one leg calf raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>leverage machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/2289.gif</gifUrl>
+        <id>2289</id>
+        <name>lever calf press </name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>leverage machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1253.gif</gifUrl>
+        <id>1253</id>
+        <name>lever donkey calf raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>leverage machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/2315.gif</gifUrl>
+        <id>2315</id>
+        <name>lever rotary calf</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>leverage machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/2335.gif</gifUrl>
+        <id>2335</id>
+        <name>lever seated calf press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>leverage machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0594.gif</gifUrl>
+        <id>0594</id>
+        <name>lever seated calf raise </name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>leverage machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1385.gif</gifUrl>
+        <id>1385</id>
+        <name>lever seated squat calf raise on leg press machine</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>leverage machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0605.gif</gifUrl>
+        <id>0605</id>
+        <name>lever standing calf raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1386.gif</gifUrl>
+        <id>1386</id>
+        <name>one leg donkey calf raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1387.gif</gifUrl>
+        <id>1387</id>
+        <name>one leg floor calf raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>rope</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1388.gif</gifUrl>
+        <id>1388</id>
+        <name>peroneals stretch</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>rope</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1389.gif</gifUrl>
+        <id>1389</id>
+        <name>posterior tibialis stretch</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1390.gif</gifUrl>
+        <id>1390</id>
+        <name>seated calf stretch (male)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0727.gif</gifUrl>
+        <id>0727</id>
+        <name>single leg calf raise (on a dumbbell)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>sled machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0738.gif</gifUrl>
+        <id>0738</id>
+        <name>sled 45в° calf press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>sled machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1391.gif</gifUrl>
+        <id>1391</id>
+        <name>sled calf press on leg press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>sled machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0742.gif</gifUrl>
+        <id>0742</id>
+        <name>sled forward angled calf raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>sled machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/2334.gif</gifUrl>
+        <id>2334</id>
+        <name>sled lying calf press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>sled machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1392.gif</gifUrl>
+        <id>1392</id>
+        <name>sled one leg calf press on leg press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>smith machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1393.gif</gifUrl>
+        <id>1393</id>
+        <name>smith one leg floor calf raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>smith machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0763.gif</gifUrl>
+        <id>0763</id>
+        <name>smith reverse calf raises</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>smith machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1394.gif</gifUrl>
+        <id>1394</id>
+        <name>smith reverse calf raises</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>smith machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1395.gif</gifUrl>
+        <id>1395</id>
+        <name>smith seated one leg calf raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>smith machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0773.gif</gifUrl>
+        <id>0773</id>
+        <name>smith standing leg calf raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>smith machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1396.gif</gifUrl>
+        <id>1396</id>
+        <name>smith toe raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1490.gif</gifUrl>
+        <id>1490</id>
+        <name>standing calf raise (on a staircase)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1397.gif</gifUrl>
+        <id>1397</id>
+        <name>standing calves</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1398.gif</gifUrl>
+        <id>1398</id>
+        <name>standing calves calf stretch</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower legs</bodyPart>
+        <equipment>weighted</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0833.gif</gifUrl>
+        <id>0833</id>
+        <name>weighted donkey calf raise</name>
+      </exercise>
+  </target>
+  <target name="Cardiovascular System">
+      <exercise>
+        <bodyPart>cardio</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3220.gif</gifUrl>
+        <id>3220</id>
+        <name>astride jumps (male)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>cardio</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3672.gif</gifUrl>
+        <id>3672</id>
+        <name>back and forth step</name>
+      </exercise>
+      <exercise>
+        <bodyPart>cardio</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3360.gif</gifUrl>
+        <id>3360</id>
+        <name>bear crawl</name>
+      </exercise>
+      <exercise>
+        <bodyPart>cardio</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1160.gif</gifUrl>
+        <id>1160</id>
+        <name>burpee</name>
+      </exercise>
+      <exercise>
+        <bodyPart>cardio</bodyPart>
+        <equipment>leverage machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/2331.gif</gifUrl>
+        <id>2331</id>
+        <name>cycle cross trainer</name>
+      </exercise>
+      <exercise>
+        <bodyPart>cardio</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1201.gif</gifUrl>
+        <id>1201</id>
+        <name>dumbbell burpee</name>
+      </exercise>
+      <exercise>
+        <bodyPart>cardio</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3221.gif</gifUrl>
+        <id>3221</id>
+        <name>half knee bends (male)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>cardio</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3636.gif</gifUrl>
+        <id>3636</id>
+        <name>high knee against wall</name>
+      </exercise>
+      <exercise>
+        <bodyPart>cardio</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0501.gif</gifUrl>
+        <id>0501</id>
+        <name>jack burpee</name>
+      </exercise>
+      <exercise>
+        <bodyPart>cardio</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3224.gif</gifUrl>
+        <id>3224</id>
+        <name>jack jump (male)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>cardio</bodyPart>
+        <equipment>rope</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/2612.gif</gifUrl>
+        <id>2612</id>
+        <name>jump rope</name>
+      </exercise>
+      <exercise>
+        <bodyPart>cardio</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0630.gif</gifUrl>
+        <id>0630</id>
+        <name>mountain climber</name>
+      </exercise>
+      <exercise>
+        <bodyPart>cardio</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3638.gif</gifUrl>
+        <id>3638</id>
+        <name>push to run</name>
+      </exercise>
+      <exercise>
+        <bodyPart>cardio</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0685.gif</gifUrl>
+        <id>0685</id>
+        <name>run</name>
+      </exercise>
+      <exercise>
+        <bodyPart>cardio</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0684.gif</gifUrl>
+        <id>0684</id>
+        <name>run (equipment)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>cardio</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3219.gif</gifUrl>
+        <id>3219</id>
+        <name>scissor jumps (male)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>cardio</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3222.gif</gifUrl>
+        <id>3222</id>
+        <name>semi squat jump (male)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>cardio</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3656.gif</gifUrl>
+        <id>3656</id>
+        <name>short stride run</name>
+      </exercise>
+      <exercise>
+        <bodyPart>cardio</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3361.gif</gifUrl>
+        <id>3361</id>
+        <name>skater hops</name>
+      </exercise>
+      <exercise>
+        <bodyPart>cardio</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3671.gif</gifUrl>
+        <id>3671</id>
+        <name>ski step</name>
+      </exercise>
+      <exercise>
+        <bodyPart>cardio</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3223.gif</gifUrl>
+        <id>3223</id>
+        <name>star jump (male)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>cardio</bodyPart>
+        <equipment>stationary bike</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/2138.gif</gifUrl>
+        <id>2138</id>
+        <name>stationary bike run v. 3</name>
+      </exercise>
+      <exercise>
+        <bodyPart>cardio</bodyPart>
+        <equipment>leverage machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0798.gif</gifUrl>
+        <id>0798</id>
+        <name>stationary bike walk</name>
+      </exercise>
+      <exercise>
+        <bodyPart>cardio</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3318.gif</gifUrl>
+        <id>3318</id>
+        <name>swing 360</name>
+      </exercise>
+      <exercise>
+        <bodyPart>cardio</bodyPart>
+        <equipment>elliptical machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/2141.gif</gifUrl>
+        <id>2141</id>
+        <name>walk elliptical cross trainer</name>
+      </exercise>
+      <exercise>
+        <bodyPart>cardio</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3655.gif</gifUrl>
+        <id>3655</id>
+        <name>walking high knees lunge</name>
+      </exercise>
+      <exercise>
+        <bodyPart>cardio</bodyPart>
+        <equipment>leverage machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3666.gif</gifUrl>
+        <id>3666</id>
+        <name>walking on incline treadmill</name>
+      </exercise>
+      <exercise>
+        <bodyPart>cardio</bodyPart>
+        <equipment>stepmill machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/2311.gif</gifUrl>
+        <id>2311</id>
+        <name>walking on stepmill</name>
+      </exercise>
+      <exercise>
+        <bodyPart>cardio</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3637.gif</gifUrl>
+        <id>3637</id>
+        <name>wheel run</name>
+      </exercise>
+  </target>
+  <target name="Delts">
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>band</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0977.gif</gifUrl>
+        <id>0977</id>
+        <name>band front lateral raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>band</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0978.gif</gifUrl>
+        <id>0978</id>
+        <name>band front raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>band</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0993.gif</gifUrl>
+        <id>0993</id>
+        <name>band reverse fly</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>band</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0997.gif</gifUrl>
+        <id>0997</id>
+        <name>band shoulder press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>band</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1022.gif</gifUrl>
+        <id>1022</id>
+        <name>band standing rear delt row</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>band</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1012.gif</gifUrl>
+        <id>1012</id>
+        <name>band twisting overhead press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>band</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1017.gif</gifUrl>
+        <id>1017</id>
+        <name>band y-raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0041.gif</gifUrl>
+        <id>0041</id>
+        <name>barbell front raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0067.gif</gifUrl>
+        <id>0067</id>
+        <name>barbell one arm snatch</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0075.gif</gifUrl>
+        <id>0075</id>
+        <name>barbell rear delt raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0076.gif</gifUrl>
+        <id>0076</id>
+        <name>barbell rear delt row</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0086.gif</gifUrl>
+        <id>0086</id>
+        <name>barbell seated behind head military press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0087.gif</gifUrl>
+        <id>0087</id>
+        <name>barbell seated bradford rocky press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0091.gif</gifUrl>
+        <id>0091</id>
+        <name>barbell seated overhead press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0100.gif</gifUrl>
+        <id>0100</id>
+        <name>barbell skier</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0105.gif</gifUrl>
+        <id>0105</id>
+        <name>barbell standing bradford press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1456.gif</gifUrl>
+        <id>1456</id>
+        <name>barbell standing close grip military press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0107.gif</gifUrl>
+        <id>0107</id>
+        <name>barbell standing front raise over head</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1457.gif</gifUrl>
+        <id>1457</id>
+        <name>barbell standing wide military press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3305.gif</gifUrl>
+        <id>3305</id>
+        <name>barbell thruster</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0120.gif</gifUrl>
+        <id>0120</id>
+        <name>barbell upright row</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0119.gif</gifUrl>
+        <id>0119</id>
+        <name>barbell upright row v. 2</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0121.gif</gifUrl>
+        <id>0121</id>
+        <name>barbell upright row v. 3</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0123.gif</gifUrl>
+        <id>0123</id>
+        <name>barbell wide-grip upright row</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>rope</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0128.gif</gifUrl>
+        <id>0128</id>
+        <name>battling ropes</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0148.gif</gifUrl>
+        <id>0148</id>
+        <name>cable alternate shoulder press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0154.gif</gifUrl>
+        <id>0154</id>
+        <name>cable cross-over revers fly</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0161.gif</gifUrl>
+        <id>0161</id>
+        <name>cable forward raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0162.gif</gifUrl>
+        <id>0162</id>
+        <name>cable front raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0164.gif</gifUrl>
+        <id>0164</id>
+        <name>cable front shoulder raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3697.gif</gifUrl>
+        <id>3697</id>
+        <name>cable kneeling rear delt row (with rope) (male)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0178.gif</gifUrl>
+        <id>0178</id>
+        <name>cable lateral raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0192.gif</gifUrl>
+        <id>0192</id>
+        <name>cable one arm lateral raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0202.gif</gifUrl>
+        <id>0202</id>
+        <name>cable rear delt row (stirrups)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0203.gif</gifUrl>
+        <id>0203</id>
+        <name>cable rear delt row (with rope)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0215.gif</gifUrl>
+        <id>0215</id>
+        <name>cable seated rear lateral raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0216.gif</gifUrl>
+        <id>0216</id>
+        <name>cable seated shoulder internal rotation</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0219.gif</gifUrl>
+        <id>0219</id>
+        <name>cable shoulder press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0225.gif</gifUrl>
+        <id>0225</id>
+        <name>cable standing cross-over high reverse fly</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0233.gif</gifUrl>
+        <id>0233</id>
+        <name>cable standing rear delt row (with rope)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0235.gif</gifUrl>
+        <id>0235</id>
+        <name>cable standing shoulder external rotation</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0240.gif</gifUrl>
+        <id>0240</id>
+        <name>cable supine reverse fly</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0246.gif</gifUrl>
+        <id>0246</id>
+        <name>cable upright row</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0286.gif</gifUrl>
+        <id>0286</id>
+        <name>dumbbell alternate side press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/2137.gif</gifUrl>
+        <id>2137</id>
+        <name>dumbbell arnold press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0287.gif</gifUrl>
+        <id>0287</id>
+        <name>dumbbell arnold press v. 2</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0290.gif</gifUrl>
+        <id>0290</id>
+        <name>dumbbell bench seated press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0299.gif</gifUrl>
+        <id>0299</id>
+        <name>dumbbell cuban press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/2136.gif</gifUrl>
+        <id>2136</id>
+        <name>dumbbell cuban press v. 2</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0310.gif</gifUrl>
+        <id>0310</id>
+        <name>dumbbell front raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0309.gif</gifUrl>
+        <id>0309</id>
+        <name>dumbbell front raise v. 2</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0311.gif</gifUrl>
+        <id>0311</id>
+        <name>dumbbell full can lateral raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0323.gif</gifUrl>
+        <id>0323</id>
+        <name>dumbbell incline one arm lateral raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0325.gif</gifUrl>
+        <id>0325</id>
+        <name>dumbbell incline raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0326.gif</gifUrl>
+        <id>0326</id>
+        <name>dumbbell incline rear lateral raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3542.gif</gifUrl>
+        <id>3542</id>
+        <name>dumbbell incline t-raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0332.gif</gifUrl>
+        <id>0332</id>
+        <name>dumbbell iron cross</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0334.gif</gifUrl>
+        <id>0334</id>
+        <name>dumbbell lateral raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0335.gif</gifUrl>
+        <id>0335</id>
+        <name>dumbbell lateral to front raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0863.gif</gifUrl>
+        <id>0863</id>
+        <name>dumbbell lying external shoulder rotation</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/2470.gif</gifUrl>
+        <id>2470</id>
+        <name>dumbbell lying on floor rear delt raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0341.gif</gifUrl>
+        <id>0341</id>
+        <name>dumbbell lying one arm deltoid rear</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0345.gif</gifUrl>
+        <id>0345</id>
+        <name>dumbbell lying one arm rear lateral raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0348.gif</gifUrl>
+        <id>0348</id>
+        <name>dumbbell lying rear lateral raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0355.gif</gifUrl>
+        <id>0355</id>
+        <name>dumbbell one arm lateral raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0356.gif</gifUrl>
+        <id>0356</id>
+        <name>dumbbell one arm lateral raise with support</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0359.gif</gifUrl>
+        <id>0359</id>
+        <name>dumbbell one arm reverse fly (with support)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0361.gif</gifUrl>
+        <id>0361</id>
+        <name>dumbbell one arm shoulder press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0360.gif</gifUrl>
+        <id>0360</id>
+        <name>dumbbell one arm shoulder press v. 2</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0363.gif</gifUrl>
+        <id>0363</id>
+        <name>dumbbell one arm upright row</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1700.gif</gifUrl>
+        <id>1700</id>
+        <name>dumbbell push press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0376.gif</gifUrl>
+        <id>0376</id>
+        <name>dumbbell raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/2292.gif</gifUrl>
+        <id>2292</id>
+        <name>dumbbell rear delt raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0377.gif</gifUrl>
+        <id>0377</id>
+        <name>dumbbell rear delt row_shoulder</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0378.gif</gifUrl>
+        <id>0378</id>
+        <name>dumbbell rear fly</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0380.gif</gifUrl>
+        <id>0380</id>
+        <name>dumbbell rear lateral raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0379.gif</gifUrl>
+        <id>0379</id>
+        <name>dumbbell rear lateral raise (support head)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0383.gif</gifUrl>
+        <id>0383</id>
+        <name>dumbbell reverse fly</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0386.gif</gifUrl>
+        <id>0386</id>
+        <name>dumbbell rotation reverse fly</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/2397.gif</gifUrl>
+        <id>2397</id>
+        <name>dumbbell scott press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0387.gif</gifUrl>
+        <id>0387</id>
+        <name>dumbbell seated alternate front raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0388.gif</gifUrl>
+        <id>0388</id>
+        <name>dumbbell seated alternate press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3546.gif</gifUrl>
+        <id>3546</id>
+        <name>dumbbell seated alternate shoulder</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/2317.gif</gifUrl>
+        <id>2317</id>
+        <name>dumbbell seated bent arm lateral raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0392.gif</gifUrl>
+        <id>0392</id>
+        <name>dumbbell seated front raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0396.gif</gifUrl>
+        <id>0396</id>
+        <name>dumbbell seated lateral raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0395.gif</gifUrl>
+        <id>0395</id>
+        <name>dumbbell seated lateral raise v. 2</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0405.gif</gifUrl>
+        <id>0405</id>
+        <name>dumbbell seated shoulder press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0404.gif</gifUrl>
+        <id>0404</id>
+        <name>dumbbell seated shoulder press (parallel grip)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0408.gif</gifUrl>
+        <id>0408</id>
+        <name>dumbbell side lying one hand raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3548.gif</gifUrl>
+        <id>3548</id>
+        <name>dumbbell single arm overhead carry</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0414.gif</gifUrl>
+        <id>0414</id>
+        <name>dumbbell standing alternate overhead press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0415.gif</gifUrl>
+        <id>0415</id>
+        <name>dumbbell standing alternate raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/2143.gif</gifUrl>
+        <id>2143</id>
+        <name>dumbbell standing around world</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0419.gif</gifUrl>
+        <id>0419</id>
+        <name>dumbbell standing front raise above head</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0424.gif</gifUrl>
+        <id>0424</id>
+        <name>dumbbell standing one arm palm in press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0426.gif</gifUrl>
+        <id>0426</id>
+        <name>dumbbell standing overhead press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0427.gif</gifUrl>
+        <id>0427</id>
+        <name>dumbbell standing palms in press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0437.gif</gifUrl>
+        <id>0437</id>
+        <name>dumbbell upright row</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1765.gif</gifUrl>
+        <id>1765</id>
+        <name>dumbbell upright row (back pov)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0864.gif</gifUrl>
+        <id>0864</id>
+        <name>dumbbell upright shoulder external rotation</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0438.gif</gifUrl>
+        <id>0438</id>
+        <name>dumbbell w-press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>ez barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0445.gif</gifUrl>
+        <id>0445</id>
+        <name>ez barbell anti gravity press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>kettlebell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0520.gif</gifUrl>
+        <id>0520</id>
+        <name>kettlebell alternating press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>kettlebell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0523.gif</gifUrl>
+        <id>0523</id>
+        <name>kettlebell arnold press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>kettlebell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0527.gif</gifUrl>
+        <id>0527</id>
+        <name>kettlebell double jerk</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>kettlebell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0528.gif</gifUrl>
+        <id>0528</id>
+        <name>kettlebell double push press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>kettlebell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0529.gif</gifUrl>
+        <id>0529</id>
+        <name>kettlebell double snatch</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>kettlebell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0537.gif</gifUrl>
+        <id>0537</id>
+        <name>kettlebell one arm clean and jerk</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>kettlebell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0538.gif</gifUrl>
+        <id>0538</id>
+        <name>kettlebell one arm jerk</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>kettlebell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0539.gif</gifUrl>
+        <id>0539</id>
+        <name>kettlebell one arm military press to the side</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>kettlebell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0540.gif</gifUrl>
+        <id>0540</id>
+        <name>kettlebell one arm push press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>kettlebell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0542.gif</gifUrl>
+        <id>0542</id>
+        <name>kettlebell one arm snatch</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>kettlebell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0543.gif</gifUrl>
+        <id>0543</id>
+        <name>kettlebell pirate supper legs</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>kettlebell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0546.gif</gifUrl>
+        <id>0546</id>
+        <name>kettlebell seated press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>kettlebell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1438.gif</gifUrl>
+        <id>1438</id>
+        <name>kettlebell seated two arm military press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>kettlebell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0547.gif</gifUrl>
+        <id>0547</id>
+        <name>kettlebell seesaw press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>kettlebell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0550.gif</gifUrl>
+        <id>0550</id>
+        <name>kettlebell thruster</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>kettlebell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0552.gif</gifUrl>
+        <id>0552</id>
+        <name>kettlebell two arm clean</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>kettlebell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0553.gif</gifUrl>
+        <id>0553</id>
+        <name>kettlebell two arm military press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3237.gif</gifUrl>
+        <id>3237</id>
+        <name>landmine lateral raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/2271.gif</gifUrl>
+        <id>2271</id>
+        <name>left hook. boxing</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>leverage machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0584.gif</gifUrl>
+        <id>0584</id>
+        <name>lever lateral raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>leverage machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0587.gif</gifUrl>
+        <id>0587</id>
+        <name>lever military press </name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>leverage machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0590.gif</gifUrl>
+        <id>0590</id>
+        <name>lever one arm shoulder press </name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>leverage machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0602.gif</gifUrl>
+        <id>0602</id>
+        <name>lever seated reverse fly</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>leverage machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0601.gif</gifUrl>
+        <id>0601</id>
+        <name>lever seated reverse fly (parallel grip)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>leverage machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0603.gif</gifUrl>
+        <id>0603</id>
+        <name>lever shoulder press </name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>leverage machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0869.gif</gifUrl>
+        <id>0869</id>
+        <name>lever shoulder press  v. 2</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>leverage machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/2318.gif</gifUrl>
+        <id>2318</id>
+        <name>lever shoulder press  v. 3</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0669.gif</gifUrl>
+        <id>0669</id>
+        <name>rear deltoid stretch</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>resistance band</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3122.gif</gifUrl>
+        <id>3122</id>
+        <name>resistance band seated shoulder press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>smith machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0747.gif</gifUrl>
+        <id>0747</id>
+        <name>smith behind neck press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>smith machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0762.gif</gifUrl>
+        <id>0762</id>
+        <name>smith rear delt row</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>smith machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0765.gif</gifUrl>
+        <id>0765</id>
+        <name>smith seated shoulder press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>smith machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0766.gif</gifUrl>
+        <id>0766</id>
+        <name>smith shoulder press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>smith machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0772.gif</gifUrl>
+        <id>0772</id>
+        <name>smith standing behind head military press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>smith machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0774.gif</gifUrl>
+        <id>0774</id>
+        <name>smith standing military press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>smith machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0775.gif</gifUrl>
+        <id>0775</id>
+        <name>smith upright row</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0788.gif</gifUrl>
+        <id>0788</id>
+        <name>standing behind neck press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>weighted</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0834.gif</gifUrl>
+        <id>0834</id>
+        <name>weighted front raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>weighted</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3641.gif</gifUrl>
+        <id>3641</id>
+        <name>weighted kneeling step with swing</name>
+      </exercise>
+      <exercise>
+        <bodyPart>shoulders</bodyPart>
+        <equipment>weighted</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0844.gif</gifUrl>
+        <id>0844</id>
+        <name>weighted round arm</name>
+      </exercise>
+  </target>
+  <target name="Forearms">
+      <exercise>
+        <bodyPart>lower arms</bodyPart>
+        <equipment>band</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0994.gif</gifUrl>
+        <id>0994</id>
+        <name>band reverse wrist curl</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower arms</bodyPart>
+        <equipment>band</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1016.gif</gifUrl>
+        <id>1016</id>
+        <name>band wrist curl</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower arms</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1411.gif</gifUrl>
+        <id>1411</id>
+        <name>barbell palms down wrist curl over a bench</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower arms</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1412.gif</gifUrl>
+        <id>1412</id>
+        <name>barbell palms up wrist curl over a bench</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower arms</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0079.gif</gifUrl>
+        <id>0079</id>
+        <name>barbell revers wrist curl v. 2</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower arms</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0082.gif</gifUrl>
+        <id>0082</id>
+        <name>barbell reverse wrist curl</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower arms</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0104.gif</gifUrl>
+        <id>0104</id>
+        <name>barbell standing back wrist curl</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower arms</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0126.gif</gifUrl>
+        <id>0126</id>
+        <name>barbell wrist curl</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower arms</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0125.gif</gifUrl>
+        <id>0125</id>
+        <name>barbell wrist curl v. 2</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower arms</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0210.gif</gifUrl>
+        <id>0210</id>
+        <name>cable reverse wrist curl</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower arms</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0224.gif</gifUrl>
+        <id>0224</id>
+        <name>cable standing back wrist curl</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower arms</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0247.gif</gifUrl>
+        <id>0247</id>
+        <name>cable wrist curl</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower arms</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1437.gif</gifUrl>
+        <id>1437</id>
+        <name>dumbbell finger curls</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower arms</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0347.gif</gifUrl>
+        <id>0347</id>
+        <name>dumbbell lying pronation</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower arms</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/2705.gif</gifUrl>
+        <id>2705</id>
+        <name>dumbbell lying pronation on floor</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower arms</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0349.gif</gifUrl>
+        <id>0349</id>
+        <name>dumbbell lying supination</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower arms</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/2706.gif</gifUrl>
+        <id>2706</id>
+        <name>dumbbell lying supination on floor</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower arms</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0358.gif</gifUrl>
+        <id>0358</id>
+        <name>dumbbell one arm revers wrist curl</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower arms</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1415.gif</gifUrl>
+        <id>1415</id>
+        <name>dumbbell one arm seated neutral wrist curl</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower arms</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0364.gif</gifUrl>
+        <id>0364</id>
+        <name>dumbbell one arm wrist curl</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower arms</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1441.gif</gifUrl>
+        <id>1441</id>
+        <name>dumbbell over bench one arm reverse wrist curl</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower arms</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0367.gif</gifUrl>
+        <id>0367</id>
+        <name>dumbbell over bench one arm wrist curl</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower arms</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0368.gif</gifUrl>
+        <id>0368</id>
+        <name>dumbbell over bench revers wrist curl</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower arms</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0369.gif</gifUrl>
+        <id>0369</id>
+        <name>dumbbell over bench wrist curl</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower arms</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0385.gif</gifUrl>
+        <id>0385</id>
+        <name>dumbbell reverse wrist curl</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower arms</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0399.gif</gifUrl>
+        <id>0399</id>
+        <name>dumbbell seated one arm rotate</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower arms</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0401.gif</gifUrl>
+        <id>0401</id>
+        <name>dumbbell seated palms up wrist curl</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower arms</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0455.gif</gifUrl>
+        <id>0455</id>
+        <name>finger curls</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower arms</bodyPart>
+        <equipment>kettlebell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0518.gif</gifUrl>
+        <id>0518</id>
+        <name>kettlebell alternating hang clean</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower arms</bodyPart>
+        <equipment>leverage machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/2288.gif</gifUrl>
+        <id>2288</id>
+        <name>lever gripper hands </name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower arms</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1421.gif</gifUrl>
+        <id>1421</id>
+        <name>modified push up to lower arms</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower arms</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0721.gif</gifUrl>
+        <id>0721</id>
+        <name>side wrist pull stretch</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower arms</bodyPart>
+        <equipment>smith machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1426.gif</gifUrl>
+        <id>1426</id>
+        <name>smith seated wrist curl</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower arms</bodyPart>
+        <equipment>smith machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0771.gif</gifUrl>
+        <id>0771</id>
+        <name>smith standing back wrist curl</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower arms</bodyPart>
+        <equipment>weighted</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0854.gif</gifUrl>
+        <id>0854</id>
+        <name>weighted standing hand squeeze</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower arms</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1428.gif</gifUrl>
+        <id>1428</id>
+        <name>wrist circles</name>
+      </exercise>
+      <exercise>
+        <bodyPart>lower arms</bodyPart>
+        <equipment>weighted</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0859.gif</gifUrl>
+        <id>0859</id>
+        <name>wrist rollerer</name>
+      </exercise>
+  </target>
+  <target name="Glutes">
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3214.gif</gifUrl>
+        <id>3214</id>
+        <name>arms apart circular toe touch (male)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>assisted</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1709.gif</gifUrl>
+        <id>1709</id>
+        <name>assisted lying glutes stretch</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>assisted</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1710.gif</gifUrl>
+        <id>1710</id>
+        <name>assisted lying gluteus and piriformis stretch</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>band</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0980.gif</gifUrl>
+        <id>0980</id>
+        <name>band bent-over hip extension</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>band</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1408.gif</gifUrl>
+        <id>1408</id>
+        <name>band hip lift</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>band</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0984.gif</gifUrl>
+        <id>0984</id>
+        <name>band lying hip internal rotation</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>band</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0991.gif</gifUrl>
+        <id>0991</id>
+        <name>band pull through</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>band</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0996.gif</gifUrl>
+        <id>0996</id>
+        <name>band seated hip internal rotation</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>band</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1004.gif</gifUrl>
+        <id>1004</id>
+        <name>band squat</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>band</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1003.gif</gifUrl>
+        <id>1003</id>
+        <name>band squat row</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>band</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1008.gif</gifUrl>
+        <id>1008</id>
+        <name>band step-up</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>band</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1009.gif</gifUrl>
+        <id>1009</id>
+        <name>band stiff leg deadlift</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>band</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1023.gif</gifUrl>
+        <id>1023</id>
+        <name>band straight back stiff leg deadlift</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0029.gif</gifUrl>
+        <id>0029</id>
+        <name>barbell clean-grip front squat</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0032.gif</gifUrl>
+        <id>0032</id>
+        <name>barbell deadlift</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0039.gif</gifUrl>
+        <id>0039</id>
+        <name>barbell front chest squat</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0042.gif</gifUrl>
+        <id>0042</id>
+        <name>barbell front squat</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0043.gif</gifUrl>
+        <id>0043</id>
+        <name>barbell full squat</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1461.gif</gifUrl>
+        <id>1461</id>
+        <name>barbell full squat (back pov)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1462.gif</gifUrl>
+        <id>1462</id>
+        <name>barbell full squat (side pov)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1545.gif</gifUrl>
+        <id>1545</id>
+        <name>barbell full zercher squat</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1409.gif</gifUrl>
+        <id>1409</id>
+        <name>barbell glute bridge</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3562.gif</gifUrl>
+        <id>3562</id>
+        <name>barbell glute bridge two legs on bench (male)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0046.gif</gifUrl>
+        <id>0046</id>
+        <name>barbell hack squat</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1436.gif</gifUrl>
+        <id>1436</id>
+        <name>barbell high bar squat</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0051.gif</gifUrl>
+        <id>0051</id>
+        <name>barbell jefferson squat</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0053.gif</gifUrl>
+        <id>0053</id>
+        <name>barbell jump squat</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1410.gif</gifUrl>
+        <id>1410</id>
+        <name>barbell lateral lunge</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1435.gif</gifUrl>
+        <id>1435</id>
+        <name>barbell low bar squat</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0054.gif</gifUrl>
+        <id>0054</id>
+        <name>barbell lunge</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0058.gif</gifUrl>
+        <id>0058</id>
+        <name>barbell lying lifting (on hip)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0063.gif</gifUrl>
+        <id>0063</id>
+        <name>barbell narrow stance squat</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0066.gif</gifUrl>
+        <id>0066</id>
+        <name>barbell one arm side deadlift</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0074.gif</gifUrl>
+        <id>0074</id>
+        <name>barbell rack pull</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0078.gif</gifUrl>
+        <id>0078</id>
+        <name>barbell rear lunge</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0077.gif</gifUrl>
+        <id>0077</id>
+        <name>barbell rear lunge v. 2</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0085.gif</gifUrl>
+        <id>0085</id>
+        <name>barbell romanian deadlift</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0090.gif</gifUrl>
+        <id>0090</id>
+        <name>barbell seated good morning</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1756.gif</gifUrl>
+        <id>1756</id>
+        <name>barbell single leg deadlift</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0101.gif</gifUrl>
+        <id>0101</id>
+        <name>barbell speed squat</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0114.gif</gifUrl>
+        <id>0114</id>
+        <name>barbell step-up</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0115.gif</gifUrl>
+        <id>0115</id>
+        <name>barbell stiff leg good morning</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0117.gif</gifUrl>
+        <id>0117</id>
+        <name>barbell sumo deadlift</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0127.gif</gifUrl>
+        <id>0127</id>
+        <name>barbell zercher squat</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3212.gif</gifUrl>
+        <id>3212</id>
+        <name>basic toe touch (male)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0130.gif</gifUrl>
+        <id>0130</id>
+        <name>bench hip extension</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3639.gif</gifUrl>
+        <id>3639</id>
+        <name>bent knee lying twist (male)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3543.gif</gifUrl>
+        <id>3543</id>
+        <name>bodyweight drop jump squat</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0157.gif</gifUrl>
+        <id>0157</id>
+        <name>cable deadlift</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0196.gif</gifUrl>
+        <id>0196</id>
+        <name>cable pull through (with rope)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0228.gif</gifUrl>
+        <id>0228</id>
+        <name>cable standing hip extension</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3769.gif</gifUrl>
+        <id>3769</id>
+        <name>curtsey squat</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0291.gif</gifUrl>
+        <id>0291</id>
+        <name>dumbbell bench squat</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0295.gif</gifUrl>
+        <id>0295</id>
+        <name>dumbbell clean</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3635.gif</gifUrl>
+        <id>3635</id>
+        <name>dumbbell contralateral forward lunge</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0300.gif</gifUrl>
+        <id>0300</id>
+        <name>dumbbell deadlift</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0336.gif</gifUrl>
+        <id>0336</id>
+        <name>dumbbell lunge</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3888.gif</gifUrl>
+        <id>3888</id>
+        <name>dumbbell one arm snatch</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0371.gif</gifUrl>
+        <id>0371</id>
+        <name>dumbbell plyo squat</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0381.gif</gifUrl>
+        <id>0381</id>
+        <name>dumbbell rear lunge</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1459.gif</gifUrl>
+        <id>1459</id>
+        <name>dumbbell romanian deadlift</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1757.gif</gifUrl>
+        <id>1757</id>
+        <name>dumbbell single leg deadlift</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/2805.gif</gifUrl>
+        <id>2805</id>
+        <name>dumbbell single leg deadlift with stepbox support</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0411.gif</gifUrl>
+        <id>0411</id>
+        <name>dumbbell single leg squat</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0413.gif</gifUrl>
+        <id>0413</id>
+        <name>dumbbell squat</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0431.gif</gifUrl>
+        <id>0431</id>
+        <name>dumbbell step-up</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0432.gif</gifUrl>
+        <id>0432</id>
+        <name>dumbbell stiff leg deadlift</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0434.gif</gifUrl>
+        <id>0434</id>
+        <name>dumbbell straight leg deadlift</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/2808.gif</gifUrl>
+        <id>2808</id>
+        <name>dumbbell sumo pull through</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>stability ball</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1559.gif</gifUrl>
+        <id>1559</id>
+        <name>exercise ball hip flexor stretch</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>stability ball</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1416.gif</gifUrl>
+        <id>1416</id>
+        <name>exercise ball one leg prone lower body rotation</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>stability ball</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1417.gif</gifUrl>
+        <id>1417</id>
+        <name>exercise ball one legged diagonal kick hamstring curl</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0459.gif</gifUrl>
+        <id>0459</id>
+        <name>flutter kicks</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3470.gif</gifUrl>
+        <id>3470</id>
+        <name>forward lunge (male)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3194.gif</gifUrl>
+        <id>3194</id>
+        <name>frankenstein squat</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3561.gif</gifUrl>
+        <id>3561</id>
+        <name>glute bridge march</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3523.gif</gifUrl>
+        <id>3523</id>
+        <name>glute bridge two legs on bench (male)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3218.gif</gifUrl>
+        <id>3218</id>
+        <name>hands clasped circular toe touch (male)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3215.gif</gifUrl>
+        <id>3215</id>
+        <name>hands reversed clasped circular toe touch (male)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1418.gif</gifUrl>
+        <id>1418</id>
+        <name>hug keens to chest</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1419.gif</gifUrl>
+        <id>1419</id>
+        <name>iron cross stretch</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0514.gif</gifUrl>
+        <id>0514</id>
+        <name>jump squat</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0513.gif</gifUrl>
+        <id>0513</id>
+        <name>jump squat v. 2</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>kettlebell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0533.gif</gifUrl>
+        <id>0533</id>
+        <name>kettlebell front squat</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>kettlebell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0534.gif</gifUrl>
+        <id>0534</id>
+        <name>kettlebell goblet squat</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>kettlebell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0536.gif</gifUrl>
+        <id>0536</id>
+        <name>kettlebell lunge pass through</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>kettlebell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0544.gif</gifUrl>
+        <id>0544</id>
+        <name>kettlebell pistol squat</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>kettlebell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0549.gif</gifUrl>
+        <id>0549</id>
+        <name>kettlebell swing</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>kettlebell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0551.gif</gifUrl>
+        <id>0551</id>
+        <name>kettlebell turkish get up (squat style)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1420.gif</gifUrl>
+        <id>1420</id>
+        <name>kneeling jump squat</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>leverage machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0578.gif</gifUrl>
+        <id>0578</id>
+        <name>lever deadlift </name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>leverage machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/2286.gif</gifUrl>
+        <id>2286</id>
+        <name>lever hip extension v. 2</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>leverage machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/2611.gif</gifUrl>
+        <id>2611</id>
+        <name>lever horizontal one leg press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>leverage machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0593.gif</gifUrl>
+        <id>0593</id>
+        <name>lever reverse hyperextension </name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>leverage machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3759.gif</gifUrl>
+        <id>3759</id>
+        <name>lever seated good morning</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3013.gif</gifUrl>
+        <id>3013</id>
+        <name>low glute bridge on floor</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3582.gif</gifUrl>
+        <id>3582</id>
+        <name>lunge with jump</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0624.gif</gifUrl>
+        <id>0624</id>
+        <name>march sit (wall)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0628.gif</gifUrl>
+        <id>0628</id>
+        <name>monster walk</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1476.gif</gifUrl>
+        <id>1476</id>
+        <name>one leg squat</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0642.gif</gifUrl>
+        <id>0642</id>
+        <name>outside leg kick push-up</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1422.gif</gifUrl>
+        <id>1422</id>
+        <name>pelvic tilt into bridge</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3662.gif</gifUrl>
+        <id>3662</id>
+        <name>pike-to-cobra push-up</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3132.gif</gifUrl>
+        <id>3132</id>
+        <name>potty squat with support</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0661.gif</gifUrl>
+        <id>0661</id>
+        <name>push-up inside leg kick</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0668.gif</gifUrl>
+        <id>0668</id>
+        <name>rear decline bridge</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>resistance band</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3236.gif</gifUrl>
+        <id>3236</id>
+        <name>resistance band hip thrusts on knees (female)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>stability ball</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0675.gif</gifUrl>
+        <id>0675</id>
+        <name>reverse hyper extension (on stability ball)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1423.gif</gifUrl>
+        <id>1423</id>
+        <name>reverse hyper on flat bench</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/2571.gif</gifUrl>
+        <id>2571</id>
+        <name>rocking frog stretch</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>roller</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/2205.gif</gifUrl>
+        <id>2205</id>
+        <name>roller hip lat stretch</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>roller</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/2202.gif</gifUrl>
+        <id>2202</id>
+        <name>roller hip stretch</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1424.gif</gifUrl>
+        <id>1424</id>
+        <name>seated glute stretch</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/2567.gif</gifUrl>
+        <id>2567</id>
+        <name>seated piriformis stretch</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3645.gif</gifUrl>
+        <id>3645</id>
+        <name>single leg bridge with outstretched leg</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1759.gif</gifUrl>
+        <id>1759</id>
+        <name>single leg squat (pistol) male</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>sled machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1425.gif</gifUrl>
+        <id>1425</id>
+        <name>sled 45 degrees one leg press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>sled machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0739.gif</gifUrl>
+        <id>0739</id>
+        <name>sled 45в° leg press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>sled machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1464.gif</gifUrl>
+        <id>1464</id>
+        <name>sled 45в° leg press (back pov)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>sled machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1463.gif</gifUrl>
+        <id>1463</id>
+        <name>sled 45в° leg press (side pov)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>sled machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0740.gif</gifUrl>
+        <id>0740</id>
+        <name>sled 45в° leg wide press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>sled machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0741.gif</gifUrl>
+        <id>0741</id>
+        <name>sled closer hack squat</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>sled machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0743.gif</gifUrl>
+        <id>0743</id>
+        <name>sled hack squat</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>sled machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0744.gif</gifUrl>
+        <id>0744</id>
+        <name>sled lying squat</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>smith machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0749.gif</gifUrl>
+        <id>0749</id>
+        <name>smith bent knee good morning</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>smith machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0752.gif</gifUrl>
+        <id>0752</id>
+        <name>smith deadlift</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>smith machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1433.gif</gifUrl>
+        <id>1433</id>
+        <name>smith front squat (clean grip)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>smith machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3281.gif</gifUrl>
+        <id>3281</id>
+        <name>smith full squat</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>smith machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0755.gif</gifUrl>
+        <id>0755</id>
+        <name>smith hack squat</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>smith machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0760.gif</gifUrl>
+        <id>0760</id>
+        <name>smith leg press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>smith machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1434.gif</gifUrl>
+        <id>1434</id>
+        <name>smith low bar squat</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>smith machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0769.gif</gifUrl>
+        <id>0769</id>
+        <name>smith sprint lunge</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>smith machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0770.gif</gifUrl>
+        <id>0770</id>
+        <name>smith squat</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>smith machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3142.gif</gifUrl>
+        <id>3142</id>
+        <name>smith sumo squat</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0778.gif</gifUrl>
+        <id>0778</id>
+        <name>spider crawl push up</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3433.gif</gifUrl>
+        <id>3433</id>
+        <name>swimmer kicks v. 2 (male)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>tire</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/2459.gif</gifUrl>
+        <id>2459</id>
+        <name>tire flip</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>trap bar</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0811.gif</gifUrl>
+        <id>0811</id>
+        <name>trap bar deadlift</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1466.gif</gifUrl>
+        <id>1466</id>
+        <name>twist hip lift</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1460.gif</gifUrl>
+        <id>1460</id>
+        <name>walking lunge</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>weighted</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3643.gif</gifUrl>
+        <id>3643</id>
+        <name>weighted cossack squats (male)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>weighted</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3644.gif</gifUrl>
+        <id>3644</id>
+        <name>weighted lunge with swing</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>weighted</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0852.gif</gifUrl>
+        <id>0852</id>
+        <name>weighted squat</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>weighted</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3642.gif</gifUrl>
+        <id>3642</id>
+        <name>weighted stretch lunge</name>
+      </exercise>
+  </target>
+  <target name="Hamstrings">
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>assisted</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0016.gif</gifUrl>
+        <id>0016</id>
+        <name>assisted prone hamstring</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0044.gif</gifUrl>
+        <id>0044</id>
+        <name>barbell good morning</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0116.gif</gifUrl>
+        <id>0116</id>
+        <name>barbell straight leg deadlift</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3235.gif</gifUrl>
+        <id>3235</id>
+        <name>cable assisted inverse leg curl</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0339.gif</gifUrl>
+        <id>0339</id>
+        <name>dumbbell lying femoral</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>stability ball</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1560.gif</gifUrl>
+        <id>1560</id>
+        <name>exercise ball seated hamstring stretch</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3193.gif</gifUrl>
+        <id>3193</id>
+        <name>glute-ham raise</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1511.gif</gifUrl>
+        <id>1511</id>
+        <name>hamstring stretch</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0496.gif</gifUrl>
+        <id>0496</id>
+        <name>inverse leg curl (bench support)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/2400.gif</gifUrl>
+        <id>2400</id>
+        <name>inverse leg curl (on pull-up cable machine)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>kettlebell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0535.gif</gifUrl>
+        <id>0535</id>
+        <name>kettlebell hang clean</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0555.gif</gifUrl>
+        <id>0555</id>
+        <name>kick out sit</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1576.gif</gifUrl>
+        <id>1576</id>
+        <name>leg up hamstring stretch</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>leverage machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0582.gif</gifUrl>
+        <id>0582</id>
+        <name>lever kneeling leg curl </name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>leverage machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0586.gif</gifUrl>
+        <id>0586</id>
+        <name>lever lying leg curl</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>leverage machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3195.gif</gifUrl>
+        <id>3195</id>
+        <name>lever lying two-one leg curl</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>leverage machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0599.gif</gifUrl>
+        <id>0599</id>
+        <name>lever seated leg curl</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0648.gif</gifUrl>
+        <id>0648</id>
+        <name>power clean</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>rope</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1582.gif</gifUrl>
+        <id>1582</id>
+        <name>reclining big toe pose with rope</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1585.gif</gifUrl>
+        <id>1585</id>
+        <name>runners stretch</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1587.gif</gifUrl>
+        <id>1587</id>
+        <name>seated wide angle pose sequence</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0697.gif</gifUrl>
+        <id>0697</id>
+        <name>self assisted inverse leg curl</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1766.gif</gifUrl>
+        <id>1766</id>
+        <name>self assisted inverse leg curl</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0696.gif</gifUrl>
+        <id>0696</id>
+        <name>self assisted inverse leg curl (on floor)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0730.gif</gifUrl>
+        <id>0730</id>
+        <name>single leg platform slide</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>rope</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1599.gif</gifUrl>
+        <id>1599</id>
+        <name>standing hamstring and calf stretch with strap</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0795.gif</gifUrl>
+        <id>0795</id>
+        <name>standing single leg curl</name>
+      </exercise>
+      <exercise>
+        <bodyPart>upper legs</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1604.gif</gifUrl>
+        <id>1604</id>
+        <name>world greatest stretch</name>
+      </exercise>
+  </target>
+  <target name="Lats">
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0007.gif</gifUrl>
+        <id>0007</id>
+        <name>alternate lateral pulldown</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3293.gif</gifUrl>
+        <id>3293</id>
+        <name>archer pull up</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>leverage machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0015.gif</gifUrl>
+        <id>0015</id>
+        <name>assisted parallel close grip pull-up</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>leverage machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0017.gif</gifUrl>
+        <id>0017</id>
+        <name>assisted pull-up</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>leverage machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1431.gif</gifUrl>
+        <id>1431</id>
+        <name>assisted standing chin-up</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>leverage machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1432.gif</gifUrl>
+        <id>1432</id>
+        <name>assisted standing pull-up</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1405.gif</gifUrl>
+        <id>1405</id>
+        <name>back pec stretch</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>band</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0970.gif</gifUrl>
+        <id>0970</id>
+        <name>band assisted pull-up</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>band</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0974.gif</gifUrl>
+        <id>0974</id>
+        <name>band close-grip pulldown</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>band</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3117.gif</gifUrl>
+        <id>3117</id>
+        <name>band fixed back close grip pulldown</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>band</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3116.gif</gifUrl>
+        <id>3116</id>
+        <name>band fixed back underhand pulldown</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>band</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0983.gif</gifUrl>
+        <id>0983</id>
+        <name>band kneeling one arm pulldown</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>band</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1013.gif</gifUrl>
+        <id>1013</id>
+        <name>band underhand pulldown</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1316.gif</gifUrl>
+        <id>1316</id>
+        <name>barbell bent arm pullover</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0034.gif</gifUrl>
+        <id>0034</id>
+        <name>barbell decline bent arm pullover</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0037.gif</gifUrl>
+        <id>0037</id>
+        <name>barbell decline wide-grip pullover</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0073.gif</gifUrl>
+        <id>0073</id>
+        <name>barbell pullover</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0022.gif</gifUrl>
+        <id>0022</id>
+        <name>barbell pullover to press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3019.gif</gifUrl>
+        <id>3019</id>
+        <name>bench pull-ups</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0150.gif</gifUrl>
+        <id>0150</id>
+        <name>cable bar lateral pulldown</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0153.gif</gifUrl>
+        <id>0153</id>
+        <name>cable cross-over lateral pulldown</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0172.gif</gifUrl>
+        <id>0172</id>
+        <name>cable incline pushdown</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/2330.gif</gifUrl>
+        <id>2330</id>
+        <name>cable lat pulldown full range of motion</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0177.gif</gifUrl>
+        <id>0177</id>
+        <name>cable lateral pulldown (with rope attachment)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/2616.gif</gifUrl>
+        <id>2616</id>
+        <name>cable lateral pulldown with v-bar</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0184.gif</gifUrl>
+        <id>0184</id>
+        <name>cable lying extension pullover (with rope attachment)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3563.gif</gifUrl>
+        <id>3563</id>
+        <name>cable one arm pulldown</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0198.gif</gifUrl>
+        <id>0198</id>
+        <name>cable pulldown</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0197.gif</gifUrl>
+        <id>0197</id>
+        <name>cable pulldown (pro lat bar)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0199.gif</gifUrl>
+        <id>0199</id>
+        <name>cable pushdown (straight arm) v. 2</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0205.gif</gifUrl>
+        <id>0205</id>
+        <name>cable rear pulldown</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0213.gif</gifUrl>
+        <id>0213</id>
+        <name>cable seated high row (v-bar)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1717.gif</gifUrl>
+        <id>1717</id>
+        <name>cable squat row (with rope attachment)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0238.gif</gifUrl>
+        <id>0238</id>
+        <name>cable straight arm pulldown</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0237.gif</gifUrl>
+        <id>0237</id>
+        <name>cable straight arm pulldown (with rope)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/2464.gif</gifUrl>
+        <id>2464</id>
+        <name>cable thibaudeau kayak row</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0244.gif</gifUrl>
+        <id>0244</id>
+        <name>cable twisting pull</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0245.gif</gifUrl>
+        <id>0245</id>
+        <name>cable underhand pulldown</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1325.gif</gifUrl>
+        <id>1325</id>
+        <name>cable wide grip rear pulldown behind neck</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1326.gif</gifUrl>
+        <id>1326</id>
+        <name>chin-up</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1327.gif</gifUrl>
+        <id>1327</id>
+        <name>close grip chin-up</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>stability ball</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1332.gif</gifUrl>
+        <id>1332</id>
+        <name>exercise ball alternating arm ups</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>stability ball</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1339.gif</gifUrl>
+        <id>1339</id>
+        <name>exercise ball lat stretch</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>stability ball</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1341.gif</gifUrl>
+        <id>1341</id>
+        <name>exercise ball lower back stretch (pyramid)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>stability ball</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1342.gif</gifUrl>
+        <id>1342</id>
+        <name>exercise ball lying side lat stretch</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>ez barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3010.gif</gifUrl>
+        <id>3010</id>
+        <name>ez bar lying bent arms pullover</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0466.gif</gifUrl>
+        <id>0466</id>
+        <name>gironda sternum chin</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0558.gif</gifUrl>
+        <id>0558</id>
+        <name>kipping muscle up</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1346.gif</gifUrl>
+        <id>1346</id>
+        <name>kneeling lat stretch</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3418.gif</gifUrl>
+        <id>3418</id>
+        <name>l-pull-up</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>leverage machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0572.gif</gifUrl>
+        <id>0572</id>
+        <name>lever assisted chin-up</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>leverage machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0579.gif</gifUrl>
+        <id>0579</id>
+        <name>lever front pulldown</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>leverage machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1347.gif</gifUrl>
+        <id>1347</id>
+        <name>lever one arm lateral wide pulldown </name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>leverage machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/2285.gif</gifUrl>
+        <id>2285</id>
+        <name>lever pullover </name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>leverage machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/2736.gif</gifUrl>
+        <id>2736</id>
+        <name>lever reverse grip lateral pulldown </name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>medicine ball</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1353.gif</gifUrl>
+        <id>1353</id>
+        <name>medicine ball catch and overhead throw</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0627.gif</gifUrl>
+        <id>0627</id>
+        <name>mixed grip chin-up</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0631.gif</gifUrl>
+        <id>0631</id>
+        <name>muscle up</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1401.gif</gifUrl>
+        <id>1401</id>
+        <name>muscle-up (on vertical bar)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1355.gif</gifUrl>
+        <id>1355</id>
+        <name>one arm against wall</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0638.gif</gifUrl>
+        <id>0638</id>
+        <name>one arm chin-up</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0651.gif</gifUrl>
+        <id>0651</id>
+        <name>pull up (neutral grip)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0652.gif</gifUrl>
+        <id>0652</id>
+        <name>pull-up</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0670.gif</gifUrl>
+        <id>0670</id>
+        <name>rear pull-up</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>leverage machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0673.gif</gifUrl>
+        <id>0673</id>
+        <name>reverse grip machine lat pulldown</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0674.gif</gifUrl>
+        <id>0674</id>
+        <name>reverse grip pull-up</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0678.gif</gifUrl>
+        <id>0678</id>
+        <name>rocky pull-up pulldown</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>roller</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/2207.gif</gifUrl>
+        <id>2207</id>
+        <name>roller side lat stretch</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0690.gif</gifUrl>
+        <id>0690</id>
+        <name>seated lower back stretch</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1763.gif</gifUrl>
+        <id>1763</id>
+        <name>shoulder grip pull-up</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1358.gif</gifUrl>
+        <id>1358</id>
+        <name>side lying floor stretch</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0720.gif</gifUrl>
+        <id>0720</id>
+        <name>side-to-side chin</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0794.gif</gifUrl>
+        <id>0794</id>
+        <name>standing lateral stretch</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0818.gif</gifUrl>
+        <id>0818</id>
+        <name>twin handle parallel grip lat pulldown</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>weighted</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/2987.gif</gifUrl>
+        <id>2987</id>
+        <name>weighted close grip chin-up on dip cage</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>weighted</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3286.gif</gifUrl>
+        <id>3286</id>
+        <name>weighted muscle up</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>weighted</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3312.gif</gifUrl>
+        <id>3312</id>
+        <name>weighted muscle up (on bar)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>weighted</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3290.gif</gifUrl>
+        <id>3290</id>
+        <name>weighted one hand pull up</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>weighted</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0841.gif</gifUrl>
+        <id>0841</id>
+        <name>weighted pull-up</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1429.gif</gifUrl>
+        <id>1429</id>
+        <name>wide grip pull-up</name>
+      </exercise>
+      <exercise>
+        <bodyPart>back</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1367.gif</gifUrl>
+        <id>1367</id>
+        <name>wide grip rear pull-up</name>
+      </exercise>
+  </target>
+  <target name="Levator Scapulae">
+      <exercise>
+        <bodyPart>neck</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1403.gif</gifUrl>
+        <id>1403</id>
+        <name>neck side stretch</name>
+      </exercise>
+      <exercise>
+        <bodyPart>neck</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0716.gif</gifUrl>
+        <id>0716</id>
+        <name>side push neck stretch</name>
+      </exercise>
+  </target>
+  <target name="Pectorals">
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3294.gif</gifUrl>
+        <id>3294</id>
+        <name>archer push up</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>leverage machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0009.gif</gifUrl>
+        <id>0009</id>
+        <name>assisted chest dip (kneeling)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>assisted</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1716.gif</gifUrl>
+        <id>1716</id>
+        <name>assisted seated pectoralis major stretch with stability ball</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>leverage machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/2364.gif</gifUrl>
+        <id>2364</id>
+        <name>assisted wide-grip chest dip (kneeling)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>band</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1254.gif</gifUrl>
+        <id>1254</id>
+        <name>band bench press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>band</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0989.gif</gifUrl>
+        <id>0989</id>
+        <name>band one arm twisting chest press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0025.gif</gifUrl>
+        <id>0025</id>
+        <name>barbell bench press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0033.gif</gifUrl>
+        <id>0033</id>
+        <name>barbell decline bench press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1255.gif</gifUrl>
+        <id>1255</id>
+        <name>barbell decline pullover</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0036.gif</gifUrl>
+        <id>0036</id>
+        <name>barbell decline wide-grip press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0040.gif</gifUrl>
+        <id>0040</id>
+        <name>barbell front raise and pullover</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0045.gif</gifUrl>
+        <id>0045</id>
+        <name>barbell guillotine bench press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0047.gif</gifUrl>
+        <id>0047</id>
+        <name>barbell incline bench press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1256.gif</gifUrl>
+        <id>1256</id>
+        <name>barbell reverse grip decline bench press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1257.gif</gifUrl>
+        <id>1257</id>
+        <name>barbell reverse grip incline bench press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0122.gif</gifUrl>
+        <id>0122</id>
+        <name>barbell wide bench press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1258.gif</gifUrl>
+        <id>1258</id>
+        <name>barbell wide reverse grip bench press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>assisted</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1259.gif</gifUrl>
+        <id>1259</id>
+        <name>behind head chest stretch</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0151.gif</gifUrl>
+        <id>0151</id>
+        <name>cable bench press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0155.gif</gifUrl>
+        <id>0155</id>
+        <name>cable cross-over variation</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0158.gif</gifUrl>
+        <id>0158</id>
+        <name>cable decline fly</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1260.gif</gifUrl>
+        <id>1260</id>
+        <name>cable decline one arm press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1261.gif</gifUrl>
+        <id>1261</id>
+        <name>cable decline press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0169.gif</gifUrl>
+        <id>0169</id>
+        <name>cable incline bench press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0171.gif</gifUrl>
+        <id>0171</id>
+        <name>cable incline fly</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0170.gif</gifUrl>
+        <id>0170</id>
+        <name>cable incline fly (on stability ball)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0179.gif</gifUrl>
+        <id>0179</id>
+        <name>cable low fly</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0185.gif</gifUrl>
+        <id>0185</id>
+        <name>cable lying fly</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0188.gif</gifUrl>
+        <id>0188</id>
+        <name>cable middle fly</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1262.gif</gifUrl>
+        <id>1262</id>
+        <name>cable one arm decline chest fly</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1263.gif</gifUrl>
+        <id>1263</id>
+        <name>cable one arm fly on exercise ball</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1264.gif</gifUrl>
+        <id>1264</id>
+        <name>cable one arm incline fly on exercise ball</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1265.gif</gifUrl>
+        <id>1265</id>
+        <name>cable one arm incline press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1266.gif</gifUrl>
+        <id>1266</id>
+        <name>cable one arm incline press on exercise ball</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0191.gif</gifUrl>
+        <id>0191</id>
+        <name>cable one arm lateral bent-over</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1267.gif</gifUrl>
+        <id>1267</id>
+        <name>cable one arm press on exercise ball</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1268.gif</gifUrl>
+        <id>1268</id>
+        <name>cable press on exercise ball</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/2144.gif</gifUrl>
+        <id>2144</id>
+        <name>cable seated chest press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0227.gif</gifUrl>
+        <id>0227</id>
+        <name>cable standing fly</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1269.gif</gifUrl>
+        <id>1269</id>
+        <name>cable standing up straight crossovers</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>cable</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1270.gif</gifUrl>
+        <id>1270</id>
+        <name>cable upper chest crossovers</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1271.gif</gifUrl>
+        <id>1271</id>
+        <name>chest and front of shoulder stretch</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0251.gif</gifUrl>
+        <id>0251</id>
+        <name>chest dip</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1430.gif</gifUrl>
+        <id>1430</id>
+        <name>chest dip (on dip-pull-up cage)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/2462.gif</gifUrl>
+        <id>2462</id>
+        <name>chest dip on straight bar</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>stability ball</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1272.gif</gifUrl>
+        <id>1272</id>
+        <name>chest stretch with exercise ball</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3216.gif</gifUrl>
+        <id>3216</id>
+        <name>chest tap push-up (male)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1273.gif</gifUrl>
+        <id>1273</id>
+        <name>clap push up</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0258.gif</gifUrl>
+        <id>0258</id>
+        <name>clock push-up</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0279.gif</gifUrl>
+        <id>0279</id>
+        <name>decline push-up</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1274.gif</gifUrl>
+        <id>1274</id>
+        <name>deep push up</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1275.gif</gifUrl>
+        <id>1275</id>
+        <name>drop push up</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0288.gif</gifUrl>
+        <id>0288</id>
+        <name>dumbbell around pullover</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0289.gif</gifUrl>
+        <id>0289</id>
+        <name>dumbbell bench press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0301.gif</gifUrl>
+        <id>0301</id>
+        <name>dumbbell decline bench press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0302.gif</gifUrl>
+        <id>0302</id>
+        <name>dumbbell decline fly</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0303.gif</gifUrl>
+        <id>0303</id>
+        <name>dumbbell decline hammer press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1276.gif</gifUrl>
+        <id>1276</id>
+        <name>dumbbell decline one arm fly</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0307.gif</gifUrl>
+        <id>0307</id>
+        <name>dumbbell decline twist fly</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0308.gif</gifUrl>
+        <id>0308</id>
+        <name>dumbbell fly</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1277.gif</gifUrl>
+        <id>1277</id>
+        <name>dumbbell fly on exercise ball</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3545.gif</gifUrl>
+        <id>3545</id>
+        <name>dumbbell incline alternate press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0314.gif</gifUrl>
+        <id>0314</id>
+        <name>dumbbell incline bench press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0316.gif</gifUrl>
+        <id>0316</id>
+        <name>dumbbell incline breeding</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0319.gif</gifUrl>
+        <id>0319</id>
+        <name>dumbbell incline fly</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1278.gif</gifUrl>
+        <id>1278</id>
+        <name>dumbbell incline fly on exercise ball</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0321.gif</gifUrl>
+        <id>0321</id>
+        <name>dumbbell incline hammer press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1279.gif</gifUrl>
+        <id>1279</id>
+        <name>dumbbell incline one arm fly</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1280.gif</gifUrl>
+        <id>1280</id>
+        <name>dumbbell incline one arm fly on exercise ball</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1281.gif</gifUrl>
+        <id>1281</id>
+        <name>dumbbell incline one arm press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1282.gif</gifUrl>
+        <id>1282</id>
+        <name>dumbbell incline one arm press on exercise ball</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0324.gif</gifUrl>
+        <id>0324</id>
+        <name>dumbbell incline palm-in press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1283.gif</gifUrl>
+        <id>1283</id>
+        <name>dumbbell incline press on exercise ball</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0331.gif</gifUrl>
+        <id>0331</id>
+        <name>dumbbell incline twisted flyes</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0340.gif</gifUrl>
+        <id>0340</id>
+        <name>dumbbell lying hammer press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0343.gif</gifUrl>
+        <id>0343</id>
+        <name>dumbbell lying one arm press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0342.gif</gifUrl>
+        <id>0342</id>
+        <name>dumbbell lying one arm press v. 2</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1284.gif</gifUrl>
+        <id>1284</id>
+        <name>dumbbell lying pullover on exercise ball</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1285.gif</gifUrl>
+        <id>1285</id>
+        <name>dumbbell one arm bench fly</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1286.gif</gifUrl>
+        <id>1286</id>
+        <name>dumbbell one arm chest fly on exercise ball</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1287.gif</gifUrl>
+        <id>1287</id>
+        <name>dumbbell one arm decline chest press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1288.gif</gifUrl>
+        <id>1288</id>
+        <name>dumbbell one arm fly on exercise ball</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1289.gif</gifUrl>
+        <id>1289</id>
+        <name>dumbbell one arm incline chest press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1290.gif</gifUrl>
+        <id>1290</id>
+        <name>dumbbell one arm press on exercise ball</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1291.gif</gifUrl>
+        <id>1291</id>
+        <name>dumbbell one arm pullover on exercise ball</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1622.gif</gifUrl>
+        <id>1622</id>
+        <name>dumbbell one arm reverse grip press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1292.gif</gifUrl>
+        <id>1292</id>
+        <name>dumbbell one leg fly on exercise ball</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1293.gif</gifUrl>
+        <id>1293</id>
+        <name>dumbbell press on exercise ball</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0375.gif</gifUrl>
+        <id>0375</id>
+        <name>dumbbell pullover</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1294.gif</gifUrl>
+        <id>1294</id>
+        <name>dumbbell pullover hip extension on exercise ball</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1295.gif</gifUrl>
+        <id>1295</id>
+        <name>dumbbell pullover on exercise ball</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1624.gif</gifUrl>
+        <id>1624</id>
+        <name>dumbbell reverse bench press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0433.gif</gifUrl>
+        <id>0433</id>
+        <name>dumbbell straight arm pullover</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1167.gif</gifUrl>
+        <id>1167</id>
+        <name>dynamic chest stretch (male)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>stability ball</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1296.gif</gifUrl>
+        <id>1296</id>
+        <name>exercise ball pike push up</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>barbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0458.gif</gifUrl>
+        <id>0458</id>
+        <name>floor fly (with barbell)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3327.gif</gifUrl>
+        <id>3327</id>
+        <name>full planche push-up</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>upper body ergometer</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/2139.gif</gifUrl>
+        <id>2139</id>
+        <name>hands bike</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>dumbbell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3234.gif</gifUrl>
+        <id>3234</id>
+        <name>hyght dumbbell fly</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0492.gif</gifUrl>
+        <id>0492</id>
+        <name>incline push up depth jump</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0493.gif</gifUrl>
+        <id>0493</id>
+        <name>incline push-up</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3785.gif</gifUrl>
+        <id>3785</id>
+        <name>incline push-up (on box)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0494.gif</gifUrl>
+        <id>0494</id>
+        <name>incline reverse grip push-up</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1297.gif</gifUrl>
+        <id>1297</id>
+        <name>isometric chest squeeze</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0500.gif</gifUrl>
+        <id>0500</id>
+        <name>isometric wipers</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>kettlebell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0519.gif</gifUrl>
+        <id>0519</id>
+        <name>kettlebell alternating press on floor</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>kettlebell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0531.gif</gifUrl>
+        <id>0531</id>
+        <name>kettlebell extended range one arm press on floor</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>kettlebell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1298.gif</gifUrl>
+        <id>1298</id>
+        <name>kettlebell one arm floor press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>kettlebell</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0545.gif</gifUrl>
+        <id>0545</id>
+        <name>kettlebell plyo push-up</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3211.gif</gifUrl>
+        <id>3211</id>
+        <name>kneeling push-up (male)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3288.gif</gifUrl>
+        <id>3288</id>
+        <name>korean dips</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>leverage machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0577.gif</gifUrl>
+        <id>0577</id>
+        <name>lever chest press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>leverage machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0576.gif</gifUrl>
+        <id>0576</id>
+        <name>lever chest press </name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>leverage machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1300.gif</gifUrl>
+        <id>1300</id>
+        <name>lever decline chest press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>leverage machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1299.gif</gifUrl>
+        <id>1299</id>
+        <name>lever incline chest press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>leverage machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1479.gif</gifUrl>
+        <id>1479</id>
+        <name>lever incline chest press v. 2</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>leverage machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0596.gif</gifUrl>
+        <id>0596</id>
+        <name>lever seated fly</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>leverage machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3758.gif</gifUrl>
+        <id>3758</id>
+        <name>lever standing chest press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>leverage machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1301.gif</gifUrl>
+        <id>1301</id>
+        <name>machine inner chest press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>medicine ball</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1302.gif</gifUrl>
+        <id>1302</id>
+        <name>medicine ball chest pass</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>medicine ball</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1303.gif</gifUrl>
+        <id>1303</id>
+        <name>medicine ball chest push from 3 point stance</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>medicine ball</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1304.gif</gifUrl>
+        <id>1304</id>
+        <name>medicine ball chest push multiple response</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>medicine ball</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1305.gif</gifUrl>
+        <id>1305</id>
+        <name>medicine ball chest push single response</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>medicine ball</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1312.gif</gifUrl>
+        <id>1312</id>
+        <name>medicine ball chest push with run release</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3217.gif</gifUrl>
+        <id>3217</id>
+        <name>modified hindu push-up (male)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1306.gif</gifUrl>
+        <id>1306</id>
+        <name>plyo push up</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1689.gif</gifUrl>
+        <id>1689</id>
+        <name>push and pull bodyweight</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>bosu ball</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1307.gif</gifUrl>
+        <id>1307</id>
+        <name>push up on bosu ball</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0662.gif</gifUrl>
+        <id>0662</id>
+        <name>push-up</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>bosu ball</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0653.gif</gifUrl>
+        <id>0653</id>
+        <name>push-up (bosu ball)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>stability ball</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0655.gif</gifUrl>
+        <id>0655</id>
+        <name>push-up (on stability ball)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>stability ball</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0656.gif</gifUrl>
+        <id>0656</id>
+        <name>push-up (on stability ball)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0659.gif</gifUrl>
+        <id>0659</id>
+        <name>push-up (wall)</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0658.gif</gifUrl>
+        <id>0658</id>
+        <name>push-up (wall) v. 2</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>medicine ball</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0663.gif</gifUrl>
+        <id>0663</id>
+        <name>push-up medicine ball</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3145.gif</gifUrl>
+        <id>3145</id>
+        <name>push-up plus</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0666.gif</gifUrl>
+        <id>0666</id>
+        <name>raise single arm push-up</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>resistance band</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3124.gif</gifUrl>
+        <id>3124</id>
+        <name>resistance band seated chest press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>roller</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/2203.gif</gifUrl>
+        <id>2203</id>
+        <name>roller seated shoulder flexor depresor retractor</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>roller</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/2209.gif</gifUrl>
+        <id>2209</id>
+        <name>roller seated single leg shoulder flexor depresor retractor</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0699.gif</gifUrl>
+        <id>0699</id>
+        <name>shoulder tap push-up</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0725.gif</gifUrl>
+        <id>0725</id>
+        <name>single arm push-up</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>smith machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0748.gif</gifUrl>
+        <id>0748</id>
+        <name>smith bench press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>smith machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0753.gif</gifUrl>
+        <id>0753</id>
+        <name>smith decline bench press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>smith machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0754.gif</gifUrl>
+        <id>0754</id>
+        <name>smith decline reverse-grip press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>smith machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0757.gif</gifUrl>
+        <id>0757</id>
+        <name>smith incline bench press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>smith machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0758.gif</gifUrl>
+        <id>0758</id>
+        <name>smith incline reverse-grip press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>smith machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1626.gif</gifUrl>
+        <id>1626</id>
+        <name>smith machine reverse decline close grip bench press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>smith machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0764.gif</gifUrl>
+        <id>0764</id>
+        <name>smith reverse-grip press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>smith machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1308.gif</gifUrl>
+        <id>1308</id>
+        <name>smith wide grip bench press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>smith machine</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1309.gif</gifUrl>
+        <id>1309</id>
+        <name>smith wide grip decline bench press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0803.gif</gifUrl>
+        <id>0803</id>
+        <name>superman push-up</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0806.gif</gifUrl>
+        <id>0806</id>
+        <name>suspended push-up</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>weighted</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1310.gif</gifUrl>
+        <id>1310</id>
+        <name>weighted drop push up</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>weighted</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/3313.gif</gifUrl>
+        <id>3313</id>
+        <name>weighted straight bar dip</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>weighted</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/0856.gif</gifUrl>
+        <id>0856</id>
+        <name>weighted svend press</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/1311.gif</gifUrl>
+        <id>1311</id>
+        <name>wide hand push up</name>
+      </exercise>
+      <exercise>
+        <bodyPart>chest</bodyPart>
+        <equipment>body weight</equipment>
+        <gifUrl>http://d205bpvrqc9yn1.cloudfront.net/2363.gif</gifUrl>
+        <id>2363</id>
+        <name>wide-grip chest dip on high parallel bars</name>
+      </exercise>
+  </target>
+</fitness>
